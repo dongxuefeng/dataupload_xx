@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav</Extensions>
+    </Filter>
+    <Filter Include="xxlib">
+      <UniqueIdentifier>{61019e70-af3d-40ef-bde3-da91bebc9bdd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="bin">
+      <UniqueIdentifier>{61597894-91fa-45dd-94a3-a77b09dfb779}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\process_data">
+      <UniqueIdentifier>{d8725ae8-730d-4172-87bf-8dfeb8fe47e3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="check_file_path.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="FTP_Data.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="public.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="send_datafile.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="xxlib\plugin\user_plug_prcdata.cpp">
+      <Filter>xxlib</Filter>
+    </ClCompile>
+    <ClCompile Include="xxlib\c_windows_service.cpp">
+      <Filter>xxlib</Filter>
+    </ClCompile>
+    <ClCompile Include="process_data\process_datatostd.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="check_file_path.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="file_ctrl.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="public.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="xxlib\libini\ini_oper.h">
+      <Filter>xxlib</Filter>
+    </ClInclude>
+    <ClInclude Include="xxlib\plugin\user_plug_prcdata.h">
+      <Filter>xxlib</Filter>
+    </ClInclude>
+    <ClInclude Include="xxlib\c_windows_service.h">
+      <Filter>xxlib</Filter>
+    </ClInclude>
+    <ClInclude Include="process_data\cxx_xml.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="process_data\process_datatostd.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="process_data\iconv.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="write_log.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="c_time.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="replace_info.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Library Include="xxlib\libini\ini_oper.lib">
+      <Filter>xxlib</Filter>
+    </Library>
+    <Library Include="process_data\iconv.lib" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="xxlib\libini\ini_oper.dll">
+      <Filter>bin</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,622 @@
+
+2016-06-05 21:31:56:638[Log] msg:
+thread work begin!
+
+2016-06-05 21:31:57:028[Log] msg:
+<?xml version="1.0" encoding="UTF-8"?> <rootInfo><headInfo><devCode>6109010004</devCode><license>00000000</license><comName>0000000</comName><comWord>000000</comWord><sendTime>2016-06-05 13:09:43</sendTime><ver>1.2</ver></headInfo><vioInfo><roadcode>610901000004</roadcode><dcode>04</dcode><dcodeOther>2</dcodeOther><lcode>1</lcode><ltype>01</ltype><vioType>1352</vioType><vioTime>2016-06-05 09:12:11:510</vioTime><red_end_time></red_end_time><red_start_time></red_start_time><platenum>00000000</platenum><plateColor>4</plateColor><plateType>99</plateType><carClass>9</carClass><carColor>Z</carColor><carType>X99</carType><carBrand> </carBrand><speedCar>119</speedCar><speedStd>100</speedStd><speedStd_big>80</speedStd_big><speedStd_sml>100</speedStd_sml><img1_path>/20160605/6109010004/04/1/V_20160605091211510_2.jpg</img1_path><img2_path>/20160605/6109010004/04/1/V_20160605091211339_1.jpg</img2_path><img3_path></img3_path><img4_path></img4_path><img5_path></img5_path><img1_s_path></img1_s_path><img2_s_path></img2_s_path><img3_s_path></img3_s_path><img4_s_path></img4_s_path><img5_s_path></img5_s_path><img1_s_prm></img1_s_prm><img2_s_prm></img2_s_prm><img3_s_prm></img3_s_prm><img4_s_prm></img4_s_prm><img5_s_prm></img5_s_prm><video_path></video_path><img_flag>2</img_flag><ftp_flag>2</ftp_flag><valdate>10</valdate><isUpFile>1</isUpFile></vioInfo></rootInfo>
+
+
+2016-06-05 21:31:57:028[Log] msg:
+====================
+
+2016-06-05 21:31:57:028[Log] msg:
+20160605091211510_1_119_未识别_其他_99_0_04_1_6109010004_1352_hik.jpg
+
+2016-06-05 21:31:57:028[Log] msg:
+====================
+
+2016-06-05 21:31:57:043[Log] msg:
+....web service inpasscarinfo proc....
+
+2016-06-05 21:31:57:059[Log] msg:
+<?xml version="1.0" encoding="UTF-8"?> <rootInfo><headInfo><devCode>6109010004</devCode><license>00000000</license><comName>0000000</comName><comWord>000000</comWord><sendTime>2016-06-05 13:09:43</sendTime><ver>1.2</ver></headInfo><vioInfo><roadcode>610901000004</roadcode><dcode>04</dcode><dcodeOther>2</dcodeOther><lcode>1</lcode><ltype>01</ltype><vioType>1352</vioType><vioTime>2016-06-05 09:12:11:510</vioTime><red_end_time></red_end_time><red_start_time></red_start_time><platenum>00000000</platenum><plateColor>4</plateColor><plateType>99</plateType><carClass>9</carClass><carColor>Z</carColor><carType>X99</carType><carBrand> </carBrand><speedCar>119</speedCar><speedStd>100</speedStd><speedStd_big>80</speedStd_big><speedStd_sml>100</speedStd_sml><img1_path>/20160605/6109010004/04/1/V_20160605091211510_2.jpg</img1_path><img2_path>/20160605/6109010004/04/1/V_20160605091211339_1.jpg</img2_path><img3_path></img3_path><img4_path></img4_path><img5_path></img5_path><img1_s_path></img1_s_path><img2_s_path></img2_s_path><img3_s_path></img3_s_path><img4_s_path></img4_s_path><img5_s_path></img5_s_path><img1_s_prm></img1_s_prm><img2_s_prm></img2_s_prm><img3_s_prm></img3_s_prm><img4_s_prm></img4_s_prm><img5_s_prm></img5_s_prm><video_path></video_path><img_flag>2</img_flag><ftp_flag>2</ftp_flag><valdate>10</valdate><isUpFile>1</isUpFile></vioInfo></rootInfo>
+
+
+2016-06-05 21:31:57:059[Log] msg:
+====================
+
+2016-06-05 21:31:57:059[Log] msg:
+20160605091211510_1_119_未识别_其他_99_0_04_1_6109010004_1352_hik.jpg
+
+2016-06-05 21:31:57:059[Log] msg:
+====================
+
+2016-06-05 21:31:57:059[Log] msg:
+....web service inpasscarinfo proc....
+
+2016-06-05 21:31:57:106[Log] msg:
+<?xml version = "1.0" encoding = "GB2312"?><message System = "ATMS" Ver = "1.0"><systemtype>TGS</systemtype><messagetype>NOTICE</messagetype><sourceIP>3.0</sourceIP><targetIP></targetIP><user>PECCANCY</user><password>PECCANCY</password><peccancyinfo><sjly>2</sjly><hphm>未识别</hphm><hpzl>99</hpzl><wfsj>2016-06-05 09:12:11</wfsj><wfxw>13521</wfxw><wfnr>13521</wfnr><wfdd>610901000004</wfdd><wfdz>京昆高速大河坝</wfdz><cdbh>1</cdbh><fxbh>6109010000043</fxbh><clsd>119</clsd><clxs>80</clxs><zdxs>1</zdxs><cjjg>610901000010</cjjg><cjyh>9999</cjyh><cjsj>2016-06-05 09:12:11</cjsj><zqmj>9999</zqmj><bz></bz><zjwj1>http://10.176.102.31:808/20160605/6109010004/04/1/V_20160605091211510_2.jpg</zjwj1><zjwj2>http://10.176.102.31:808/20160605/6109010004/04/1/V_20160605091211339_1.jpg</zjwj2><zjwj3></zjwj3><zjwj4></zjwj4></peccancyinfo></message>
+
+2016-06-05 21:31:57:106[Log] msg:
+<?xml version="1.0" encoding="GB2312"?><message System="ATMS" Ver="1.0"><systemtype>TGS</systemtype><messagetype>FEEDBACK</messagetype><sourceIP>3.0</sourceIP><targetIP /><user /><password /><executeresult><recordid /><errordescription>CommonDataAccess类Execute_NonQuery1函数出错，错误信息：ORA-00001: 违反唯一约束条件 (TGS_ADMIN.UN_TMS_PECCANCY_TEMP)
+</errordescription><resultnum>-3</resultnum><resultdescription>执行失败！</resultdescription><errorcode>5002</errorcode></executeresult></message>
+
+2016-06-05 21:31:57:106[Log] msg:
+error[5002]:web service upload data fail!
+
+2016-06-05 21:31:57:121[Log] msg:
+10
+
+2016-06-05 21:31:57:121[Log] msg:
+send ok
+
+2016-06-05 21:31:57:137[Log] msg:
+<?xml version = "1.0" encoding = "GB2312"?><message System = "ATMS" Ver = "1.0"><systemtype>TGS</systemtype><messagetype>NOTICE</messagetype><sourceIP>3.0</sourceIP><targetIP></targetIP><user>PECCANCY</user><password>PECCANCY</password><peccancyinfo><sjly>2</sjly><hphm>未识别</hphm><hpzl>99</hpzl><wfsj>2016-06-05 09:12:11</wfsj><wfxw>13521</wfxw><wfnr>13521</wfnr><wfdd>610901000004</wfdd><wfdz>京昆高速大河坝</wfdz><cdbh>1</cdbh><fxbh>6109010000043</fxbh><clsd>119</clsd><clxs>80</clxs><zdxs>1</zdxs><cjjg>610901000010</cjjg><cjyh>9999</cjyh><cjsj>2016-06-05 09:12:11</cjsj><zqmj>9999</zqmj><bz></bz><zjwj1>http://10.176.102.31:808/20160605/6109010004/04/1/V_20160605091211510_2.jpg</zjwj1><zjwj2>http://10.176.102.31:808/20160605/6109010004/04/1/V_20160605091211339_1.jpg</zjwj2><zjwj3></zjwj3><zjwj4></zjwj4></peccancyinfo></message>
+
+2016-06-05 21:31:57:137[Log] msg:
+<?xml version="1.0" encoding="GB2312"?><message System="ATMS" Ver="1.0"><systemtype>TGS</systemtype><messagetype>FEEDBACK</messagetype><sourceIP>3.0</sourceIP><targetIP /><user /><password /><executeresult><recordid /><errordescription>CommonDataAccess类Execute_NonQuery1函数出错，错误信息：ORA-00001: 违反唯一约束条件 (TGS_ADMIN.UN_TMS_PECCANCY_TEMP)
+</errordescription><resultnum>-3</resultnum><resultdescription>执行失败！</resultdescription><errorcode>5002</errorcode></executeresult></message>
+
+2016-06-05 21:31:57:137[Log] msg:
+error[5002]:web service upload data fail!
+
+2016-06-05 21:31:57:168[Log] msg:
+QUIT
+
+
+2016-06-05 21:31:57:168[Log] msg:
+====================
+
+2016-06-05 21:31:57:168[Log] msg:
+
+
+2016-06-05 21:31:57:168[Log] msg:
+====================
+
+2016-06-05 21:32:13:345[Log] msg:
+thread work begin!
+
+2016-06-05 21:32:14:125[Log] msg:
+<?xml version="1.0" encoding="UTF-8"?> <rootInfo><headInfo><devCode>6109010002</devCode><license>00000000</license><comName>0000000</comName><comWord>000000</comWord><sendTime>2016-06-05 13:09:44</sendTime><ver>1.2</ver></headInfo><listInfo><roadcode>610901000002</roadcode><dcode>03</dcode><dcodeOther>1</dcodeOther><lcode>2</lcode><ltype>01</ltype><plateTime>2016-06-05 13:06:22:878</plateTime><plateFlag>1</plateFlag><fplateNum>闄旻8331D</fplateNum><fplateColor>2</fplateColor><fplateType>02</fplateType><carColor>E</carColor><carType>X99</carType><carBrand> </carBrand><carLength>0</carLength><carWidth>0</carWidth><img1_path>/20160605/6109010002/03/2/K_20160605130622878_2.jpg</img1_path><img2_path>/20160605/6109010002/03/2/K_20160605130622559_1.jpg</img2_path><img3_path></img3_path><img4_path></img4_path><img5_path></img5_path><img1_s_path>/20160605/6109010002/03/2/K_20160605130622878_3.jpg</img1_s_path><img2_s_path></img2_s_path><img3_s_path></img3_s_path><img4_s_path></img4_s_path><img5_s_path></img5_s_path><img1_s_prm>1,920,818,146,32</img1_s_prm><img2_s_prm></img2_s_prm><img3_s_prm></img3_s_prm><img4_s_prm></img4_s_prm><img5_s_prm></img5_s_prm><img_flag>2</img_flag><ftp_flag>2</ftp_flag><platePos></platePos><driverPos></driverPos><carSpeed>50</carSpeed><valdate>2504</valdate><isUpFile>1</isUpFile></listInfo></rootInfo>
+
+
+2016-06-05 21:32:14:125[Log] msg:
+====================
+
+2016-06-05 21:32:14:125[Log] msg:
+20160605130622878_0_50_陕F8331D_黄_02_02_03_2_6109010002_0_hik.jpg
+
+2016-06-05 21:32:14:141[Log] msg:
+====================
+
+2016-06-05 21:32:14:141[Log] msg:
+....web service inpasscarinfo proc....
+
+2016-06-05 21:32:14:156[Log] msg:
+<?xml version="1.0" encoding="UTF-8"?> <rootInfo><headInfo><devCode>6109010002</devCode><license>00000000</license><comName>0000000</comName><comWord>000000</comWord><sendTime>2016-06-05 13:09:44</sendTime><ver>1.2</ver></headInfo><listInfo><roadcode>610901000002</roadcode><dcode>03</dcode><dcodeOther>1</dcodeOther><lcode>2</lcode><ltype>01</ltype><plateTime>2016-06-05 13:06:22:878</plateTime><plateFlag>1</plateFlag><fplateNum>闄旻8331D</fplateNum><fplateColor>2</fplateColor><fplateType>02</fplateType><carColor>E</carColor><carType>X99</carType><carBrand> </carBrand><carLength>0</carLength><carWidth>0</carWidth><img1_path>/20160605/6109010002/03/2/K_20160605130622878_2.jpg</img1_path><img2_path>/20160605/6109010002/03/2/K_20160605130622559_1.jpg</img2_path><img3_path></img3_path><img4_path></img4_path><img5_path></img5_path><img1_s_path>/20160605/6109010002/03/2/K_20160605130622878_3.jpg</img1_s_path><img2_s_path></img2_s_path><img3_s_path></img3_s_path><img4_s_path></img4_s_path><img5_s_path></img5_s_path><img1_s_prm>1,920,818,146,32</img1_s_prm><img2_s_prm></img2_s_prm><img3_s_prm></img3_s_prm><img4_s_prm></img4_s_prm><img5_s_prm></img5_s_prm><img_flag>2</img_flag><ftp_flag>2</ftp_flag><platePos></platePos><driverPos></driverPos><carSpeed>50</carSpeed><valdate>2504</valdate><isUpFile>1</isUpFile></listInfo></rootInfo>
+
+
+2016-06-05 21:32:14:156[Log] msg:
+====================
+
+2016-06-05 21:32:14:156[Log] msg:
+20160605130622878_0_50_陕F8331D_黄_02_02_03_2_6109010002_0_hik.jpg
+
+2016-06-05 21:32:14:156[Log] msg:
+====================
+
+2016-06-05 21:32:14:172[Log] msg:
+....web service inpasscarinfo proc....
+
+2016-06-05 21:32:14:172[Log] msg:
+<?xml version = "1.0" encoding = "GB2312"?><message System = "ATMS" Ver = "1.0"><systemtype>TGS</systemtype><messagetype>NOTICE</messagetype><sourceIP>3.0</sourceIP><targetIP></targetIP><user>PASSCAR</user><password>PASSCAR</password><passcarinfo><kkid>6109010000020000</kkid><hphm>陕F8331D</hphm><hpys>黄</hpys><cllx>02</cllx><gwsj>2016-06-05 13:06:22</gwsj><fxbh>1</fxbh><cdbh>2</cdbh><clsd>50</clsd><zjwj1>http://10.176.102.31:808/20160605/6109010002/03/2/K_20160605130622878_2.jpg</zjwj1><zjwj2>http://10.176.102.31:808/20160605/6109010002/03/2/K_20160605130622559_1.jpg</zjwj2><zjwj3></zjwj3><zjwj4></zjwj4><jllx>0</jllx><cshm>878</cshm></passcarinfo></message>
+
+2016-06-05 21:32:14:172[Log] msg:
+<?xml version="1.0" encoding="GB2312"?><message System="ATMS" Ver="1.0"><systemtype>TGS</systemtype><messagetype>FEEDBACK</messagetype><sourceIP>3.0</sourceIP><targetIP /><user /><password /><executeresult><recordid>61090100000200000082320076</recordid><errordescription /><resultnum>1</resultnum><resultdescription>OperateSuccess</resultdescription><errorcode>0</errorcode></executeresult></message>
+
+2016-06-05 21:32:14:188[Log] msg:
+2504
+
+2016-06-05 21:32:14:188[Log] msg:
+send ok
+
+2016-06-05 21:32:14:203[Log] msg:
+<?xml version = "1.0" encoding = "GB2312"?><message System = "ATMS" Ver = "1.0"><systemtype>TGS</systemtype><messagetype>NOTICE</messagetype><sourceIP>3.0</sourceIP><targetIP></targetIP><user>PASSCAR</user><password>PASSCAR</password><passcarinfo><kkid>6109010000020000</kkid><hphm>陕F8331D</hphm><hpys>黄</hpys><cllx>02</cllx><gwsj>2016-06-05 13:06:22</gwsj><fxbh>1</fxbh><cdbh>2</cdbh><clsd>50</clsd><zjwj1>http://10.176.102.31:808/20160605/6109010002/03/2/K_20160605130622878_2.jpg</zjwj1><zjwj2>http://10.176.102.31:808/20160605/6109010002/03/2/K_20160605130622559_1.jpg</zjwj2><zjwj3></zjwj3><zjwj4></zjwj4><jllx>0</jllx><cshm>878</cshm></passcarinfo></message>
+
+2016-06-05 21:32:14:203[Log] msg:
+<?xml version="1.0" encoding="GB2312"?><message System="ATMS" Ver="1.0"><systemtype>TGS</systemtype><messagetype>FEEDBACK</messagetype><sourceIP>3.0</sourceIP><targetIP /><user /><password /><executeresult><recordid>61090100000200000082320077</recordid><errordescription /><resultnum>1</resultnum><resultdescription>OperateSuccess</resultdescription><errorcode>0</errorcode></executeresult></message>
+
+2016-06-05 21:32:14:203[Log] msg:
+<?xml version="1.0" encoding="UTF-8"?> <rootInfo><headInfo><devCode>6109010004</devCode><license>00000000</license><comName>0000000</comName><comWord>000000</comWord><sendTime>2016-06-05 13:09:43</sendTime><ver>1.2</ver></headInfo><vioInfo><roadcode>610901000004</roadcode><dcode>04</dcode><dcodeOther>2</dcodeOther><lcode>1</lcode><ltype>01</ltype><vioType>1352</vioType><vioTime>2016-06-05 09:12:11:510</vioTime><red_end_time></red_end_time><red_start_time></red_start_time><platenum>00000000</platenum><plateColor>4</plateColor><plateType>99</plateType><carClass>9</carClass><carColor>Z</carColor><carType>X99</carType><carBrand> </carBrand><speedCar>119</speedCar><speedStd>100</speedStd><speedStd_big>80</speedStd_big><speedStd_sml>100</speedStd_sml><img1_path>/20160605/6109010004/04/1/V_20160605091211510_2.jpg</img1_path><img2_path>/20160605/6109010004/04/1/V_20160605091211339_1.jpg</img2_path><img3_path></img3_path><img4_path></img4_path><img5_path></img5_path><img1_s_path></img1_s_path><img2_s_path></img2_s_path><img3_s_path></img3_s_path><img4_s_path></img4_s_path><img5_s_path></img5_s_path><img1_s_prm></img1_s_prm><img2_s_prm></img2_s_prm><img3_s_prm></img3_s_prm><img4_s_prm></img4_s_prm><img5_s_prm></img5_s_prm><video_path></video_path><img_flag>2</img_flag><ftp_flag>2</ftp_flag><valdate>10</valdate><isUpFile>1</isUpFile></vioInfo></rootInfo>
+
+
+2016-06-05 21:32:14:203[Log] msg:
+====================
+
+2016-06-05 21:32:14:203[Log] msg:
+20160605091211510_1_119_未识别_其他_99_0_04_1_6109010004_1352_hik.jpg
+
+2016-06-05 21:32:14:219[Log] msg:
+====================
+
+2016-06-05 21:32:14:219[Log] msg:
+....web service inpasscarinfo proc....
+
+2016-06-05 21:32:14:297[Log] msg:
+<?xml version = "1.0" encoding = "GB2312"?><message System = "ATMS" Ver = "1.0"><systemtype>TGS</systemtype><messagetype>NOTICE</messagetype><sourceIP>3.0</sourceIP><targetIP></targetIP><user>PECCANCY</user><password>PECCANCY</password><peccancyinfo><sjly>2</sjly><hphm>未识别</hphm><hpzl>99</hpzl><wfsj>2016-06-05 09:12:11</wfsj><wfxw>13521</wfxw><wfnr>13521</wfnr><wfdd>610901000004</wfdd><wfdz>京昆高速大河坝</wfdz><cdbh>1</cdbh><fxbh>6109010000043</fxbh><clsd>119</clsd><clxs>80</clxs><zdxs>1</zdxs><cjjg>610901000010</cjjg><cjyh>9999</cjyh><cjsj>2016-06-05 09:12:11</cjsj><zqmj>9999</zqmj><bz></bz><zjwj1>http://10.176.102.31:808/20160605/6109010004/04/1/V_20160605091211510_2.jpg</zjwj1><zjwj2>http://10.176.102.31:808/20160605/6109010004/04/1/V_20160605091211339_1.jpg</zjwj2><zjwj3></zjwj3><zjwj4></zjwj4></peccancyinfo></message>
+
+2016-06-05 21:32:14:297[Log] msg:
+<?xml version="1.0" encoding="GB2312"?><message System="ATMS" Ver="1.0"><systemtype>TGS</systemtype><messagetype>FEEDBACK</messagetype><sourceIP>3.0</sourceIP><targetIP /><user /><password /><executeresult><recordid /><errordescription>CommonDataAccess类Execute_NonQuery1函数出错，错误信息：ORA-00001: 违反唯一约束条件 (TGS_ADMIN.UN_TMS_PECCANCY_TEMP)
+</errordescription><resultnum>-3</resultnum><resultdescription>执行失败！</resultdescription><errorcode>5002</errorcode></executeresult></message>
+
+2016-06-05 21:32:14:297[Log] msg:
+error[5002]:web service upload data fail!
+
+2016-06-05 21:32:14:312[Log] msg:
+10
+
+2016-06-05 21:32:14:312[Log] msg:
+send ok
+
+2016-06-05 21:32:14:546[Log] msg:
+CWD /20160604/6109010001/03/2
+
+
+2016-06-05 21:32:14:546[Log] msg:
+====================
+
+2016-06-05 21:32:14:546[Log] msg:
+
+
+2016-06-05 21:32:14:546[Log] msg:
+====================
+
+2016-06-05 21:37:24:456[Log] msg:
+thread work begin!
+
+2016-06-05 21:37:25:018[Log] msg:
+<?xml version="1.0" encoding="UTF-8"?> <rootInfo><headInfo><devCode>6109010004</devCode><license>00000000</license><comName>0000000</comName><comWord>000000</comWord><sendTime>2016-06-05 13:09:43</sendTime><ver>1.2</ver></headInfo><vioInfo><roadcode>610901000004</roadcode><dcode>04</dcode><dcodeOther>2</dcodeOther><lcode>1</lcode><ltype>01</ltype><vioType>1352</vioType><vioTime>2016-06-05 09:12:11:510</vioTime><red_end_time></red_end_time><red_start_time></red_start_time><platenum>00000000</platenum><plateColor>4</plateColor><plateType>99</plateType><carClass>9</carClass><carColor>Z</carColor><carType>X99</carType><carBrand> </carBrand><speedCar>119</speedCar><speedStd>100</speedStd><speedStd_big>80</speedStd_big><speedStd_sml>100</speedStd_sml><img1_path>/20160605/6109010004/04/1/V_20160605091211510_2.jpg</img1_path><img2_path>/20160605/6109010004/04/1/V_20160605091211339_1.jpg</img2_path><img3_path></img3_path><img4_path></img4_path><img5_path></img5_path><img1_s_path></img1_s_path><img2_s_path></img2_s_path><img3_s_path></img3_s_path><img4_s_path></img4_s_path><img5_s_path></img5_s_path><img1_s_prm></img1_s_prm><img2_s_prm></img2_s_prm><img3_s_prm></img3_s_prm><img4_s_prm></img4_s_prm><img5_s_prm></img5_s_prm><video_path></video_path><img_flag>2</img_flag><ftp_flag>2</ftp_flag><valdate>10</valdate><isUpFile>1</isUpFile></vioInfo></rootInfo>
+
+
+2016-06-05 21:37:25:033[Log] msg:
+====================
+
+2016-06-05 21:37:25:033[Log] msg:
+20160605091211510_1_119_未识别_其他_99_0_04_1_6109010004_1352_hik.jpg
+
+2016-06-05 21:37:25:033[Log] msg:
+====================
+
+2016-06-05 21:37:25:049[Log] msg:
+<?xml version="1.0" encoding="UTF-8"?> <rootInfo><headInfo><devCode>6109010004</devCode><license>00000000</license><comName>0000000</comName><comWord>000000</comWord><sendTime>2016-06-05 13:09:43</sendTime><ver>1.2</ver></headInfo><vioInfo><roadcode>610901000004</roadcode><dcode>04</dcode><dcodeOther>2</dcodeOther><lcode>1</lcode><ltype>01</ltype><vioType>1352</vioType><vioTime>2016-06-05 09:12:11:510</vioTime><red_end_time></red_end_time><red_start_time></red_start_time><platenum>00000000</platenum><plateColor>4</plateColor><plateType>99</plateType><carClass>9</carClass><carColor>Z</carColor><carType>X99</carType><carBrand> </carBrand><speedCar>119</speedCar><speedStd>100</speedStd><speedStd_big>80</speedStd_big><speedStd_sml>100</speedStd_sml><img1_path>/20160605/6109010004/04/1/V_20160605091211510_2.jpg</img1_path><img2_path>/20160605/6109010004/04/1/V_20160605091211339_1.jpg</img2_path><img3_path></img3_path><img4_path></img4_path><img5_path></img5_path><img1_s_path></img1_s_path><img2_s_path></img2_s_path><img3_s_path></img3_s_path><img4_s_path></img4_s_path><img5_s_path></img5_s_path><img1_s_prm></img1_s_prm><img2_s_prm></img2_s_prm><img3_s_prm></img3_s_prm><img4_s_prm></img4_s_prm><img5_s_prm></img5_s_prm><video_path></video_path><img_flag>2</img_flag><ftp_flag>2</ftp_flag><valdate>10</valdate><isUpFile>1</isUpFile></vioInfo></rootInfo>
+
+
+2016-06-05 21:37:25:064[Log] msg:
+....web service inpasscarinfo proc....
+
+2016-06-05 21:37:25:064[Log] msg:
+====================
+
+2016-06-05 21:37:25:064[Log] msg:
+20160605091211510_1_119_未识别_其他_99_0_04_1_6109010004_1352_hik.jpg
+
+2016-06-05 21:37:25:064[Log] msg:
+====================
+
+2016-06-05 21:37:25:080[Log] msg:
+....web service inpasscarinfo proc....
+
+2016-06-05 21:37:25:158[Log] msg:
+<?xml version = "1.0" encoding = "GB2312"?><message System = "ATMS" Ver = "1.0"><systemtype>TGS</systemtype><messagetype>NOTICE</messagetype><sourceIP>3.0</sourceIP><targetIP></targetIP><user>PECCANCY</user><password>PECCANCY</password><peccancyinfo><sjly>2</sjly><hphm>未识别</hphm><hpzl>99</hpzl><wfsj>2016-06-05 09:12:11</wfsj><wfxw>13521</wfxw><wfnr>13521</wfnr><wfdd>610901000004</wfdd><wfdz>京昆高速大河坝</wfdz><cdbh>1</cdbh><fxbh>6109010000043</fxbh><clsd>119</clsd><clxs>80</clxs><zdxs>1</zdxs><cjjg>610901000010</cjjg><cjyh>9999</cjyh><cjsj>2016-06-05 09:12:11</cjsj><zqmj>9999</zqmj><bz></bz><zjwj1>http://10.176.102.31:808/20160605/6109010004/04/1/V_20160605091211510_2.jpg</zjwj1><zjwj2>http://10.176.102.31:808/20160605/6109010004/04/1/V_20160605091211339_1.jpg</zjwj2><zjwj3></zjwj3><zjwj4></zjwj4></peccancyinfo></message>
+
+2016-06-05 21:37:25:158[Log] msg:
+<?xml version="1.0" encoding="GB2312"?><message System="ATMS" Ver="1.0"><systemtype>TGS</systemtype><messagetype>FEEDBACK</messagetype><sourceIP>3.0</sourceIP><targetIP /><user /><password /><executeresult><recordid /><errordescription>CommonDataAccess类Execute_NonQuery1函数出错，错误信息：ORA-00001: 违反唯一约束条件 (TGS_ADMIN.UN_TMS_PECCANCY_TEMP)
+</errordescription><resultnum>-3</resultnum><resultdescription>执行失败！</resultdescription><errorcode>5002</errorcode></executeresult></message>
+
+2016-06-05 21:37:25:158[Log] msg:
+error[5002]:web service upload data fail!
+
+2016-06-05 21:37:25:205[Log] msg:
+<?xml version = "1.0" encoding = "GB2312"?><message System = "ATMS" Ver = "1.0"><systemtype>TGS</systemtype><messagetype>NOTICE</messagetype><sourceIP>3.0</sourceIP><targetIP></targetIP><user>PECCANCY</user><password>PECCANCY</password><peccancyinfo><sjly>2</sjly><hphm>未识别</hphm><hpzl>99</hpzl><wfsj>2016-06-05 09:12:11</wfsj><wfxw>13521</wfxw><wfnr>13521</wfnr><wfdd>610901000004</wfdd><wfdz>京昆高速大河坝</wfdz><cdbh>1</cdbh><fxbh>6109010000043</fxbh><clsd>119</clsd><clxs>80</clxs><zdxs>1</zdxs><cjjg>610901000010</cjjg><cjyh>9999</cjyh><cjsj>2016-06-05 09:12:11</cjsj><zqmj>9999</zqmj><bz></bz><zjwj1>http://10.176.102.31:808/20160605/6109010004/04/1/V_20160605091211510_2.jpg</zjwj1><zjwj2>http://10.176.102.31:808/20160605/6109010004/04/1/V_20160605091211339_1.jpg</zjwj2><zjwj3></zjwj3><zjwj4></zjwj4></peccancyinfo></message>
+
+2016-06-05 21:37:25:205[Log] msg:
+<?xml version="1.0" encoding="GB2312"?><message System="ATMS" Ver="1.0"><systemtype>TGS</systemtype><messagetype>FEEDBACK</messagetype><sourceIP>3.0</sourceIP><targetIP /><user /><password /><executeresult><recordid /><errordescription>CommonDataAccess类Execute_NonQuery1函数出错，错误信息：ORA-00001: 违反唯一约束条件 (TGS_ADMIN.UN_TMS_PECCANCY_TEMP)
+</errordescription><resultnum>-3</resultnum><resultdescription>执行失败！</resultdescription><errorcode>5002</errorcode></executeresult></message>
+
+2016-06-05 21:37:25:205[Log] msg:
+error[5002]:web service upload data fail!
+
+2016-06-05 21:37:25:283[Log] msg:
+<?xml version="1.0" encoding="UTF-8"?> <rootInfo><headInfo><devCode>6109010011</devCode><license>00000000</license><comName>0000000</comName><comWord>000000</comWord><sendTime>2016-06-05 13:09:43</sendTime><ver>1.2</ver></headInfo><listInfo><roadcode>610901000011</roadcode><dcode>04</dcode><dcodeOther>2</dcodeOther><lcode>2</lcode><ltype>01</ltype><plateTime>2016-06-05 12:42:39:649</plateTime><plateFlag>1</plateFlag><fplateNum>00000000</fplateNum><fplateColor>4</fplateColor><fplateType>99</fplateType><carColor>Z</carColor><carType>X99</carType><carBrand> </carBrand><carLength>0</carLength><carWidth>0</carWidth><img1_path>/20160605/6109010011/04/2/K_20160605124239649_2.jpg</img1_path><img2_path>/20160605/6109010011/04/2/K_20160605124239309_1.jpg</img2_path><img3_path></img3_path><img4_path></img4_path><img5_path></img5_path><img1_s_path></img1_s_path><img2_s_path></img2_s_path><img3_s_path></img3_s_path><img4_s_path></img4_s_path><img5_s_path></img5_s_path><img1_s_prm></img1_s_prm><img2_s_prm></img2_s_prm><img3_s_prm></img3_s_prm><img4_s_prm></img4_s_prm><img5_s_prm></img5_s_prm><img_flag>2</img_flag><ftp_flag>2</ftp_flag><platePos></platePos><driverPos></driverPos><carSpeed>50</carSpeed><valdate>3255</valdate><isUpFile>1</isUpFile></listInfo></rootInfo>
+
+
+2016-06-05 21:37:25:283[Log] msg:
+====================
+
+2016-06-05 21:37:25:283[Log] msg:
+20160605124239649_0_50_未识别_其他_02_0_04_2_6109010011_0_hik.jpg
+
+2016-06-05 21:37:25:298[Log] msg:
+====================
+
+2016-06-05 21:37:25:298[Log] msg:
+....web service inpasscarinfo proc....
+
+2016-06-05 21:37:25:330[Log] msg:
+<?xml version="1.0" encoding="UTF-8"?> <rootInfo><headInfo><devCode>6109010011</devCode><license>00000000</license><comName>0000000</comName><comWord>000000</comWord><sendTime>2016-06-05 13:09:43</sendTime><ver>1.2</ver></headInfo><listInfo><roadcode>610901000011</roadcode><dcode>04</dcode><dcodeOther>2</dcodeOther><lcode>2</lcode><ltype>01</ltype><plateTime>2016-06-05 12:42:39:649</plateTime><plateFlag>1</plateFlag><fplateNum>00000000</fplateNum><fplateColor>4</fplateColor><fplateType>99</fplateType><carColor>Z</carColor><carType>X99</carType><carBrand> </carBrand><carLength>0</carLength><carWidth>0</carWidth><img1_path>/20160605/6109010011/04/2/K_20160605124239649_2.jpg</img1_path><img2_path>/20160605/6109010011/04/2/K_20160605124239309_1.jpg</img2_path><img3_path></img3_path><img4_path></img4_path><img5_path></img5_path><img1_s_path></img1_s_path><img2_s_path></img2_s_path><img3_s_path></img3_s_path><img4_s_path></img4_s_path><img5_s_path></img5_s_path><img1_s_prm></img1_s_prm><img2_s_prm></img2_s_prm><img3_s_prm></img3_s_prm><img4_s_prm></img4_s_prm><img5_s_prm></img5_s_prm><img_flag>2</img_flag><ftp_flag>2</ftp_flag><platePos></platePos><driverPos></driverPos><carSpeed>50</carSpeed><valdate>3255</valdate><isUpFile>1</isUpFile></listInfo></rootInfo>
+
+
+2016-06-05 21:37:25:330[Log] msg:
+====================
+
+2016-06-05 21:37:25:330[Log] msg:
+20160605124239649_0_50_未识别_其他_02_0_04_2_6109010011_0_hik.jpg
+
+2016-06-05 21:37:25:330[Log] msg:
+====================
+
+2016-06-05 21:37:25:345[Log] msg:
+<?xml version = "1.0" encoding = "GB2312"?><message System = "ATMS" Ver = "1.0"><systemtype>TGS</systemtype><messagetype>NOTICE</messagetype><sourceIP>3.0</sourceIP><targetIP></targetIP><user>PASSCAR</user><password>PASSCAR</password><passcarinfo><kkid>6109010000110000</kkid><hphm>未识别</hphm><hpys>其他</hpys><cllx>01</cllx><gwsj>2016-06-05 12:42:39</gwsj><fxbh>3</fxbh><cdbh>2</cdbh><clsd>50</clsd><zjwj1>http://10.176.102.31:808/20160605/6109010011/04/2/K_20160605124239649_2.jpg</zjwj1><zjwj2>http://10.176.102.31:808/20160605/6109010011/04/2/K_20160605124239309_1.jpg</zjwj2><zjwj3></zjwj3><zjwj4></zjwj4><jllx>0</jllx><cshm>649</cshm></passcarinfo></message>
+
+2016-06-05 21:37:25:345[Log] msg:
+....web service inpasscarinfo proc....
+
+2016-06-05 21:37:25:345[Log] msg:
+<?xml version="1.0" encoding="GB2312"?><message System="ATMS" Ver="1.0"><systemtype>TGS</systemtype><messagetype>FEEDBACK</messagetype><sourceIP>3.0</sourceIP><targetIP /><user /><password /><executeresult><recordid>61090100001100000082320283</recordid><errordescription /><resultnum>1</resultnum><resultdescription>OperateSuccess</resultdescription><errorcode>0</errorcode></executeresult></message>
+
+2016-06-05 21:37:25:376[Log] msg:
+<?xml version = "1.0" encoding = "GB2312"?><message System = "ATMS" Ver = "1.0"><systemtype>TGS</systemtype><messagetype>NOTICE</messagetype><sourceIP>3.0</sourceIP><targetIP></targetIP><user>PASSCAR</user><password>PASSCAR</password><passcarinfo><kkid>6109010000110000</kkid><hphm>未识别</hphm><hpys>其他</hpys><cllx>01</cllx><gwsj>2016-06-05 12:42:39</gwsj><fxbh>3</fxbh><cdbh>2</cdbh><clsd>50</clsd><zjwj1>http://10.176.102.31:808/20160605/6109010011/04/2/K_20160605124239649_2.jpg</zjwj1><zjwj2>http://10.176.102.31:808/20160605/6109010011/04/2/K_20160605124239309_1.jpg</zjwj2><zjwj3></zjwj3><zjwj4></zjwj4><jllx>0</jllx><cshm>649</cshm></passcarinfo></message>
+
+2016-06-05 21:37:25:376[Log] msg:
+<?xml version="1.0" encoding="GB2312"?><message System="ATMS" Ver="1.0"><systemtype>TGS</systemtype><messagetype>FEEDBACK</messagetype><sourceIP>3.0</sourceIP><targetIP /><user /><password /><executeresult><recordid>61090100001100000082320284</recordid><errordescription /><resultnum>1</resultnum><resultdescription>OperateSuccess</resultdescription><errorcode>0</errorcode></executeresult></message>
+
+2016-06-05 21:37:25:486[Log] msg:
+<?xml version="1.0" encoding="UTF-8"?> <rootInfo><headInfo><devCode>6109010002</devCode><license>00000000</license><comName>0000000</comName><comWord>000000</comWord><sendTime>2016-06-05 13:09:44</sendTime><ver>1.2</ver></headInfo><listInfo><roadcode>610901000002</roadcode><dcode>03</dcode><dcodeOther>1</dcodeOther><lcode>2</lcode><ltype>01</ltype><plateTime>2016-06-05 13:06:22:878</plateTime><plateFlag>1</plateFlag><fplateNum>闄旻8331D</fplateNum><fplateColor>2</fplateColor><fplateType>02</fplateType><carColor>E</carColor><carType>X99</carType><carBrand> </carBrand><carLength>0</carLength><carWidth>0</carWidth><img1_path>/20160605/6109010002/03/2/K_20160605130622878_2.jpg</img1_path><img2_path>/20160605/6109010002/03/2/K_20160605130622559_1.jpg</img2_path><img3_path></img3_path><img4_path></img4_path><img5_path></img5_path><img1_s_path>/20160605/6109010002/03/2/K_20160605130622878_3.jpg</img1_s_path><img2_s_path></img2_s_path><img3_s_path></img3_s_path><img4_s_path></img4_s_path><img5_s_path></img5_s_path><img1_s_prm>1,920,818,146,32</img1_s_prm><img2_s_prm></img2_s_prm><img3_s_prm></img3_s_prm><img4_s_prm></img4_s_prm><img5_s_prm></img5_s_prm><img_flag>2</img_flag><ftp_flag>2</ftp_flag><platePos></platePos><driverPos></driverPos><carSpeed>50</carSpeed><valdate>2504</valdate><isUpFile>1</isUpFile></listInfo></rootInfo>
+
+
+2016-06-05 21:37:25:486[Log] msg:
+====================
+
+2016-06-05 21:37:25:486[Log] msg:
+20160605130622878_0_50_陕F8331D_黄_02_02_03_2_6109010002_0_hik.jpg
+
+2016-06-05 21:37:25:486[Log] msg:
+====================
+
+2016-06-05 21:37:25:486[Log] msg:
+....web service inpasscarinfo proc....
+
+2016-06-05 21:37:25:517[Log] msg:
+<?xml version = "1.0" encoding = "GB2312"?><message System = "ATMS" Ver = "1.0"><systemtype>TGS</systemtype><messagetype>NOTICE</messagetype><sourceIP>3.0</sourceIP><targetIP></targetIP><user>PASSCAR</user><password>PASSCAR</password><passcarinfo><kkid>6109010000020000</kkid><hphm>陕F8331D</hphm><hpys>黄</hpys><cllx>02</cllx><gwsj>2016-06-05 13:06:22</gwsj><fxbh>1</fxbh><cdbh>2</cdbh><clsd>50</clsd><zjwj1>http://10.176.102.31:808/20160605/6109010002/03/2/K_20160605130622878_2.jpg</zjwj1><zjwj2>http://10.176.102.31:808/20160605/6109010002/03/2/K_20160605130622559_1.jpg</zjwj2><zjwj3></zjwj3><zjwj4></zjwj4><jllx>0</jllx><cshm>878</cshm></passcarinfo></message>
+
+2016-06-05 21:37:25:517[Log] msg:
+<?xml version="1.0" encoding="GB2312"?><message System="ATMS" Ver="1.0"><systemtype>TGS</systemtype><messagetype>FEEDBACK</messagetype><sourceIP>3.0</sourceIP><targetIP /><user /><password /><executeresult><recordid>61090100000200000082320285</recordid><errordescription /><resultnum>1</resultnum><resultdescription>OperateSuccess</resultdescription><errorcode>0</errorcode></executeresult></message>
+
+2016-06-05 21:37:26:047[Log] msg:
+<?xml version="1.0" encoding="UTF-8"?> <rootInfo><headInfo><devCode>6109010004</devCode><license>00000000</license><comName>0000000</comName><comWord>000000</comWord><sendTime>2016-06-05 13:09:43</sendTime><ver>1.2</ver></headInfo><vioInfo><roadcode>610901000004</roadcode><dcode>04</dcode><dcodeOther>2</dcodeOther><lcode>1</lcode><ltype>01</ltype><vioType>1352</vioType><vioTime>2016-06-05 09:12:11:510</vioTime><red_end_time></red_end_time><red_start_time></red_start_time><platenum>00000000</platenum><plateColor>4</plateColor><plateType>99</plateType><carClass>9</carClass><carColor>Z</carColor><carType>X99</carType><carBrand> </carBrand><speedCar>119</speedCar><speedStd>100</speedStd><speedStd_big>80</speedStd_big><speedStd_sml>100</speedStd_sml><img1_path>/20160605/6109010004/04/1/V_20160605091211510_2.jpg</img1_path><img2_path>/20160605/6109010004/04/1/V_20160605091211339_1.jpg</img2_path><img3_path></img3_path><img4_path></img4_path><img5_path></img5_path><img1_s_path></img1_s_path><img2_s_path></img2_s_path><img3_s_path></img3_s_path><img4_s_path></img4_s_path><img5_s_path></img5_s_path><img1_s_prm></img1_s_prm><img2_s_prm></img2_s_prm><img3_s_prm></img3_s_prm><img4_s_prm></img4_s_prm><img5_s_prm></img5_s_prm><video_path></video_path><img_flag>2</img_flag><ftp_flag>2</ftp_flag><valdate>10</valdate><isUpFile>1</isUpFile></vioInfo></rootInfo>
+
+
+2016-06-05 21:37:26:047[Log] msg:
+====================
+
+2016-06-05 21:37:26:047[Log] msg:
+20160605091211510_1_119_未识别_其他_99_0_04_1_6109010004_1352_hik.jpg
+
+2016-06-05 21:37:26:047[Log] msg:
+====================
+
+2016-06-05 21:37:26:063[Log] msg:
+....web service inpasscarinfo proc....
+
+2016-06-05 21:37:26:141[Log] msg:
+<?xml version = "1.0" encoding = "GB2312"?><message System = "ATMS" Ver = "1.0"><systemtype>TGS</systemtype><messagetype>NOTICE</messagetype><sourceIP>3.0</sourceIP><targetIP></targetIP><user>PECCANCY</user><password>PECCANCY</password><peccancyinfo><sjly>2</sjly><hphm>未识别</hphm><hpzl>99</hpzl><wfsj>2016-06-05 09:12:11</wfsj><wfxw>13521</wfxw><wfnr>13521</wfnr><wfdd>610901000004</wfdd><wfdz>京昆高速大河坝</wfdz><cdbh>1</cdbh><fxbh>6109010000043</fxbh><clsd>119</clsd><clxs>80</clxs><zdxs>1</zdxs><cjjg>610901000010</cjjg><cjyh>9999</cjyh><cjsj>2016-06-05 09:12:11</cjsj><zqmj>9999</zqmj><bz></bz><zjwj1>http://10.176.102.31:808/20160605/6109010004/04/1/V_20160605091211510_2.jpg</zjwj1><zjwj2>http://10.176.102.31:808/20160605/6109010004/04/1/V_20160605091211339_1.jpg</zjwj2><zjwj3></zjwj3><zjwj4></zjwj4></peccancyinfo></message>
+
+2016-06-05 21:37:26:156[Log] msg:
+<?xml version="1.0" encoding="GB2312"?><message System="ATMS" Ver="1.0"><systemtype>TGS</systemtype><messagetype>FEEDBACK</messagetype><sourceIP>3.0</sourceIP><targetIP /><user /><password /><executeresult><recordid /><errordescription>CommonDataAccess类Execute_NonQuery1函数出错，错误信息：ORA-00001: 违反唯一约束条件 (TGS_ADMIN.UN_TMS_PECCANCY_TEMP)
+</errordescription><resultnum>-3</resultnum><resultdescription>执行失败！</resultdescription><errorcode>5002</errorcode></executeresult></message>
+
+2016-06-05 21:37:26:156[Log] msg:
+<?xml version="1.0" encoding="UTF-8"?> <rootInfo><headInfo><devCode>6109010004</devCode><license>00000000</license><comName>0000000</comName><comWord>000000</comWord><sendTime>2016-06-05 13:09:43</sendTime><ver>1.2</ver></headInfo><vioInfo><roadcode>610901000004</roadcode><dcode>04</dcode><dcodeOther>2</dcodeOther><lcode>1</lcode><ltype>01</ltype><vioType>1352</vioType><vioTime>2016-06-05 09:12:11:510</vioTime><red_end_time></red_end_time><red_start_time></red_start_time><platenum>00000000</platenum><plateColor>4</plateColor><plateType>99</plateType><carClass>9</carClass><carColor>Z</carColor><carType>X99</carType><carBrand> </carBrand><speedCar>119</speedCar><speedStd>100</speedStd><speedStd_big>80</speedStd_big><speedStd_sml>100</speedStd_sml><img1_path>/20160605/6109010004/04/1/V_20160605091211510_2.jpg</img1_path><img2_path>/20160605/6109010004/04/1/V_20160605091211339_1.jpg</img2_path><img3_path></img3_path><img4_path></img4_path><img5_path></img5_path><img1_s_path></img1_s_path><img2_s_path></img2_s_path><img3_s_path></img3_s_path><img4_s_path></img4_s_path><img5_s_path></img5_s_path><img1_s_prm></img1_s_prm><img2_s_prm></img2_s_prm><img3_s_prm></img3_s_prm><img4_s_prm></img4_s_prm><img5_s_prm></img5_s_prm><video_path></video_path><img_flag>2</img_flag><ftp_flag>2</ftp_flag><valdate>10</valdate><isUpFile>1</isUpFile></vioInfo></rootInfo>
+
+
+2016-06-05 21:37:26:156[Log] msg:
+error[5002]:web service upload data fail!
+
+2016-06-05 21:37:26:156[Log] msg:
+====================
+
+2016-06-05 21:37:26:156[Log] msg:
+20160605091211510_1_119_未识别_其他_99_0_04_1_6109010004_1352_hik.jpg
+
+2016-06-05 21:37:26:172[Log] msg:
+====================
+
+2016-06-05 21:37:26:188[Log] msg:
+....web service inpasscarinfo proc....
+
+2016-06-05 21:37:26:266[Log] msg:
+<?xml version = "1.0" encoding = "GB2312"?><message System = "ATMS" Ver = "1.0"><systemtype>TGS</systemtype><messagetype>NOTICE</messagetype><sourceIP>3.0</sourceIP><targetIP></targetIP><user>PECCANCY</user><password>PECCANCY</password><peccancyinfo><sjly>2</sjly><hphm>未识别</hphm><hpzl>99</hpzl><wfsj>2016-06-05 09:12:11</wfsj><wfxw>13521</wfxw><wfnr>13521</wfnr><wfdd>610901000004</wfdd><wfdz>京昆高速大河坝</wfdz><cdbh>1</cdbh><fxbh>6109010000043</fxbh><clsd>119</clsd><clxs>80</clxs><zdxs>1</zdxs><cjjg>610901000010</cjjg><cjyh>9999</cjyh><cjsj>2016-06-05 09:12:11</cjsj><zqmj>9999</zqmj><bz></bz><zjwj1>http://10.176.102.31:808/20160605/6109010004/04/1/V_20160605091211510_2.jpg</zjwj1><zjwj2>http://10.176.102.31:808/20160605/6109010004/04/1/V_20160605091211339_1.jpg</zjwj2><zjwj3></zjwj3><zjwj4></zjwj4></peccancyinfo></message>
+
+2016-06-05 21:37:26:266[Log] msg:
+<?xml version="1.0" encoding="GB2312"?><message System="ATMS" Ver="1.0"><systemtype>TGS</systemtype><messagetype>FEEDBACK</messagetype><sourceIP>3.0</sourceIP><targetIP /><user /><password /><executeresult><recordid /><errordescription>CommonDataAccess类Execute_NonQuery1函数出错，错误信息：ORA-00001: 违反唯一约束条件 (TGS_ADMIN.UN_TMS_PECCANCY_TEMP)
+</errordescription><resultnum>-3</resultnum><resultdescription>执行失败！</resultdescription><errorcode>5002</errorcode></executeresult></message>
+
+2016-06-05 21:37:26:266[Log] msg:
+error[5002]:web service upload data fail!
+
+2016-06-05 21:37:26:312[Log] msg:
+<?xml version="1.0" encoding="UTF-8"?> <rootInfo><headInfo><devCode>6109010011</devCode><license>00000000</license><comName>0000000</comName><comWord>000000</comWord><sendTime>2016-06-05 13:09:43</sendTime><ver>1.2</ver></headInfo><listInfo><roadcode>610901000011</roadcode><dcode>04</dcode><dcodeOther>2</dcodeOther><lcode>2</lcode><ltype>01</ltype><plateTime>2016-06-05 12:42:39:649</plateTime><plateFlag>1</plateFlag><fplateNum>00000000</fplateNum><fplateColor>4</fplateColor><fplateType>99</fplateType><carColor>Z</carColor><carType>X99</carType><carBrand> </carBrand><carLength>0</carLength><carWidth>0</carWidth><img1_path>/20160605/6109010011/04/2/K_20160605124239649_2.jpg</img1_path><img2_path>/20160605/6109010011/04/2/K_20160605124239309_1.jpg</img2_path><img3_path></img3_path><img4_path></img4_path><img5_path></img5_path><img1_s_path></img1_s_path><img2_s_path></img2_s_path><img3_s_path></img3_s_path><img4_s_path></img4_s_path><img5_s_path></img5_s_path><img1_s_prm></img1_s_prm><img2_s_prm></img2_s_prm><img3_s_prm></img3_s_prm><img4_s_prm></img4_s_prm><img5_s_prm></img5_s_prm><img_flag>2</img_flag><ftp_flag>2</ftp_flag><platePos></platePos><driverPos></driverPos><carSpeed>50</carSpeed><valdate>3255</valdate><isUpFile>1</isUpFile></listInfo></rootInfo>
+
+
+2016-06-05 21:37:26:312[Log] msg:
+====================
+
+2016-06-05 21:37:26:312[Log] msg:
+20160605124239649_0_50_未识别_其他_02_0_04_2_6109010011_0_hik.jpg
+
+2016-06-05 21:37:26:328[Log] msg:
+====================
+
+2016-06-05 21:37:26:328[Log] msg:
+....web service inpasscarinfo proc....
+
+2016-06-05 21:37:26:359[Log] msg:
+<?xml version = "1.0" encoding = "GB2312"?><message System = "ATMS" Ver = "1.0"><systemtype>TGS</systemtype><messagetype>NOTICE</messagetype><sourceIP>3.0</sourceIP><targetIP></targetIP><user>PASSCAR</user><password>PASSCAR</password><passcarinfo><kkid>6109010000110000</kkid><hphm>未识别</hphm><hpys>其他</hpys><cllx>01</cllx><gwsj>2016-06-05 12:42:39</gwsj><fxbh>3</fxbh><cdbh>2</cdbh><clsd>50</clsd><zjwj1>http://10.176.102.31:808/20160605/6109010011/04/2/K_20160605124239649_2.jpg</zjwj1><zjwj2>http://10.176.102.31:808/20160605/6109010011/04/2/K_20160605124239309_1.jpg</zjwj2><zjwj3></zjwj3><zjwj4></zjwj4><jllx>0</jllx><cshm>649</cshm></passcarinfo></message>
+
+2016-06-05 21:37:26:359[Log] msg:
+<?xml version="1.0" encoding="GB2312"?><message System="ATMS" Ver="1.0"><systemtype>TGS</systemtype><messagetype>FEEDBACK</messagetype><sourceIP>3.0</sourceIP><targetIP /><user /><password /><executeresult><recordid>61090100001100000082320286</recordid><errordescription /><resultnum>1</resultnum><resultdescription>OperateSuccess</resultdescription><errorcode>0</errorcode></executeresult></message>
+
+2016-06-05 21:37:26:453[Log] msg:
+<?xml version="1.0" encoding="UTF-8"?> <rootInfo><headInfo><devCode>6109010011</devCode><license>00000000</license><comName>0000000</comName><comWord>000000</comWord><sendTime>2016-06-05 13:09:43</sendTime><ver>1.2</ver></headInfo><listInfo><roadcode>610901000011</roadcode><dcode>04</dcode><dcodeOther>2</dcodeOther><lcode>2</lcode><ltype>01</ltype><plateTime>2016-06-05 12:42:39:649</plateTime><plateFlag>1</plateFlag><fplateNum>00000000</fplateNum><fplateColor>4</fplateColor><fplateType>99</fplateType><carColor>Z</carColor><carType>X99</carType><carBrand> </carBrand><carLength>0</carLength><carWidth>0</carWidth><img1_path>/20160605/6109010011/04/2/K_20160605124239649_2.jpg</img1_path><img2_path>/20160605/6109010011/04/2/K_20160605124239309_1.jpg</img2_path><img3_path></img3_path><img4_path></img4_path><img5_path></img5_path><img1_s_path></img1_s_path><img2_s_path></img2_s_path><img3_s_path></img3_s_path><img4_s_path></img4_s_path><img5_s_path></img5_s_path><img1_s_prm></img1_s_prm><img2_s_prm></img2_s_prm><img3_s_prm></img3_s_prm><img4_s_prm></img4_s_prm><img5_s_prm></img5_s_prm><img_flag>2</img_flag><ftp_flag>2</ftp_flag><platePos></platePos><driverPos></driverPos><carSpeed>50</carSpeed><valdate>3255</valdate><isUpFile>1</isUpFile></listInfo></rootInfo>
+
+
+2016-06-05 21:37:26:453[Log] msg:
+====================
+
+2016-06-05 21:37:26:453[Log] msg:
+20160605124239649_0_50_未识别_其他_02_0_04_2_6109010011_0_hik.jpg
+
+2016-06-05 21:37:26:453[Log] msg:
+====================
+
+2016-06-05 21:37:26:453[Log] msg:
+....web service inpasscarinfo proc....
+
+2016-06-05 21:37:26:624[Log] msg:
+<?xml version = "1.0" encoding = "GB2312"?><message System = "ATMS" Ver = "1.0"><systemtype>TGS</systemtype><messagetype>NOTICE</messagetype><sourceIP>3.0</sourceIP><targetIP></targetIP><user>PASSCAR</user><password>PASSCAR</password><passcarinfo><kkid>6109010000110000</kkid><hphm>未识别</hphm><hpys>其他</hpys><cllx>01</cllx><gwsj>2016-06-05 12:42:39</gwsj><fxbh>3</fxbh><cdbh>2</cdbh><clsd>50</clsd><zjwj1>http://10.176.102.31:808/20160605/6109010011/04/2/K_20160605124239649_2.jpg</zjwj1><zjwj2>http://10.176.102.31:808/20160605/6109010011/04/2/K_20160605124239309_1.jpg</zjwj2><zjwj3></zjwj3><zjwj4></zjwj4><jllx>0</jllx><cshm>649</cshm></passcarinfo></message>
+
+2016-06-05 21:37:26:624[Log] msg:
+<?xml version="1.0" encoding="GB2312"?><message System="ATMS" Ver="1.0"><systemtype>TGS</systemtype><messagetype>FEEDBACK</messagetype><sourceIP>3.0</sourceIP><targetIP /><user /><password /><executeresult><recordid>61090100001100000082320287</recordid><errordescription /><resultnum>1</resultnum><resultdescription>OperateSuccess</resultdescription><errorcode>0</errorcode></executeresult></message>
+
+2016-06-05 21:37:27:061[Log] msg:
+<?xml version="1.0" encoding="UTF-8"?> <rootInfo><headInfo><devCode>6109010004</devCode><license>00000000</license><comName>0000000</comName><comWord>000000</comWord><sendTime>2016-06-05 13:09:43</sendTime><ver>1.2</ver></headInfo><vioInfo><roadcode>610901000004</roadcode><dcode>04</dcode><dcodeOther>2</dcodeOther><lcode>1</lcode><ltype>01</ltype><vioType>1352</vioType><vioTime>2016-06-05 09:12:11:510</vioTime><red_end_time></red_end_time><red_start_time></red_start_time><platenum>00000000</platenum><plateColor>4</plateColor><plateType>99</plateType><carClass>9</carClass><carColor>Z</carColor><carType>X99</carType><carBrand> </carBrand><speedCar>119</speedCar><speedStd>100</speedStd><speedStd_big>80</speedStd_big><speedStd_sml>100</speedStd_sml><img1_path>/20160605/6109010004/04/1/V_20160605091211510_2.jpg</img1_path><img2_path>/20160605/6109010004/04/1/V_20160605091211339_1.jpg</img2_path><img3_path></img3_path><img4_path></img4_path><img5_path></img5_path><img1_s_path></img1_s_path><img2_s_path></img2_s_path><img3_s_path></img3_s_path><img4_s_path></img4_s_path><img5_s_path></img5_s_path><img1_s_prm></img1_s_prm><img2_s_prm></img2_s_prm><img3_s_prm></img3_s_prm><img4_s_prm></img4_s_prm><img5_s_prm></img5_s_prm><video_path></video_path><img_flag>2</img_flag><ftp_flag>2</ftp_flag><valdate>10</valdate><isUpFile>1</isUpFile></vioInfo></rootInfo>
+
+
+2016-06-05 21:37:27:061[Log] msg:
+====================
+
+2016-06-05 21:37:27:061[Log] msg:
+20160605091211510_1_119_未识别_其他_99_0_04_1_6109010004_1352_hik.jpg
+
+2016-06-05 21:37:27:061[Log] msg:
+====================
+
+2016-06-05 21:37:27:077[Log] msg:
+....web service inpasscarinfo proc....
+
+2016-06-05 21:37:27:170[Log] msg:
+<?xml version = "1.0" encoding = "GB2312"?><message System = "ATMS" Ver = "1.0"><systemtype>TGS</systemtype><messagetype>NOTICE</messagetype><sourceIP>3.0</sourceIP><targetIP></targetIP><user>PECCANCY</user><password>PECCANCY</password><peccancyinfo><sjly>2</sjly><hphm>未识别</hphm><hpzl>99</hpzl><wfsj>2016-06-05 09:12:11</wfsj><wfxw>13521</wfxw><wfnr>13521</wfnr><wfdd>610901000004</wfdd><wfdz>京昆高速大河坝</wfdz><cdbh>1</cdbh><fxbh>6109010000043</fxbh><clsd>119</clsd><clxs>80</clxs><zdxs>1</zdxs><cjjg>610901000010</cjjg><cjyh>9999</cjyh><cjsj>2016-06-05 09:12:11</cjsj><zqmj>9999</zqmj><bz></bz><zjwj1>http://10.176.102.31:808/20160605/6109010004/04/1/V_20160605091211510_2.jpg</zjwj1><zjwj2>http://10.176.102.31:808/20160605/6109010004/04/1/V_20160605091211339_1.jpg</zjwj2><zjwj3></zjwj3><zjwj4></zjwj4></peccancyinfo></message>
+
+2016-06-05 21:37:27:170[Log] msg:
+<?xml version="1.0" encoding="GB2312"?><message System="ATMS" Ver="1.0"><systemtype>TGS</systemtype><messagetype>FEEDBACK</messagetype><sourceIP>3.0</sourceIP><targetIP /><user /><password /><executeresult><recordid /><errordescription>CommonDataAccess类Execute_NonQuery1函数出错，错误信息：ORA-00001: 违反唯一约束条件 (TGS_ADMIN.UN_TMS_PECCANCY_TEMP)
+</errordescription><resultnum>-3</resultnum><resultdescription>执行失败！</resultdescription><errorcode>5002</errorcode></executeresult></message>
+
+2016-06-05 21:37:27:170[Log] msg:
+error[5002]:web service upload data fail!
+
+2016-06-05 21:37:27:233[Log] msg:
+<?xml version="1.0" encoding="UTF-8"?> <rootInfo><headInfo><devCode>6109010004</devCode><license>00000000</license><comName>0000000</comName><comWord>000000</comWord><sendTime>2016-06-05 13:09:43</sendTime><ver>1.2</ver></headInfo><vioInfo><roadcode>610901000004</roadcode><dcode>04</dcode><dcodeOther>2</dcodeOther><lcode>1</lcode><ltype>01</ltype><vioType>1352</vioType><vioTime>2016-06-05 09:12:11:510</vioTime><red_end_time></red_end_time><red_start_time></red_start_time><platenum>00000000</platenum><plateColor>4</plateColor><plateType>99</plateType><carClass>9</carClass><carColor>Z</carColor><carType>X99</carType><carBrand> </carBrand><speedCar>119</speedCar><speedStd>100</speedStd><speedStd_big>80</speedStd_big><speedStd_sml>100</speedStd_sml><img1_path>/20160605/6109010004/04/1/V_20160605091211510_2.jpg</img1_path><img2_path>/20160605/6109010004/04/1/V_20160605091211339_1.jpg</img2_path><img3_path></img3_path><img4_path></img4_path><img5_path></img5_path><img1_s_path></img1_s_path><img2_s_path></img2_s_path><img3_s_path></img3_s_path><img4_s_path></img4_s_path><img5_s_path></img5_s_path><img1_s_prm></img1_s_prm><img2_s_prm></img2_s_prm><img3_s_prm></img3_s_prm><img4_s_prm></img4_s_prm><img5_s_prm></img5_s_prm><video_path></video_path><img_flag>2</img_flag><ftp_flag>2</ftp_flag><valdate>10</valdate><isUpFile>1</isUpFile></vioInfo></rootInfo>
+
+
+2016-06-05 21:37:27:233[Log] msg:
+====================
+
+2016-06-05 21:37:27:233[Log] msg:
+20160605091211510_1_119_未识别_其他_99_0_04_1_6109010004_1352_hik.jpg
+
+2016-06-05 21:37:27:233[Log] msg:
+10
+
+2016-06-05 21:37:27:233[Log] msg:
+====================
+
+2016-06-05 21:37:27:233[Log] msg:
+send ok
+
+2016-06-05 21:37:27:248[Log] msg:
+....web service inpasscarinfo proc....
+
+2016-06-05 21:37:27:342[Log] msg:
+<?xml version = "1.0" encoding = "GB2312"?><message System = "ATMS" Ver = "1.0"><systemtype>TGS</systemtype><messagetype>NOTICE</messagetype><sourceIP>3.0</sourceIP><targetIP></targetIP><user>PECCANCY</user><password>PECCANCY</password><peccancyinfo><sjly>2</sjly><hphm>未识别</hphm><hpzl>99</hpzl><wfsj>2016-06-05 09:12:11</wfsj><wfxw>13521</wfxw><wfnr>13521</wfnr><wfdd>610901000004</wfdd><wfdz>京昆高速大河坝</wfdz><cdbh>1</cdbh><fxbh>6109010000043</fxbh><clsd>119</clsd><clxs>80</clxs><zdxs>1</zdxs><cjjg>610901000010</cjjg><cjyh>9999</cjyh><cjsj>2016-06-05 09:12:11</cjsj><zqmj>9999</zqmj><bz></bz><zjwj1>http://10.176.102.31:808/20160605/6109010004/04/1/V_20160605091211510_2.jpg</zjwj1><zjwj2>http://10.176.102.31:808/20160605/6109010004/04/1/V_20160605091211339_1.jpg</zjwj2><zjwj3></zjwj3><zjwj4></zjwj4></peccancyinfo></message>
+
+2016-06-05 21:37:27:342[Log] msg:
+<?xml version="1.0" encoding="GB2312"?><message System="ATMS" Ver="1.0"><systemtype>TGS</systemtype><messagetype>FEEDBACK</messagetype><sourceIP>3.0</sourceIP><targetIP /><user /><password /><executeresult><recordid /><errordescription>CommonDataAccess类Execute_NonQuery1函数出错，错误信息：ORA-00001: 违反唯一约束条件 (TGS_ADMIN.UN_TMS_PECCANCY_TEMP)
+</errordescription><resultnum>-3</resultnum><resultdescription>执行失败！</resultdescription><errorcode>5002</errorcode></executeresult></message>
+
+2016-06-05 21:37:27:342[Log] msg:
+error[5002]:web service upload data fail!
+
+2016-06-05 21:37:27:404[Log] msg:
+<?xml version="1.0" encoding="UTF-8"?> <rootInfo><headInfo><devCode>6109010011</devCode><license>00000000</license><comName>0000000</comName><comWord>000000</comWord><sendTime>2016-06-05 13:09:43</sendTime><ver>1.2</ver></headInfo><listInfo><roadcode>610901000011</roadcode><dcode>04</dcode><dcodeOther>2</dcodeOther><lcode>2</lcode><ltype>01</ltype><plateTime>2016-06-05 12:42:39:649</plateTime><plateFlag>1</plateFlag><fplateNum>00000000</fplateNum><fplateColor>4</fplateColor><fplateType>99</fplateType><carColor>Z</carColor><carType>X99</carType><carBrand> </carBrand><carLength>0</carLength><carWidth>0</carWidth><img1_path>/20160605/6109010011/04/2/K_20160605124239649_2.jpg</img1_path><img2_path>/20160605/6109010011/04/2/K_20160605124239309_1.jpg</img2_path><img3_path></img3_path><img4_path></img4_path><img5_path></img5_path><img1_s_path></img1_s_path><img2_s_path></img2_s_path><img3_s_path></img3_s_path><img4_s_path></img4_s_path><img5_s_path></img5_s_path><img1_s_prm></img1_s_prm><img2_s_prm></img2_s_prm><img3_s_prm></img3_s_prm><img4_s_prm></img4_s_prm><img5_s_prm></img5_s_prm><img_flag>2</img_flag><ftp_flag>2</ftp_flag><platePos></platePos><driverPos></driverPos><carSpeed>50</carSpeed><valdate>3255</valdate><isUpFile>1</isUpFile></listInfo></rootInfo>
+
+
+2016-06-05 21:37:27:404[Log] msg:
+====================
+
+2016-06-05 21:37:27:404[Log] msg:
+20160605124239649_0_50_未识别_其他_02_0_04_2_6109010011_0_hik.jpg
+
+2016-06-05 21:37:27:404[Log] msg:
+10
+
+2016-06-05 21:37:27:404[Log] msg:
+====================
+
+2016-06-05 21:37:27:404[Log] msg:
+send ok
+
+2016-06-05 21:37:27:420[Log] msg:
+....web service inpasscarinfo proc....
+
+2016-06-05 21:37:27:436[Log] msg:
+<?xml version = "1.0" encoding = "GB2312"?><message System = "ATMS" Ver = "1.0"><systemtype>TGS</systemtype><messagetype>NOTICE</messagetype><sourceIP>3.0</sourceIP><targetIP></targetIP><user>PASSCAR</user><password>PASSCAR</password><passcarinfo><kkid>6109010000110000</kkid><hphm>未识别</hphm><hpys>其他</hpys><cllx>01</cllx><gwsj>2016-06-05 12:42:39</gwsj><fxbh>3</fxbh><cdbh>2</cdbh><clsd>50</clsd><zjwj1>http://10.176.102.31:808/20160605/6109010011/04/2/K_20160605124239649_2.jpg</zjwj1><zjwj2>http://10.176.102.31:808/20160605/6109010011/04/2/K_20160605124239309_1.jpg</zjwj2><zjwj3></zjwj3><zjwj4></zjwj4><jllx>0</jllx><cshm>649</cshm></passcarinfo></message>
+
+2016-06-05 21:37:27:436[Log] msg:
+<?xml version="1.0" encoding="GB2312"?><message System="ATMS" Ver="1.0"><systemtype>TGS</systemtype><messagetype>FEEDBACK</messagetype><sourceIP>3.0</sourceIP><targetIP /><user /><password /><executeresult><recordid>61090100001100000082320288</recordid><errordescription /><resultnum>1</resultnum><resultdescription>OperateSuccess</resultdescription><errorcode>0</errorcode></executeresult></message>
+
+2016-06-05 21:37:27:576[Log] msg:
+<?xml version="1.0" encoding="UTF-8"?> <rootInfo><headInfo><devCode>6109010002</devCode><license>00000000</license><comName>0000000</comName><comWord>000000</comWord><sendTime>2016-06-05 13:09:44</sendTime><ver>1.2</ver></headInfo><listInfo><roadcode>610901000002</roadcode><dcode>03</dcode><dcodeOther>1</dcodeOther><lcode>2</lcode><ltype>01</ltype><plateTime>2016-06-05 13:06:22:878</plateTime><plateFlag>1</plateFlag><fplateNum>闄旻8331D</fplateNum><fplateColor>2</fplateColor><fplateType>02</fplateType><carColor>E</carColor><carType>X99</carType><carBrand> </carBrand><carLength>0</carLength><carWidth>0</carWidth><img1_path>/20160605/6109010002/03/2/K_20160605130622878_2.jpg</img1_path><img2_path>/20160605/6109010002/03/2/K_20160605130622559_1.jpg</img2_path><img3_path></img3_path><img4_path></img4_path><img5_path></img5_path><img1_s_path>/20160605/6109010002/03/2/K_20160605130622878_3.jpg</img1_s_path><img2_s_path></img2_s_path><img3_s_path></img3_s_path><img4_s_path></img4_s_path><img5_s_path></img5_s_path><img1_s_prm>1,920,818,146,32</img1_s_prm><img2_s_prm></img2_s_prm><img3_s_prm></img3_s_prm><img4_s_prm></img4_s_prm><img5_s_prm></img5_s_prm><img_flag>2</img_flag><ftp_flag>2</ftp_flag><platePos></platePos><driverPos></driverPos><carSpeed>50</carSpeed><valdate>2504</valdate><isUpFile>1</isUpFile></listInfo></rootInfo>
+
+
+2016-06-05 21:37:27:607[Log] msg:
+====================
+
+2016-06-05 21:37:27:607[Log] msg:
+20160605130622878_0_50_陕F8331D_黄_02_02_03_2_6109010002_0_hik.jpg
+
+2016-06-05 21:37:27:607[Log] msg:
+====================
+
+2016-06-05 21:37:27:623[Log] msg:
+....web service inpasscarinfo proc....
+
+2016-06-05 21:37:27:638[Log] msg:
+<?xml version = "1.0" encoding = "GB2312"?><message System = "ATMS" Ver = "1.0"><systemtype>TGS</systemtype><messagetype>NOTICE</messagetype><sourceIP>3.0</sourceIP><targetIP></targetIP><user>PASSCAR</user><password>PASSCAR</password><passcarinfo><kkid>6109010000020000</kkid><hphm>陕F8331D</hphm><hpys>黄</hpys><cllx>02</cllx><gwsj>2016-06-05 13:06:22</gwsj><fxbh>1</fxbh><cdbh>2</cdbh><clsd>50</clsd><zjwj1>http://10.176.102.31:808/20160605/6109010002/03/2/K_20160605130622878_2.jpg</zjwj1><zjwj2>http://10.176.102.31:808/20160605/6109010002/03/2/K_20160605130622559_1.jpg</zjwj2><zjwj3></zjwj3><zjwj4></zjwj4><jllx>0</jllx><cshm>878</cshm></passcarinfo></message>
+
+2016-06-05 21:37:27:654[Log] msg:
+<?xml version="1.0" encoding="GB2312"?><message System="ATMS" Ver="1.0"><systemtype>TGS</systemtype><messagetype>FEEDBACK</messagetype><sourceIP>3.0</sourceIP><targetIP /><user /><password /><executeresult><recordid>61090100000200000082320289</recordid><errordescription /><resultnum>1</resultnum><resultdescription>OperateSuccess</resultdescription><errorcode>0</errorcode></executeresult></message>
+
+2016-06-05 21:37:28:075[Log] msg:
+<?xml version="1.0" encoding="UTF-8"?> <rootInfo><headInfo><devCode>6109010004</devCode><license>00000000</license><comName>0000000</comName><comWord>000000</comWord><sendTime>2016-06-05 13:09:43</sendTime><ver>1.2</ver></headInfo><vioInfo><roadcode>610901000004</roadcode><dcode>04</dcode><dcodeOther>2</dcodeOther><lcode>1</lcode><ltype>01</ltype><vioType>1352</vioType><vioTime>2016-06-05 09:12:11:510</vioTime><red_end_time></red_end_time><red_start_time></red_start_time><platenum>00000000</platenum><plateColor>4</plateColor><plateType>99</plateType><carClass>9</carClass><carColor>Z</carColor><carType>X99</carType><carBrand> </carBrand><speedCar>119</speedCar><speedStd>100</speedStd><speedStd_big>80</speedStd_big><speedStd_sml>100</speedStd_sml><img1_path>/20160605/6109010004/04/1/V_20160605091211510_2.jpg</img1_path><img2_path>/20160605/6109010004/04/1/V_20160605091211339_1.jpg</img2_path><img3_path></img3_path><img4_path></img4_path><img5_path></img5_path><img1_s_path></img1_s_path><img2_s_path></img2_s_path><img3_s_path></img3_s_path><img4_s_path></img4_s_path><img5_s_path></img5_s_path><img1_s_prm></img1_s_prm><img2_s_prm></img2_s_prm><img3_s_prm></img3_s_prm><img4_s_prm></img4_s_prm><img5_s_prm></img5_s_prm><video_path></video_path><img_flag>2</img_flag><ftp_flag>2</ftp_flag><valdate>10</valdate><isUpFile>1</isUpFile></vioInfo></rootInfo>
+
+
+2016-06-05 21:37:28:075[Log] msg:
+====================
+
+2016-06-05 21:37:28:091[Log] msg:
+20160605091211510_1_119_未识别_其他_99_0_04_1_6109010004_1352_hik.jpg
+
+2016-06-05 21:37:28:091[Log] msg:
+====================
+
+2016-06-05 21:37:28:106[Log] msg:
+....web service inpasscarinfo proc....
+
+2016-06-05 21:37:28:184[Log] msg:
+<?xml version = "1.0" encoding = "GB2312"?><message System = "ATMS" Ver = "1.0"><systemtype>TGS</systemtype><messagetype>NOTICE</messagetype><sourceIP>3.0</sourceIP><targetIP></targetIP><user>PECCANCY</user><password>PECCANCY</password><peccancyinfo><sjly>2</sjly><hphm>未识别</hphm><hpzl>99</hpzl><wfsj>2016-06-05 09:12:11</wfsj><wfxw>13521</wfxw><wfnr>13521</wfnr><wfdd>610901000004</wfdd><wfdz>京昆高速大河坝</wfdz><cdbh>1</cdbh><fxbh>6109010000043</fxbh><clsd>119</clsd><clxs>80</clxs><zdxs>1</zdxs><cjjg>610901000010</cjjg><cjyh>9999</cjyh><cjsj>2016-06-05 09:12:11</cjsj><zqmj>9999</zqmj><bz></bz><zjwj1>http://10.176.102.31:808/20160605/6109010004/04/1/V_20160605091211510_2.jpg</zjwj1><zjwj2>http://10.176.102.31:808/20160605/6109010004/04/1/V_20160605091211339_1.jpg</zjwj2><zjwj3></zjwj3><zjwj4></zjwj4></peccancyinfo></message>
+
+2016-06-05 21:37:28:184[Log] msg:
+<?xml version="1.0" encoding="GB2312"?><message System="ATMS" Ver="1.0"><systemtype>TGS</systemtype><messagetype>FEEDBACK</messagetype><sourceIP>3.0</sourceIP><targetIP /><user /><password /><executeresult><recordid /><errordescription>CommonDataAccess类Execute_NonQuery1函数出错，错误信息：ORA-00001: 违反唯一约束条件 (TGS_ADMIN.UN_TMS_PECCANCY_TEMP)
+</errordescription><resultnum>-3</resultnum><resultdescription>执行失败！</resultdescription><errorcode>5002</errorcode></executeresult></message>
+
+2016-06-05 21:37:28:184[Log] msg:
+10
+
+2016-06-05 21:37:28:184[Log] msg:
+error[5002]:web service upload data fail!
+
+2016-06-05 21:37:28:184[Log] msg:
+2504
+
+2016-06-05 21:37:28:184[Log] msg:
+send ok
+
+2016-06-05 21:37:28:184[Log] msg:
+send ok
+
+2016-06-05 21:37:28:216[Log] msg:
+10
+
+2016-06-05 21:37:28:216[Log] msg:
+send ok
+
+2016-06-05 21:37:28:278[Log] msg:
+<?xml version="1.0" encoding="UTF-8"?> <rootInfo><headInfo><devCode>6109010004</devCode><license>00000000</license><comName>0000000</comName><comWord>000000</comWord><sendTime>2016-06-05 13:09:43</sendTime><ver>1.2</ver></headInfo><vioInfo><roadcode>610901000004</roadcode><dcode>04</dcode><dcodeOther>2</dcodeOther><lcode>1</lcode><ltype>01</ltype><vioType>1352</vioType><vioTime>2016-06-05 09:12:11:510</vioTime><red_end_time></red_end_time><red_start_time></red_start_time><platenum>00000000</platenum><plateColor>4</plateColor><plateType>99</plateType><carClass>9</carClass><carColor>Z</carColor><carType>X99</carType><carBrand> </carBrand><speedCar>119</speedCar><speedStd>100</speedStd><speedStd_big>80</speedStd_big><speedStd_sml>100</speedStd_sml><img1_path>/20160605/6109010004/04/1/V_20160605091211510_2.jpg</img1_path><img2_path>/20160605/6109010004/04/1/V_20160605091211339_1.jpg</img2_path><img3_path></img3_path><img4_path></img4_path><img5_path></img5_path><img1_s_path></img1_s_path><img2_s_path></img2_s_path><img3_s_path></img3_s_path><img4_s_path></img4_s_path><img5_s_path></img5_s_path><img1_s_prm></img1_s_prm><img2_s_prm></img2_s_prm><img3_s_prm></img3_s_prm><img4_s_prm></img4_s_prm><img5_s_prm></img5_s_prm><video_path></video_path><img_flag>2</img_flag><ftp_flag>2</ftp_flag><valdate>10</valdate><isUpFile>1</isUpFile></vioInfo></rootInfo>
+
+
+2016-06-05 21:37:28:278[Log] msg:
+====================
+
+2016-06-05 21:37:28:278[Log] msg:
+20160605091211510_1_119_未识别_其他_99_0_04_1_6109010004_1352_hik.jpg
+
+2016-06-05 21:37:28:278[Log] msg:
+====================
+
+2016-06-05 21:37:28:294[Log] msg:
+....web service inpasscarinfo proc....
+
+2016-06-05 21:37:28:356[Log] msg:
+3255
+
+2016-06-05 21:37:28:356[Log] msg:
+send ok
+
+2016-06-05 21:37:28:356[Log] msg:
+10
+
+2016-06-05 21:37:28:356[Log] msg:
+send ok
+
+2016-06-05 21:37:28:356[Log] msg:
+2504
+
+2016-06-05 21:37:28:356[Log] msg:
+send ok
+
+2016-06-05 21:37:28:372[Log] msg:
+<?xml version = "1.0" encoding = "GB2312"?><message System = "ATMS" Ver = "1.0"><systemtype>TGS</systemtype><messagetype>NOTICE</messagetype><sourceIP>3.0</sourceIP><targetIP></targetIP><user>PECCANCY</user><password>PECCANCY</password><peccancyinfo><sjly>2</sjly><hphm>未识别</hphm><hpzl>99</hpzl><wfsj>2016-06-05 09:12:11</wfsj><wfxw>13521</wfxw><wfnr>13521</wfnr><wfdd>610901000004</wfdd><wfdz>京昆高速大河坝</wfdz><cdbh>1</cdbh><fxbh>6109010000043</fxbh><clsd>119</clsd><clxs>80</clxs><zdxs>1</zdxs><cjjg>610901000010</cjjg><cjyh>9999</cjyh><cjsj>2016-06-05 09:12:11</cjsj><zqmj>9999</zqmj><bz></bz><zjwj1>http://10.176.102.31:808/20160605/6109010004/04/1/V_20160605091211510_2.jpg</zjwj1><zjwj2>http://10.176.102.31:808/20160605/6109010004/04/1/V_20160605091211339_1.jpg</zjwj2><zjwj3></zjwj3><zjwj4></zjwj4></peccancyinfo></message>
+
+2016-06-05 21:37:28:387[Log] msg:
+<?xml version="1.0" encoding="GB2312"?><message System="ATMS" Ver="1.0"><systemtype>TGS</systemtype><messagetype>FEEDBACK</messagetype><sourceIP>3.0</sourceIP><targetIP /><user /><password /><executeresult><recordid /><errordescription>CommonDataAccess类Execute_NonQuery1函数出错，错误信息：ORA-00001: 违反唯一约束条件 (TGS_ADMIN.UN_TMS_PECCANCY_TEMP)
+</errordescription><resultnum>-3</resultnum><resultdescription>执行失败！</resultdescription><errorcode>5002</errorcode></executeresult></message>
+
+2016-06-05 21:37:28:387[Log] msg:
+error[5002]:web service upload data fail!
+
+2016-06-05 21:37:28:387[Log] msg:
+3255
+
+2016-06-05 21:37:28:387[Log] msg:
+send ok
+
+2016-06-05 21:37:28:403[Log] msg:
+3255
+
+2016-06-05 21:37:28:403[Log] msg:
+send ok
+
+2016-06-05 21:37:28:434[Log] msg:
+<?xml version="1.0" encoding="UTF-8"?> <rootInfo><headInfo><devCode>6109010011</devCode><license>00000000</license><comName>0000000</comName><comWord>000000</comWord><sendTime>2016-06-05 13:09:43</sendTime><ver>1.2</ver></headInfo><listInfo><roadcode>610901000011</roadcode><dcode>04</dcode><dcodeOther>2</dcodeOther><lcode>2</lcode><ltype>01</ltype><plateTime>2016-06-05 12:42:39:649</plateTime><plateFlag>1</plateFlag><fplateNum>00000000</fplateNum><fplateColor>4</fplateColor><fplateType>99</fplateType><carColor>Z</carColor><carType>X99</carType><carBrand> </carBrand><carLength>0</carLength><carWidth>0</carWidth><img1_path>/20160605/6109010011/04/2/K_20160605124239649_2.jpg</img1_path><img2_path>/20160605/6109010011/04/2/K_20160605124239309_1.jpg</img2_path><img3_path></img3_path><img4_path></img4_path><img5_path></img5_path><img1_s_path></img1_s_path><img2_s_path></img2_s_path><img3_s_path></img3_s_path><img4_s_path></img4_s_path><img5_s_path></img5_s_path><img1_s_prm></img1_s_prm><img2_s_prm></img2_s_prm><img3_s_prm></img3_s_prm><img4_s_prm></img4_s_prm><img5_s_prm></img5_s_prm><img_flag>2</img_flag><ftp_flag>2</ftp_flag><platePos></platePos><driverPos></driverPos><carSpeed>50</carSpeed><valdate>3255</valdate><isUpFile>1</isUpFile></listInfo></rootInfo>
+
+
+2016-06-05 21:37:28:434[Log] msg:
+====================
+
+2016-06-05 21:37:28:434[Log] msg:
+20160605124239649_0_50_未识别_其他_02_0_04_2_6109010011_0_hik.jpg
+
+2016-06-05 21:37:28:434[Log] msg:
+====================
+
+2016-06-05 21:37:28:434[Log] msg:
+....web service inpasscarinfo proc....
+
+2016-06-05 21:37:28:465[Log] msg:
+<?xml version = "1.0" encoding = "GB2312"?><message System = "ATMS" Ver = "1.0"><systemtype>TGS</systemtype><messagetype>NOTICE</messagetype><sourceIP>3.0</sourceIP><targetIP></targetIP><user>PASSCAR</user><password>PASSCAR</password><passcarinfo><kkid>6109010000110000</kkid><hphm>未识别</hphm><hpys>其他</hpys><cllx>01</cllx><gwsj>2016-06-05 12:42:39</gwsj><fxbh>3</fxbh><cdbh>2</cdbh><clsd>50</clsd><zjwj1>http://10.176.102.31:808/20160605/6109010011/04/2/K_20160605124239649_2.jpg</zjwj1><zjwj2>http://10.176.102.31:808/20160605/6109010011/04/2/K_20160605124239309_1.jpg</zjwj2><zjwj3></zjwj3><zjwj4></zjwj4><jllx>0</jllx><cshm>649</cshm></passcarinfo></message>
+
+2016-06-05 21:37:28:481[Log] msg:
+<?xml version="1.0" encoding="GB2312"?><message System="ATMS" Ver="1.0"><systemtype>TGS</systemtype><messagetype>FEEDBACK</messagetype><sourceIP>3.0</sourceIP><targetIP /><user /><password /><executeresult><recordid>61090100001100000082320290</recordid><errordescription /><resultnum>1</resultnum><resultdescription>OperateSuccess</resultdescription><errorcode>0</errorcode></executeresult></message>
+
+2016-06-05 21:37:28:543[Log] msg:
+<?xml version="1.0" encoding="UTF-8"?> <rootInfo><headInfo><devCode>6109010002</devCode><license>00000000</license><comName>0000000</comName><comWord>000000</comWord><sendTime>2016-06-05 13:09:44</sendTime><ver>1.2</ver></headInfo><listInfo><roadcode>610901000002</roadcode><dcode>03</dcode><dcodeOther>1</dcodeOther><lcode>2</lcode><ltype>01</ltype><plateTime>2016-06-05 13:06:22:878</plateTime><plateFlag>1</plateFlag><fplateNum>闄旻8331D</fplateNum><fplateColor>2</f

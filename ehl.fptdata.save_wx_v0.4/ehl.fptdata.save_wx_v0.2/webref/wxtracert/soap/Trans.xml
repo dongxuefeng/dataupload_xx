@@ -1,0 +1,350 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<wsdl:definitions targetNamespace="http://webservice.tfc.tmri.com" xmlns:apachesoap="http://xml.apache.org/xml-soap" xmlns:impl="http://webservice.tfc.tmri.com" xmlns:intf="http://webservice.tfc.tmri.com" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/" xmlns:wsdlsoap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<!--WSDL created by Apache Axis version: 1.4
+Built on Apr 22, 2006 (06:55:48 PDT)-->
+ <wsdl:types>
+  <schema elementFormDefault="qualified" targetNamespace="http://webservice.tfc.tmri.com" xmlns="http://www.w3.org/2001/XMLSchema">
+   <element name="InitTrans">
+    <complexType>
+     <sequence>
+      <element name="kkbh" type="xsd:string"/>
+      <element name="fxlx" type="xsd:string"/>
+      <element name="cdh" type="xsd:long"/>
+      <element name="info" type="xsd:string"/>
+     </sequence>
+    </complexType>
+   </element>
+   <element name="InitTransResponse">
+    <complexType>
+     <sequence>
+      <element name="InitTransReturn" type="xsd:long"/>
+     </sequence>
+    </complexType>
+   </element>
+   <element name="WriteVehicleInfo">
+    <complexType>
+     <sequence>
+      <element name="kkbh" type="xsd:string"/>
+      <element name="fxlx" type="xsd:string"/>
+      <element name="cdh" type="xsd:long"/>
+      <element name="hphm" type="xsd:string"/>
+      <element name="hpzl" type="xsd:string"/>
+      <element name="gcsj" type="xsd:string"/>
+      <element name="clsd" type="xsd:long"/>
+      <element name="clxs" type="xsd:long"/>
+      <element name="wfdm" type="xsd:string"/>
+      <element name="cwkc" type="xsd:long"/>
+      <element name="hpys" type="xsd:string"/>
+      <element name="cllx" type="xsd:string"/>
+      <element name="fzhpzl" type="xsd:string"/>
+      <element name="fzhphm" type="xsd:string"/>
+      <element name="fzhpys" type="xsd:string"/>
+      <element name="clpp" type="xsd:string"/>
+      <element name="clwx" type="xsd:string"/>
+      <element name="csys" type="xsd:string"/>
+      <element name="tplj" type="xsd:string"/>
+      <element name="tp1" type="xsd:string"/>
+      <element name="tp2" type="xsd:string"/>
+      <element name="tp3" type="xsd:string"/>
+      <element name="tztp" type="xsd:string"/>
+     </sequence>
+    </complexType>
+   </element>
+   <element name="WriteVehicleInfoResponse">
+    <complexType>
+     <sequence>
+      <element name="WriteVehicleInfoReturn" type="xsd:long"/>
+     </sequence>
+    </complexType>
+   </element>
+   <element name="QueryLimitSpeed">
+    <complexType>
+     <sequence>
+      <element name="kkbh" type="xsd:string"/>
+      <element name="fxlx" type="xsd:string"/>
+      <element name="cdh" type="xsd:long"/>
+      <element name="cllx" type="xsd:string"/>
+     </sequence>
+    </complexType>
+   </element>
+   <element name="QueryLimitSpeedResponse">
+    <complexType>
+     <sequence>
+      <element name="QueryLimitSpeedReturn" type="xsd:long"/>
+     </sequence>
+    </complexType>
+   </element>
+   <element name="QuerySyncTime">
+    <complexType/>
+   </element>
+   <element name="QuerySyncTimeResponse">
+    <complexType>
+     <sequence>
+      <element name="QuerySyncTimeReturn" type="xsd:string"/>
+     </sequence>
+    </complexType>
+   </element>
+   <element name="GetLastMessage">
+    <complexType/>
+   </element>
+   <element name="GetLastMessageResponse">
+    <complexType>
+     <sequence>
+      <element name="GetLastMessageReturn" type="xsd:string"/>
+     </sequence>
+    </complexType>
+   </element>
+  </schema>
+ </wsdl:types>
+
+   <wsdl:message name="QueryLimitSpeedRequest">
+
+      <wsdl:part element="impl:QueryLimitSpeed" name="parameters">
+
+      </wsdl:part>
+
+   </wsdl:message>
+
+   <wsdl:message name="InitTransResponse">
+
+      <wsdl:part element="impl:InitTransResponse" name="parameters">
+
+      </wsdl:part>
+
+   </wsdl:message>
+
+   <wsdl:message name="QuerySyncTimeRequest">
+
+      <wsdl:part element="impl:QuerySyncTime" name="parameters">
+
+      </wsdl:part>
+
+   </wsdl:message>
+
+   <wsdl:message name="GetLastMessageResponse">
+
+      <wsdl:part element="impl:GetLastMessageResponse" name="parameters">
+
+      </wsdl:part>
+
+   </wsdl:message>
+
+   <wsdl:message name="WriteVehicleInfoResponse">
+
+      <wsdl:part element="impl:WriteVehicleInfoResponse" name="parameters">
+
+      </wsdl:part>
+
+   </wsdl:message>
+
+   <wsdl:message name="QuerySyncTimeResponse">
+
+      <wsdl:part element="impl:QuerySyncTimeResponse" name="parameters">
+
+      </wsdl:part>
+
+   </wsdl:message>
+
+   <wsdl:message name="InitTransRequest">
+
+      <wsdl:part element="impl:InitTrans" name="parameters">
+
+      </wsdl:part>
+
+   </wsdl:message>
+
+   <wsdl:message name="QueryLimitSpeedResponse">
+
+      <wsdl:part element="impl:QueryLimitSpeedResponse" name="parameters">
+
+      </wsdl:part>
+
+   </wsdl:message>
+
+   <wsdl:message name="GetLastMessageRequest">
+
+      <wsdl:part element="impl:GetLastMessage" name="parameters">
+
+      </wsdl:part>
+
+   </wsdl:message>
+
+   <wsdl:message name="WriteVehicleInfoRequest">
+
+      <wsdl:part element="impl:WriteVehicleInfo" name="parameters">
+
+      </wsdl:part>
+
+   </wsdl:message>
+
+   <wsdl:portType name="Trans">
+
+      <wsdl:operation name="InitTrans">
+
+         <wsdl:input message="impl:InitTransRequest" name="InitTransRequest">
+
+       </wsdl:input>
+
+         <wsdl:output message="impl:InitTransResponse" name="InitTransResponse">
+
+       </wsdl:output>
+
+      </wsdl:operation>
+
+      <wsdl:operation name="WriteVehicleInfo">
+
+         <wsdl:input message="impl:WriteVehicleInfoRequest" name="WriteVehicleInfoRequest">
+
+       </wsdl:input>
+
+         <wsdl:output message="impl:WriteVehicleInfoResponse" name="WriteVehicleInfoResponse">
+
+       </wsdl:output>
+
+      </wsdl:operation>
+
+      <wsdl:operation name="QueryLimitSpeed">
+
+         <wsdl:input message="impl:QueryLimitSpeedRequest" name="QueryLimitSpeedRequest">
+
+       </wsdl:input>
+
+         <wsdl:output message="impl:QueryLimitSpeedResponse" name="QueryLimitSpeedResponse">
+
+       </wsdl:output>
+
+      </wsdl:operation>
+
+      <wsdl:operation name="QuerySyncTime">
+
+         <wsdl:input message="impl:QuerySyncTimeRequest" name="QuerySyncTimeRequest">
+
+       </wsdl:input>
+
+         <wsdl:output message="impl:QuerySyncTimeResponse" name="QuerySyncTimeResponse">
+
+       </wsdl:output>
+
+      </wsdl:operation>
+
+      <wsdl:operation name="GetLastMessage">
+
+         <wsdl:input message="impl:GetLastMessageRequest" name="GetLastMessageRequest">
+
+       </wsdl:input>
+
+         <wsdl:output message="impl:GetLastMessageResponse" name="GetLastMessageResponse">
+
+       </wsdl:output>
+
+      </wsdl:operation>
+
+   </wsdl:portType>
+
+   <wsdl:binding name="TransSoapBinding" type="impl:Trans">
+
+      <wsdlsoap:binding style="document" transport="http://schemas.xmlsoap.org/soap/http"/>
+
+      <wsdl:operation name="InitTrans">
+
+         <wsdlsoap:operation soapAction=""/>
+
+         <wsdl:input name="InitTransRequest">
+
+            <wsdlsoap:body use="literal"/>
+
+         </wsdl:input>
+
+         <wsdl:output name="InitTransResponse">
+
+            <wsdlsoap:body use="literal"/>
+
+         </wsdl:output>
+
+      </wsdl:operation>
+
+      <wsdl:operation name="WriteVehicleInfo">
+
+         <wsdlsoap:operation soapAction=""/>
+
+         <wsdl:input name="WriteVehicleInfoRequest">
+
+            <wsdlsoap:body use="literal"/>
+
+         </wsdl:input>
+
+         <wsdl:output name="WriteVehicleInfoResponse">
+
+            <wsdlsoap:body use="literal"/>
+
+         </wsdl:output>
+
+      </wsdl:operation>
+
+      <wsdl:operation name="QueryLimitSpeed">
+
+         <wsdlsoap:operation soapAction=""/>
+
+         <wsdl:input name="QueryLimitSpeedRequest">
+
+            <wsdlsoap:body use="literal"/>
+
+         </wsdl:input>
+
+         <wsdl:output name="QueryLimitSpeedResponse">
+
+            <wsdlsoap:body use="literal"/>
+
+         </wsdl:output>
+
+      </wsdl:operation>
+
+      <wsdl:operation name="QuerySyncTime">
+
+         <wsdlsoap:operation soapAction=""/>
+
+         <wsdl:input name="QuerySyncTimeRequest">
+
+            <wsdlsoap:body use="literal"/>
+
+         </wsdl:input>
+
+         <wsdl:output name="QuerySyncTimeResponse">
+
+            <wsdlsoap:body use="literal"/>
+
+         </wsdl:output>
+
+      </wsdl:operation>
+
+      <wsdl:operation name="GetLastMessage">
+
+         <wsdlsoap:operation soapAction=""/>
+
+         <wsdl:input name="GetLastMessageRequest">
+
+            <wsdlsoap:body use="literal"/>
+
+         </wsdl:input>
+
+         <wsdl:output name="GetLastMessageResponse">
+
+            <wsdlsoap:body use="literal"/>
+
+         </wsdl:output>
+
+      </wsdl:operation>
+
+   </wsdl:binding>
+
+   <wsdl:service name="TransService">
+
+      <wsdl:port binding="impl:TransSoapBinding" name="Trans">
+
+         <wsdlsoap:address location="http://10.176.100.185:9080/rminf/services/Trans"/>
+
+      </wsdl:port>
+
+   </wsdl:service>
+
+</wsdl:definitions>

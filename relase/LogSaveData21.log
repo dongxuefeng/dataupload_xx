@@ -1,0 +1,2155 @@
+
+2016-06-05 21:00:01:192[Log] msg:
+车道重新注册
+
+2016-06-05 21:00:01:192[Log] msg:
+610900100008_1_2
+
+2016-06-05 21:00:01:192[Log] msg:
+
+ init trans hostip(10.176.100.185),kkbh(610900100007),fxlx(2),cdh(2),info(<info><jkid>62C01</jkid><jkxlh>791F09090306170309158E9882DB8B8E8FEEF681FF8B9AEB92CFD0A1A1C5A5D3CCA8</jkxlh><time>2016-06-05 21:00:01</time></info>),return(-2)
+
+
+2016-06-05 21:00:01:192[Log] msg:
+卡口注册失败！
+
+2016-06-05 21:00:01:192[Log] msg:
+error[-1]:web service upload data fail!
+
+2016-06-05 21:00:01:504[Log] msg:
+车道重新注册
+
+2016-06-05 21:00:01:504[Log] msg:
+610900100005_1_1
+
+2016-06-05 21:00:01:504[Log] msg:
+
+ init trans hostip(10.176.100.185),kkbh(610900100008),fxlx(1),cdh(2),info(<info><jkid>62C01</jkid><jkxlh>791F09090306170309158E9882DB8B8E8FEEF681FF8B9AEB92CFD0A1A1C5A5D3CCA8</jkxlh><time>2016-06-05 21:00:01</time></info>),return(-2)
+
+
+2016-06-05 21:00:01:504[Log] msg:
+卡口注册失败！
+
+2016-06-05 21:00:01:519[Log] msg:
+error[-1]:web service upload data fail!
+
+2016-06-05 21:00:01:831[Log] msg:
+车道重新注册
+
+2016-06-05 21:00:01:831[Log] msg:
+610900100007_2_2
+
+2016-06-05 21:00:01:831[Log] msg:
+
+ init trans hostip(10.176.100.185),kkbh(610900100005),fxlx(1),cdh(1),info(<info><jkid>62C01</jkid><jkxlh>791F09090306170309158E9882DB8B8E8FEEF681FF8B9AEB92CFD0A1A1C5A5D3CCA8</jkxlh><time>2016-06-05 21:00:01</time></info>),return(-2)
+
+
+2016-06-05 21:00:01:831[Log] msg:
+卡口注册失败！
+
+2016-06-05 21:00:01:831[Log] msg:
+error[-1]:web service upload data fail!
+
+2016-06-05 21:00:02:174[Log] msg:
+车道重新注册
+
+2016-06-05 21:00:02:174[Log] msg:
+610900100008_1_2
+
+2016-06-05 21:00:02:174[Log] msg:
+
+ init trans hostip(10.176.100.185),kkbh(610900100007),fxlx(2),cdh(2),info(<info><jkid>62C01</jkid><jkxlh>791F09090306170309158E9882DB8B8E8FEEF681FF8B9AEB92CFD0A1A1C5A5D3CCA8</jkxlh><time>2016-06-05 21:00:02</time></info>),return(-2)
+
+
+2016-06-05 21:00:02:174[Log] msg:
+卡口注册失败！
+
+2016-06-05 21:00:02:174[Log] msg:
+error[-1]:web service upload data fail!
+
+2016-06-05 21:00:02:237[Log] msg:
+车道重新注册
+
+2016-06-05 21:00:02:237[Log] msg:
+610900100008_1_2
+
+2016-06-05 21:00:02:237[Log] msg:
+
+ init trans hostip(10.176.100.185),kkbh(610900100007),fxlx(2),cdh(2),info(<info><jkid>62C01</jkid><jkxlh>791F09090306170309158E9882DB8B8E8FEEF681FF8B9AEB92CFD0A1A1C5A5D3CCA8</jkxlh><time>2016-06-05 21:00:02</time></info>),return(-2)
+
+
+2016-06-05 21:00:02:237[Log] msg:
+卡口注册失败！
+
+2016-06-05 21:00:02:237[Log] msg:
+error[-1]:web service upload data fail!
+
+2016-06-05 21:00:02:440[Log] msg:
+车道重新注册
+
+2016-06-05 21:00:02:440[Log] msg:
+610900100005_1_1
+
+2016-06-05 21:00:02:440[Log] msg:
+
+ init trans hostip(10.176.100.185),kkbh(610900100008),fxlx(1),cdh(2),info(<info><jkid>62C01</jkid><jkxlh>791F09090306170309158E9882DB8B8E8FEEF681FF8B9AEB92CFD0A1A1C5A5D3CCA8</jkxlh><time>2016-06-05 21:00:02</time></info>),return(-2)
+
+
+2016-06-05 21:00:02:440[Log] msg:
+卡口注册失败！
+
+2016-06-05 21:00:02:440[Log] msg:
+error[-1]:web service upload data fail!
+
+2016-06-05 21:00:02:549[Log] msg:
+车道重新注册
+
+2016-06-05 21:00:02:549[Log] msg:
+610900100005_1_1
+
+2016-06-05 21:00:02:549[Log] msg:
+
+ init trans hostip(10.176.100.185),kkbh(610900100008),fxlx(1),cdh(2),info(<info><jkid>62C01</jkid><jkxlh>791F09090306170309158E9882DB8B8E8FEEF681FF8B9AEB92CFD0A1A1C5A5D3CCA8</jkxlh><time>2016-06-05 21:00:02</time></info>),return(-2)
+
+
+2016-06-05 21:00:02:549[Log] msg:
+卡口注册失败！
+
+2016-06-05 21:00:02:549[Log] msg:
+error[-1]:web service upload data fail!
+
+2016-06-05 21:00:02:814[Log] msg:
+车道重新注册
+
+2016-06-05 21:00:02:814[Log] msg:
+610900100007_2_2
+
+2016-06-05 21:00:02:814[Log] msg:
+
+ init trans hostip(10.176.100.185),kkbh(610900100005),fxlx(1),cdh(1),info(<info><jkid>62C01</jkid><jkxlh>791F09090306170309158E9882DB8B8E8FEEF681FF8B9AEB92CFD0A1A1C5A5D3CCA8</jkxlh><time>2016-06-05 21:00:02</time></info>),return(-2)
+
+
+2016-06-05 21:00:02:814[Log] msg:
+卡口注册失败！
+
+2016-06-05 21:00:02:814[Log] msg:
+error[-1]:web service upload data fail!
+
+2016-06-05 21:00:02:954[Log] msg:
+车道重新注册
+
+2016-06-05 21:00:02:954[Log] msg:
+610900100007_2_2
+
+2016-06-05 21:00:02:954[Log] msg:
+
+ init trans hostip(10.176.100.185),kkbh(610900100007),fxlx(2),cdh(2),info(<info><jkid>62C01</jkid><jkxlh>791F09090306170309158E9882DB8B8E8FEEF681FF8B9AEB92CFD0A1A1C5A5D3CCA8</jkxlh><time>2016-06-05 21:00:02</time></info>),return(-2)
+
+
+2016-06-05 21:00:02:954[Log] msg:
+卡口注册失败！
+
+2016-06-05 21:00:02:954[Log] msg:
+error[-1]:web service upload data fail!
+
+2016-06-05 21:00:03:188[Log] msg:
+车道重新注册
+
+2016-06-05 21:00:03:188[Log] msg:
+610900100008_1_2
+
+2016-06-05 21:00:03:188[Log] msg:
+
+ init trans hostip(10.176.100.185),kkbh(610900100007),fxlx(2),cdh(2),info(<info><jkid>62C01</jkid><jkxlh>791F09090306170309158E9882DB8B8E8FEEF681FF8B9AEB92CFD0A1A1C5A5D3CCA8</jkxlh><time>2016-06-05 21:00:03</time></info>),return(-2)
+
+
+2016-06-05 21:00:03:188[Log] msg:
+卡口注册失败！
+
+2016-06-05 21:00:03:188[Log] msg:
+error[-1]:web service upload data fail!
+
+2016-06-05 21:00:03:360[Log] msg:
+车道重新注册
+
+2016-06-05 21:00:03:360[Log] msg:
+610900100008_1_2
+
+2016-06-05 21:00:03:360[Log] msg:
+
+ init trans hostip(10.176.100.185),kkbh(610900100008),fxlx(1),cdh(2),info(<info><jkid>62C01</jkid><jkxlh>791F09090306170309158E9882DB8B8E8FEEF681FF8B9AEB92CFD0A1A1C5A5D3CCA8</jkxlh><time>2016-06-05 21:00:03</time></info>),return(-2)
+
+
+2016-06-05 21:00:03:360[Log] msg:
+卡口注册失败！
+
+2016-06-05 21:00:03:360[Log] msg:
+error[-1]:web service upload data fail!
+
+2016-06-05 21:00:03:625[Log] msg:
+车道重新注册
+
+2016-06-05 21:00:03:641[Log] msg:
+610900100005_1_1
+
+2016-06-05 21:00:03:641[Log] msg:
+
+ init trans hostip(10.176.100.185),kkbh(610900100008),fxlx(1),cdh(2),info(<info><jkid>62C01</jkid><jkxlh>791F09090306170309158E9882DB8B8E8FEEF681FF8B9AEB92CFD0A1A1C5A5D3CCA8</jkxlh><time>2016-06-05 21:00:03</time></info>),return(-2)
+
+
+2016-06-05 21:00:03:641[Log] msg:
+卡口注册失败！
+
+2016-06-05 21:00:03:641[Log] msg:
+error[-1]:web service upload data fail!
+
+2016-06-05 21:00:03:875[Log] msg:
+车道重新注册
+
+2016-06-05 21:00:03:875[Log] msg:
+610900100007_2_2
+
+2016-06-05 21:00:03:875[Log] msg:
+
+ init trans hostip(10.176.100.185),kkbh(610900100005),fxlx(1),cdh(1),info(<info><jkid>62C01</jkid><jkxlh>791F09090306170309158E9882DB8B8E8FEEF681FF8B9AEB92CFD0A1A1C5A5D3CCA8</jkxlh><time>2016-06-05 21:00:03</time></info>),return(-2)
+
+
+2016-06-05 21:00:03:875[Log] msg:
+卡口注册失败！
+
+2016-06-05 21:00:03:875[Log] msg:
+error[-1]:web service upload data fail!
+
+2016-06-05 21:00:04:078[Log] msg:
+车道重新注册
+
+2016-06-05 21:00:04:078[Log] msg:
+610900100007_2_2
+
+2016-06-05 21:00:04:078[Log] msg:
+
+ init trans hostip(10.176.100.185),kkbh(610900100007),fxlx(2),cdh(2),info(<info><jkid>62C01</jkid><jkxlh>791F09090306170309158E9882DB8B8E8FEEF681FF8B9AEB92CFD0A1A1C5A5D3CCA8</jkxlh><time>2016-06-05 21:00:04</time></info>),return(-2)
+
+
+2016-06-05 21:00:04:078[Log] msg:
+卡口注册失败！
+
+2016-06-05 21:00:04:078[Log] msg:
+error[-1]:web service upload data fail!
+
+2016-06-05 21:00:04:312[Log] msg:
+车道重新注册
+
+2016-06-05 21:00:04:312[Log] msg:
+610900100008_1_2
+
+2016-06-05 21:00:04:312[Log] msg:
+
+ init trans hostip(10.176.100.185),kkbh(610900100007),fxlx(2),cdh(2),info(<info><jkid>62C01</jkid><jkxlh>791F09090306170309158E9882DB8B8E8FEEF681FF8B9AEB92CFD0A1A1C5A5D3CCA8</jkxlh><time>2016-06-05 21:00:04</time></info>),return(-2)
+
+
+2016-06-05 21:00:04:327[Log] msg:
+卡口注册失败！
+
+2016-06-05 21:00:04:327[Log] msg:
+error[-1]:web service upload data fail!
+
+2016-06-05 21:00:04:639[Log] msg:
+车道重新注册
+
+2016-06-05 21:00:04:639[Log] msg:
+610900100005_1_1
+
+2016-06-05 21:00:04:639[Log] msg:
+
+ init trans hostip(10.176.100.185),kkbh(610900100005),fxlx(1),cdh(1),info(<info><jkid>62C01</jkid><jkxlh>791F09090306170309158E9882DB8B8E8FEEF681FF8B9AEB92CFD0A1A1C5A5D3CCA8</jkxlh><time>2016-06-05 21:00:04</time></info>),return(-2)
+
+
+2016-06-05 21:00:04:639[Log] msg:
+卡口注册失败！
+
+2016-06-05 21:00:04:639[Log] msg:
+error[-1]:web service upload data fail!
+
+2016-06-05 21:00:04:904[Log] msg:
+车道重新注册
+
+2016-06-05 21:00:04:904[Log] msg:
+610900100007_2_2
+
+2016-06-05 21:00:04:904[Log] msg:
+
+ init trans hostip(10.176.100.185),kkbh(610900100005),fxlx(1),cdh(1),info(<info><jkid>62C01</jkid><jkxlh>791F09090306170309158E9882DB8B8E8FEEF681FF8B9AEB92CFD0A1A1C5A5D3CCA8</jkxlh><time>2016-06-05 21:00:04</time></info>),return(-2)
+
+
+2016-06-05 21:00:04:904[Log] msg:
+卡口注册失败！
+
+2016-06-05 21:00:04:904[Log] msg:
+error[-1]:web service upload data fail!
+
+2016-06-05 21:00:05:138[Log] msg:
+车道重新注册
+
+2016-06-05 21:00:05:138[Log] msg:
+610900100007_2_2
+
+2016-06-05 21:00:05:138[Log] msg:
+
+ init trans hostip(10.176.100.185),kkbh(610900100007),fxlx(2),cdh(2),info(<info><jkid>62C01</jkid><jkxlh>791F09090306170309158E9882DB8B8E8FEEF681FF8B9AEB92CFD0A1A1C5A5D3CCA8</jkxlh><time>2016-06-05 21:00:05</time></info>),return(-2)
+
+
+2016-06-05 21:00:05:154[Log] msg:
+卡口注册失败！
+
+2016-06-05 21:00:05:154[Log] msg:
+error[-1]:web service upload data fail!
+
+2016-06-05 21:00:05:388[Log] msg:
+车道重新注册
+
+2016-06-05 21:00:05:388[Log] msg:
+610900100008_1_2
+
+2016-06-05 21:00:05:388[Log] msg:
+
+ init trans hostip(10.176.100.185),kkbh(610900100008),fxlx(1),cdh(2),info(<info><jkid>62C01</jkid><jkxlh>791F09090306170309158E9882DB8B8E8FEEF681FF8B9AEB92CFD0A1A1C5A5D3CCA8</jkxlh><time>2016-06-05 21:00:05</time></info>),return(-2)
+
+
+2016-06-05 21:00:05:388[Log] msg:
+卡口注册失败！
+
+2016-06-05 21:00:05:388[Log] msg:
+error[-1]:web service upload data fail!
+
+2016-06-05 21:00:05:731[Log] msg:
+车道重新注册
+
+2016-06-05 21:00:05:731[Log] msg:
+610900100005_1_1
+
+2016-06-05 21:00:05:731[Log] msg:
+
+ init trans hostip(10.176.100.185),kkbh(610900100005),fxlx(1),cdh(1),info(<info><jkid>62C01</jkid><jkxlh>791F09090306170309158E9882DB8B8E8FEEF681FF8B9AEB92CFD0A1A1C5A5D3CCA8</jkxlh><time>2016-06-05 21:00:05</time></info>),return(-2)
+
+
+2016-06-05 21:00:05:731[Log] msg:
+卡口注册失败！
+
+2016-06-05 21:00:05:731[Log] msg:
+error[-1]:web service upload data fail!
+
+2016-06-05 21:00:05:934[Log] msg:
+车道重新注册
+
+2016-06-05 21:00:05:934[Log] msg:
+610900100007_2_2
+
+2016-06-05 21:00:05:934[Log] msg:
+
+ init trans hostip(10.176.100.185),kkbh(610900100005),fxlx(1),cdh(1),info(<info><jkid>62C01</jkid><jkxlh>791F09090306170309158E9882DB8B8E8FEEF681FF8B9AEB92CFD0A1A1C5A5D3CCA8</jkxlh><time>2016-06-05 21:00:05</time></info>),return(-2)
+
+
+2016-06-05 21:00:05:934[Log] msg:
+卡口注册失败！
+
+2016-06-05 21:00:05:934[Log] msg:
+error[-1]:web service upload data fail!
+
+2016-06-05 21:00:06:137[Log] msg:
+车道重新注册
+
+2016-06-05 21:00:06:137[Log] msg:
+610900100007_2_2
+
+2016-06-05 21:00:06:137[Log] msg:
+
+ init trans hostip(10.176.100.185),kkbh(610900100007),fxlx(2),cdh(2),info(<info><jkid>62C01</jkid><jkxlh>791F09090306170309158E9882DB8B8E8FEEF681FF8B9AEB92CFD0A1A1C5A5D3CCA8</jkxlh><time>2016-06-05 21:00:06</time></info>),return(-2)
+
+
+2016-06-05 21:00:06:137[Log] msg:
+卡口注册失败！
+
+2016-06-05 21:00:06:137[Log] msg:
+error[-1]:web service upload data fail!
+
+2016-06-05 21:00:06:355[Log] msg:
+车道重新注册
+
+2016-06-05 21:00:06:355[Log] msg:
+610900100008_1_2
+
+2016-06-05 21:00:06:355[Log] msg:
+
+ init trans hostip(10.176.100.185),kkbh(610900100007),fxlx(2),cdh(2),info(<info><jkid>62C01</jkid><jkxlh>791F09090306170309158E9882DB8B8E8FEEF681FF8B9AEB92CFD0A1A1C5A5D3CCA8</jkxlh><time>2016-06-05 21:00:06</time></info>),return(-2)
+
+
+2016-06-05 21:00:06:355[Log] msg:
+卡口注册失败！
+
+2016-06-05 21:00:06:355[Log] msg:
+error[-1]:web service upload data fail!
+
+2016-06-05 21:00:06:652[Log] msg:
+车道重新注册
+
+2016-06-05 21:00:06:667[Log] msg:
+610900100005_1_1
+
+2016-06-05 21:00:06:683[Log] msg:
+
+ init trans hostip(10.176.100.185),kkbh(610900100008),fxlx(1),cdh(2),info(<info><jkid>62C01</jkid><jkxlh>791F09090306170309158E9882DB8B8E8FEEF681FF8B9AEB92CFD0A1A1C5A5D3CCA8</jkxlh><time>2016-06-05 21:00:06</time></info>),return(-2)
+
+
+2016-06-05 21:00:06:683[Log] msg:
+卡口注册失败！
+
+2016-06-05 21:00:06:683[Log] msg:
+error[-1]:web service upload data fail!
+
+2016-06-05 21:00:06:964[Log] msg:
+车道重新注册
+
+2016-06-05 21:00:06:964[Log] msg:
+610900100007_2_2
+
+2016-06-05 21:00:06:964[Log] msg:
+
+ init trans hostip(10.176.100.185),kkbh(610900100008),fxlx(1),cdh(2),info(<info><jkid>62C01</jkid><jkxlh>791F09090306170309158E9882DB8B8E8FEEF681FF8B9AEB92CFD0A1A1C5A5D3CCA8</jkxlh><time>2016-06-05 21:00:06</time></info>),return(-2)
+
+
+2016-06-05 21:00:06:964[Log] msg:
+卡口注册失败！
+
+2016-06-05 21:00:06:964[Log] msg:
+error[-1]:web service upload data fail!
+
+2016-06-05 21:00:07:151[Log] msg:
+车道重新注册
+
+2016-06-05 21:00:07:151[Log] msg:
+610900100007_2_2
+
+2016-06-05 21:00:07:151[Log] msg:
+
+ init trans hostip(10.176.100.185),kkbh(610900100007),fxlx(2),cdh(2),info(<info><jkid>62C01</jkid><jkxlh>791F09090306170309158E9882DB8B8E8FEEF681FF8B9AEB92CFD0A1A1C5A5D3CCA8</jkxlh><time>2016-06-05 21:00:07</time></info>),return(-2)
+
+
+2016-06-05 21:00:07:151[Log] msg:
+卡口注册失败！
+
+2016-06-05 21:00:07:151[Log] msg:
+error[-1]:web service upload data fail!
+
+2016-06-05 21:00:07:322[Log] msg:
+添加车道注册：
+
+2016-06-05 21:00:07:322[Log] msg:
+610900100006_2_1
+
+2016-06-05 21:00:07:322[Log] msg:
+
+ init trans hostip(10.176.100.185),kkbh(610900100006),fxlx(2),cdh(1),info(<info><jkid>62C01</jkid><jkxlh>791F09090306170309158E9882DB8B8E8FEEF681FF8B9AEB92CFD0A1A1C5A5D3CCA8</jkxlh><time>2016-06-05 21:00:07</time></info>),return(-2)
+
+
+2016-06-05 21:00:07:322[Log] msg:
+卡口注册失败！
+
+2016-06-05 21:00:07:322[Log] msg:
+error[-1]:web service upload data fail!
+
+2016-06-05 21:00:07:354[Log] msg:
+车道重新注册
+
+2016-06-05 21:00:07:354[Log] msg:
+610900100008_1_2
+
+2016-06-05 21:00:07:354[Log] msg:
+
+ init trans hostip(10.176.100.185),kkbh(610900100006),fxlx(2),cdh(1),info(<info><jkid>62C01</jkid><jkxlh>791F09090306170309158E9882DB8B8E8FEEF681FF8B9AEB92CFD0A1A1C5A5D3CCA8</jkxlh><time>2016-06-05 21:00:07</time></info>),return(-2)
+
+
+2016-06-05 21:00:07:354[Log] msg:
+卡口注册失败！
+
+2016-06-05 21:00:07:354[Log] msg:
+error[-1]:web service upload data fail!
+
+2016-06-05 21:00:07:650[Log] msg:
+车道重新注册
+
+2016-06-05 21:00:07:650[Log] msg:
+610900100005_1_1
+
+2016-06-05 21:00:07:650[Log] msg:
+
+ init trans hostip(10.176.100.185),kkbh(610900100008),fxlx(1),cdh(2),info(<info><jkid>62C01</jkid><jkxlh>791F09090306170309158E9882DB8B8E8FEEF681FF8B9AEB92CFD0A1A1C5A5D3CCA8</jkxlh><time>2016-06-05 21:00:07</time></info>),return(-2)
+
+
+2016-06-05 21:00:07:650[Log] msg:
+卡口注册失败！
+
+2016-06-05 21:00:07:650[Log] msg:
+error[-1]:web service upload data fail!
+
+2016-06-05 21:00:07:993[Log] msg:
+车道重新注册
+
+2016-06-05 21:00:07:993[Log] msg:
+610900100007_2_2
+
+2016-06-05 21:00:07:993[Log] msg:
+
+ init trans hostip(10.176.100.185),kkbh(610900100008),fxlx(1),cdh(2),info(<info><jkid>62C01</jkid><jkxlh>791F09090306170309158E9882DB8B8E8FEEF681FF8B9AEB92CFD0A1A1C5A5D3CCA8</jkxlh><time>2016-06-05 21:00:07</time></info>),return(-2)
+
+
+2016-06-05 21:00:07:993[Log] msg:
+卡口注册失败！
+
+2016-06-05 21:00:07:993[Log] msg:
+error[-1]:web service upload data fail!
+
+2016-06-05 21:00:08:180[Log] msg:
+车道重新注册
+
+2016-06-05 21:00:08:180[Log] msg:
+610900100007_2_2
+
+2016-06-05 21:00:08:180[Log] msg:
+
+ init trans hostip(10.176.100.185),kkbh(610900100007),fxlx(2),cdh(2),info(<info><jkid>62C01</jkid><jkxlh>791F09090306170309158E9882DB8B8E8FEEF681FF8B9AEB92CFD0A1A1C5A5D3CCA8</jkxlh><time>2016-06-05 21:00:08</time></info>),return(-2)
+
+
+2016-06-05 21:00:08:180[Log] msg:
+卡口注册失败！
+
+2016-06-05 21:00:08:180[Log] msg:
+error[-1]:web service upload data fail!
+
+2016-06-05 21:00:08:399[Log] msg:
+车道重新注册
+
+2016-06-05 21:00:08:399[Log] msg:
+610900100008_1_2
+
+2016-06-05 21:00:08:414[Log] msg:
+
+ init trans hostip(10.176.100.185),kkbh(610900100007),fxlx(2),cdh(2),info(<info><jkid>62C01</jkid><jkxlh>791F09090306170309158E9882DB8B8E8FEEF681FF8B9AEB92CFD0A1A1C5A5D3CCA8</jkxlh><time>2016-06-05 21:00:08</time></info>),return(-2)
+
+
+2016-06-05 21:00:08:414[Log] msg:
+卡口注册失败！
+
+2016-06-05 21:00:08:414[Log] msg:
+error[-1]:web service upload data fail!
+
+2016-06-05 21:00:08:695[Log] msg:
+车道重新注册
+
+2016-06-05 21:00:08:695[Log] msg:
+610900100005_1_1
+
+2016-06-05 21:00:08:695[Log] msg:
+
+ init trans hostip(10.176.100.185),kkbh(610900100008),fxlx(1),cdh(2),info(<info><jkid>62C01</jkid><jkxlh>791F09090306170309158E9882DB8B8E8FEEF681FF8B9AEB92CFD0A1A1C5A5D3CCA8</jkxlh><time>2016-06-05 21:00:08</time></info>),return(-2)
+
+
+2016-06-05 21:00:08:695[Log] msg:
+卡口注册失败！
+
+2016-06-05 21:00:08:695[Log] msg:
+error[-1]:web service upload data fail!
+
+2016-06-05 21:00:08:804[Log] msg:
+添加车道注册：
+
+2016-06-05 21:00:08:804[Log] msg:
+610900100006_2_2
+
+2016-06-05 21:00:08:804[Log] msg:
+
+ init trans hostip(10.176.100.185),kkbh(610900100006),fxlx(2),cdh(2),info(<info><jkid>62C01</jkid><jkxlh>791F09090306170309158E9882DB8B8E8FEEF681FF8B9AEB92CFD0A1A1C5A5D3CCA8</jkxlh><time>2016-06-05 21:00:08</time></info>),return(-2)
+
+
+2016-06-05 21:00:08:804[Log] msg:
+卡口注册失败！
+
+2016-06-05 21:00:08:804[Log] msg:
+error[-1]:web service upload data fail!
+
+2016-06-05 21:00:09:023[Log] msg:
+车道重新注册
+
+2016-06-05 21:00:09:023[Log] msg:
+610900100007_2_2
+
+2016-06-05 21:00:09:023[Log] msg:
+
+ init trans hostip(10.176.100.185),kkbh(610900100006),fxlx(2),cdh(2),info(<info><jkid>62C01</jkid><jkxlh>791F09090306170309158E9882DB8B8E8FEEF681FF8B9AEB92CFD0A1A1C5A5D3CCA8</jkxlh><time>2016-06-05 21:00:09</time></info>),return(-2)
+
+
+2016-06-05 21:00:09:023[Log] msg:
+卡口注册失败！
+
+2016-06-05 21:00:09:023[Log] msg:
+error[-1]:web service upload data fail!
+
+2016-06-05 21:00:09:226[Log] msg:
+车道重新注册
+
+2016-06-05 21:00:09:226[Log] msg:
+610900100007_2_2
+
+2016-06-05 21:00:09:226[Log] msg:
+
+ init trans hostip(10.176.100.185),kkbh(610900100007),fxlx(2),cdh(2),info(<info><jkid>62C01</jkid><jkxlh>791F09090306170309158E9882DB8B8E8FEEF681FF8B9AEB92CFD0A1A1C5A5D3CCA8</jkxlh><time>2016-06-05 21:00:09</time></info>),return(-2)
+
+
+2016-06-05 21:00:09:241[Log] msg:
+卡口注册失败！
+
+2016-06-05 21:00:09:241[Log] msg:
+error[-1]:web service upload data fail!
+
+2016-06-05 21:00:09:428[Log] msg:
+车道重新注册
+
+2016-06-05 21:00:09:428[Log] msg:
+610900100008_1_2
+
+2016-06-05 21:00:09:428[Log] msg:
+
+ init trans hostip(10.176.100.185),kkbh(610900100008),fxlx(1),cdh(2),info(<info><jkid>62C01</jkid><jkxlh>791F09090306170309158E9882DB8B8E8FEEF681FF8B9AEB92CFD0A1A1C5A5D3CCA8</jkxlh><time>2016-06-05 21:00:09</time></info>),return(-2)
+
+
+2016-06-05 21:00:09:428[Log] msg:
+卡口注册失败！
+
+2016-06-05 21:00:09:428[Log] msg:
+error[-1]:web service upload data fail!
+
+2016-06-05 21:00:10:052[Log] msg:
+车道重新注册
+
+2016-06-05 21:00:10:052[Log] msg:
+610900100007_2_2
+
+2016-06-05 21:00:10:052[Log] msg:
+
+ init trans hostip(10.176.100.185),kkbh(610900100005),fxlx(1),cdh(1),info(<info><jkid>62C01</jkid><jkxlh>791F09090306170309158E9882DB8B8E8FEEF681FF8B9AEB92CFD0A1A1C5A5D3CCA8</jkxlh><time>2016-06-05 21:00:10</time></info>),return(-2)
+
+
+2016-06-05 21:00:10:052[Log] msg:
+卡口注册失败！
+
+2016-06-05 21:00:10:052[Log] msg:
+error[-1]:web service upload data fail!
+
+2016-06-05 21:00:10:286[Log] msg:
+车道重新注册
+
+2016-06-05 21:00:10:286[Log] msg:
+610900100007_2_2
+
+2016-06-05 21:00:10:286[Log] msg:
+
+ init trans hostip(10.176.100.185),kkbh(610900100007),fxlx(2),cdh(2),info(<info><jkid>62C01</jkid><jkxlh>791F09090306170309158E9882DB8B8E8FEEF681FF8B9AEB92CFD0A1A1C5A5D3CCA8</jkxlh><time>2016-06-05 21:00:10</time></info>),return(-2)
+
+
+2016-06-05 21:00:10:286[Log] msg:
+卡口注册失败！
+
+2016-06-05 21:00:10:286[Log] msg:
+error[-1]:web service upload data fail!
+
+2016-06-05 21:00:10:458[Log] msg:
+车道重新注册
+
+2016-06-05 21:00:10:458[Log] msg:
+610900100008_1_2
+
+2016-06-05 21:00:10:458[Log] msg:
+
+ init trans hostip(10.176.100.185),kkbh(610900100006),fxlx(2),cdh(1),info(<info><jkid>62C01</jkid><jkxlh>791F09090306170309158E9882DB8B8E8FEEF681FF8B9AEB92CFD0A1A1C5A5D3CCA8</jkxlh><time>2016-06-05 21:00:10</time></info>),return(-2)
+
+
+2016-06-05 21:00:10:458[Log] msg:
+卡口注册失败！
+
+2016-06-05 21:00:10:458[Log] msg:
+error[-1]:web service upload data fail!
+
+2016-06-05 21:00:11:082[Log] msg:
+车道重新注册
+
+2016-06-05 21:00:11:082[Log] msg:
+610900100007_2_2
+
+2016-06-05 21:00:11:082[Log] msg:
+
+ init trans hostip(10.176.100.185),kkbh(610900100008),fxlx(1),cdh(2),info(<info><jkid>62C01</jkid><jkxlh>791F09090306170309158E9882DB8B8E8FEEF681FF8B9AEB92CFD0A1A1C5A5D3CCA8</jkxlh><time>2016-06-05 21:00:11</time></info>),return(-2)
+
+
+2016-06-05 21:00:11:082[Log] msg:
+卡口注册失败！
+
+2016-06-05 21:00:11:082[Log] msg:
+error[-1]:web service upload data fail!
+
+2016-06-05 21:00:11:269[Log] msg:
+车道重新注册
+
+2016-06-05 21:00:11:269[Log] msg:
+610900100007_2_2
+
+2016-06-05 21:00:11:269[Log] msg:
+
+ init trans hostip(10.176.100.185),kkbh(610900100007),fxlx(2),cdh(2),info(<info><jkid>62C01</jkid><jkxlh>791F09090306170309158E9882DB8B8E8FEEF681FF8B9AEB92CFD0A1A1C5A5D3CCA8</jkxlh><time>2016-06-05 21:00:11</time></info>),return(-2)
+
+
+2016-06-05 21:00:11:269[Log] msg:
+卡口注册失败！
+
+2016-06-05 21:00:11:269[Log] msg:
+error[-1]:web service upload data fail!
+
+2016-06-05 21:00:11:456[Log] msg:
+车道重新注册
+
+2016-06-05 21:00:11:456[Log] msg:
+610900100008_1_2
+
+2016-06-05 21:00:11:472[Log] msg:
+
+ init trans hostip(10.176.100.185),kkbh(610900100007),fxlx(2),cdh(2),info(<info><jkid>62C01</jkid><jkxlh>791F09090306170309158E9882DB8B8E8FEEF681FF8B9AEB92CFD0A1A1C5A5D3CCA8</jkxlh><time>2016-06-05 21:00:11</time></info>),return(-2)
+
+
+2016-06-05 21:00:11:472[Log] msg:
+卡口注册失败！
+
+2016-06-05 21:00:11:472[Log] msg:
+error[-1]:web service upload data fail!
+
+2016-06-05 21:00:12:112[Log] msg:
+车道重新注册
+
+2016-06-05 21:00:12:112[Log] msg:
+610900100007_2_2
+
+2016-06-05 21:00:12:112[Log] msg:
+
+ init trans hostip(10.176.100.185),kkbh(610900100008),fxlx(1),cdh(2),info(<info><jkid>62C01</jkid><jkxlh>791F09090306170309158E9882DB8B8E8FEEF681FF8B9AEB92CFD0A1A1C5A5D3CCA8</jkxlh><time>2016-06-05 21:00:12</time></info>),return(-2)
+
+
+2016-06-05 21:00:12:112[Log] msg:
+卡口注册失败！
+
+2016-06-05 21:00:12:112[Log] msg:
+error[-1]:web service upload data fail!
+
+2016-06-05 21:00:12:268[Log] msg:
+车道重新注册
+
+2016-06-05 21:00:12:268[Log] msg:
+610900100007_2_2
+
+2016-06-05 21:00:12:268[Log] msg:
+
+ init trans hostip(10.176.100.185),kkbh(610900100007),fxlx(2),cdh(2),info(<info><jkid>62C01</jkid><jkxlh>791F09090306170309158E9882DB8B8E8FEEF681FF8B9AEB92CFD0A1A1C5A5D3CCA8</jkxlh><time>2016-06-05 21:00:12</time></info>),return(-2)
+
+
+2016-06-05 21:00:12:268[Log] msg:
+卡口注册失败！
+
+2016-06-05 21:00:12:268[Log] msg:
+error[-1]:web service upload data fail!
+
+2016-06-05 21:00:12:439[Log] msg:
+车道重新注册
+
+2016-06-05 21:00:12:439[Log] msg:
+610900100008_1_2
+
+2016-06-05 21:00:12:439[Log] msg:
+
+ init trans hostip(10.176.100.185),kkbh(610900100007),fxlx(2),cdh(2),info(<info><jkid>62C01</jkid><jkxlh>791F09090306170309158E9882DB8B8E8FEEF681FF8B9AEB92CFD0A1A1C5A5D3CCA8</jkxlh><time>2016-06-05 21:00:12</time></info>),return(-2)
+
+
+2016-06-05 21:00:12:439[Log] msg:
+卡口注册失败！
+
+2016-06-05 21:00:12:439[Log] msg:
+error[-1]:web service upload data fail!
+
+2016-06-05 21:00:12:689[Log] msg:
+车道重新注册
+
+2016-06-05 21:00:12:689[Log] msg:
+610900100005_1_1
+
+2016-06-05 21:00:12:689[Log] msg:
+
+ init trans hostip(10.176.100.185),kkbh(610900100008),fxlx(1),cdh(2),info(<info><jkid>62C01</jkid><jkxlh>791F09090306170309158E9882DB8B8E8FEEF681FF8B9AEB92CFD0A1A1C5A5D3CCA8</jkxlh><time>2016-06-05 21:00:12</time></info>),return(-2)
+
+
+2016-06-05 21:00:12:689[Log] msg:
+卡口注册失败！
+
+2016-06-05 21:00:12:689[Log] msg:
+error[-1]:web service upload data fail!
+
+2016-06-05 21:00:13:141[Log] msg:
+车道重新注册
+
+2016-06-05 21:00:13:141[Log] msg:
+610900100007_2_2
+
+2016-06-05 21:00:13:141[Log] msg:
+
+ init trans hostip(10.176.100.185),kkbh(610900100008),fxlx(1),cdh(2),info(<info><jkid>62C01</jkid><jkxlh>791F09090306170309158E9882DB8B8E8FEEF681FF8B9AEB92CFD0A1A1C5A5D3CCA8</jkxlh><time>2016-06-05 21:00:13</time></info>),return(-2)
+
+
+2016-06-05 21:00:13:141[Log] msg:
+卡口注册失败！
+
+2016-06-05 21:00:13:141[Log] msg:
+error[-1]:web service upload data fail!
+
+2016-06-05 21:00:13:344[Log] msg:
+车道重新注册
+
+2016-06-05 21:00:13:344[Log] msg:
+610900100006_2_1
+
+2016-06-05 21:00:13:344[Log] msg:
+车道重新注册
+
+2016-06-05 21:00:13:344[Log] msg:
+610900100007_2_2
+
+2016-06-05 21:00:13:344[Log] msg:
+
+ init trans hostip(10.176.100.185),kkbh(610900100007),fxlx(2),cdh(2),info(<info><jkid>62C01</jkid><jkxlh>791F09090306170309158E9882DB8B8E8FEEF681FF8B9AEB92CFD0A1A1C5A5D3CCA8</jkxlh><time>2016-06-05 21:00:13</time></info>),return(-2)
+
+
+2016-06-05 21:00:13:360[Log] msg:
+
+ init trans hostip(10.176.100.185),kkbh(610900100007),fxlx(2),cdh(2),info(<info><jkid>62C01</jkid><jkxlh>791F09090306170309158E9882DB8B8E8FEEF681FF8B9AEB92CFD0A1A1C5A5D3CCA8</jkxlh><time>2016-06-05 21:00:13</time></info>),return(-2)
+
+
+2016-06-05 21:00:13:360[Log] msg:
+卡口注册失败！
+
+2016-06-05 21:00:13:360[Log] msg:
+error[-1]:web service upload data fail!
+
+2016-06-05 21:00:13:360[Log] msg:
+卡口注册失败！
+
+2016-06-05 21:00:13:360[Log] msg:
+error[-1]:web service upload data fail!
+
+2016-06-05 21:00:13:531[Log] msg:
+车道重新注册
+
+2016-06-05 21:00:13:531[Log] msg:
+610900100008_1_2
+
+2016-06-05 21:00:13:531[Log] msg:
+
+ init trans hostip(10.176.100.185),kkbh(610900100007),fxlx(2),cdh(2),info(<info><jkid>62C01</jkid><jkxlh>791F09090306170309158E9882DB8B8E8FEEF681FF8B9AEB92CFD0A1A1C5A5D3CCA8</jkxlh><time>2016-06-05 21:00:13</time></info>),return(-2)
+
+
+2016-06-05 21:00:13:531[Log] msg:
+卡口注册失败！
+
+2016-06-05 21:00:13:531[Log] msg:
+error[-1]:web service upload data fail!
+
+2016-06-05 21:00:14:171[Log] msg:
+车道重新注册
+
+2016-06-05 21:00:14:171[Log] msg:
+610900100007_2_2
+
+2016-06-05 21:00:14:171[Log] msg:
+
+ init trans hostip(10.176.100.185),kkbh(610900100008),fxlx(1),cdh(2),info(<info><jkid>62C01</jkid><jkxlh>791F09090306170309158E9882DB8B8E8FEEF681FF8B9AEB92CFD0A1A1C5A5D3CCA8</jkxlh><time>2016-06-05 21:00:14</time></info>),return(-2)
+
+
+2016-06-05 21:00:14:171[Log] msg:
+卡口注册失败！
+
+2016-06-05 21:00:14:171[Log] msg:
+error[-1]:web service upload data fail!
+
+2016-06-05 21:00:14:342[Log] msg:
+车道重新注册
+
+2016-06-05 21:00:14:342[Log] msg:
+610900100007_2_2
+
+2016-06-05 21:00:14:342[Log] msg:
+
+ init trans hostip(10.176.100.185),kkbh(610900100007),fxlx(2),cdh(2),info(<info><jkid>62C01</jkid><jkxlh>791F09090306170309158E9882DB8B8E8FEEF681FF8B9AEB92CFD0A1A1C5A5D3CCA8</jkxlh><time>2016-06-05 21:00:14</time></info>),return(-2)
+
+
+2016-06-05 21:00:14:342[Log] msg:
+卡口注册失败！
+
+2016-06-05 21:00:14:342[Log] msg:
+error[-1]:web service upload data fail!
+
+2016-06-05 21:00:14:514[Log] msg:
+车道重新注册
+
+2016-06-05 21:00:14:514[Log] msg:
+610900100008_1_2
+
+2016-06-05 21:00:14:530[Log] msg:
+
+ init trans hostip(10.176.100.185),kkbh(610900100007),fxlx(2),cdh(2),info(<info><jkid>62C01</jkid><jkxlh>791F09090306170309158E9882DB8B8E8FEEF681FF8B9AEB92CFD0A1A1C5A5D3CCA8</jkxlh><time>2016-06-05 21:00:14</time></info>),return(-2)
+
+
+2016-06-05 21:00:14:530[Log] msg:
+卡口注册失败！
+
+2016-06-05 21:00:14:530[Log] msg:
+error[-1]:web service upload data fail!
+
+2016-06-05 21:00:15:200[Log] msg:
+车道重新注册
+
+2016-06-05 21:00:15:200[Log] msg:
+610900100007_2_2
+
+2016-06-05 21:00:15:200[Log] msg:
+
+ init trans hostip(10.176.100.185),kkbh(610900100008),fxlx(1),cdh(2),info(<info><jkid>62C01</jkid><jkxlh>791F09090306170309158E9882DB8B8E8FEEF681FF8B9AEB92CFD0A1A1C5A5D3CCA8</jkxlh><time>2016-06-05 21:00:15</time></info>),return(-2)
+
+
+2016-06-05 21:00:15:200[Log] msg:
+卡口注册失败！
+
+2016-06-05 21:00:15:200[Log] msg:
+error[-1]:web service upload data fail!
+
+2016-06-05 21:00:15:372[Log] msg:
+车道重新注册
+
+2016-06-05 21:00:15:372[Log] msg:
+610900100007_2_2
+
+2016-06-05 21:00:15:372[Log] msg:
+
+ init trans hostip(10.176.100.185),kkbh(610900100006),fxlx(2),cdh(1),info(<info><jkid>62C01</jkid><jkxlh>791F09090306170309158E9882DB8B8E8FEEF681FF8B9AEB92CFD0A1A1C5A5D3CCA8</jkxlh><time>2016-06-05 21:00:15</time></info>),return(-2)
+
+
+2016-06-05 21:00:15:372[Log] msg:
+卡口注册失败！
+
+2016-06-05 21:00:15:372[Log] msg:
+error[-1]:web service upload data fail!
+
+2016-06-05 21:00:15:544[Log] msg:
+车道重新注册
+
+2016-06-05 21:00:15:544[Log] msg:
+610900100008_1_2
+
+2016-06-05 21:00:15:559[Log] msg:
+
+ init trans hostip(10.176.100.185),kkbh(610900100007),fxlx(2),cdh(2),info(<info><jkid>62C01</jkid><jkxlh>791F09090306170309158E9882DB8B8E8FEEF681FF8B9AEB92CFD0A1A1C5A5D3CCA8</jkxlh><time>2016-06-05 21:00:15</time></info>),return(-2)
+
+
+2016-06-05 21:00:15:559[Log] msg:
+卡口注册失败！
+
+2016-06-05 21:00:15:559[Log] msg:
+error[-1]:web service upload data fail!
+
+2016-06-05 21:00:16:230[Log] msg:
+车道重新注册
+
+2016-06-05 21:00:16:230[Log] msg:
+610900100007_2_2
+
+2016-06-05 21:00:16:230[Log] msg:
+
+ init trans hostip(10.176.100.185),kkbh(610900100008),fxlx(1),cdh(2),info(<info><jkid>62C01</jkid><jkxlh>791F09090306170309158E9882DB8B8E8FEEF681FF8B9AEB92CFD0A1A1C5A5D3CCA8</jkxlh><time>2016-06-05 21:00:16</time></info>),return(-2)
+
+
+2016-06-05 21:00:16:230[Log] msg:
+卡口注册失败！
+
+2016-06-05 21:00:16:230[Log] msg:
+error[-1]:web service upload data fail!
+
+2016-06-05 21:00:16:402[Log] msg:
+车道重新注册
+
+2016-06-05 21:00:16:402[Log] msg:
+610900100007_2_2
+
+2016-06-05 21:00:16:402[Log] msg:
+
+ init trans hostip(10.176.100.185),kkbh(610900100007),fxlx(2),cdh(2),info(<info><jkid>62C01</jkid><jkxlh>791F09090306170309158E9882DB8B8E8FEEF681FF8B9AEB92CFD0A1A1C5A5D3CCA8</jkxlh><time>2016-06-05 21:00:16</time></info>),return(-2)
+
+
+2016-06-05 21:00:16:402[Log] msg:
+卡口注册失败！
+
+2016-06-05 21:00:16:402[Log] msg:
+error[-1]:web service upload data fail!
+
+2016-06-05 21:00:16:558[Log] msg:
+车道重新注册
+
+2016-06-05 21:00:16:558[Log] msg:
+610900100008_1_2
+
+2016-06-05 21:00:16:558[Log] msg:
+
+ init trans hostip(10.176.100.185),kkbh(610900100007),fxlx(2),cdh(2),info(<info><jkid>62C01</jkid><jkxlh>791F09090306170309158E9882DB8B8E8FEEF681FF8B9AEB92CFD0A1A1C5A5D3CCA8</jkxlh><time>2016-06-05 21:00:16</time></info>),return(-2)
+
+
+2016-06-05 21:00:16:558[Log] msg:
+卡口注册失败！
+
+2016-06-05 21:00:16:558[Log] msg:
+error[-1]:web service upload data fail!
+
+2016-06-05 21:00:17:260[Log] msg:
+车道重新注册
+
+2016-06-05 21:00:17:260[Log] msg:
+610900100007_2_2
+
+2016-06-05 21:00:17:260[Log] msg:
+
+ init trans hostip(10.176.100.185),kkbh(610900100008),fxlx(1),cdh(2),info(<info><jkid>62C01</jkid><jkxlh>791F09090306170309158E9882DB8B8E8FEEF681FF8B9AEB92CFD0A1A1C5A5D3CCA8</jkxlh><time>2016-06-05 21:00:17</time></info>),return(-2)
+
+
+2016-06-05 21:00:17:260[Log] msg:
+卡口注册失败！
+
+2016-06-05 21:00:17:260[Log] msg:
+error[-1]:web service upload data fail!
+
+2016-06-05 21:00:17:416[Log] msg:
+车道重新注册
+
+2016-06-05 21:00:17:416[Log] msg:
+610900100007_2_2
+
+2016-06-05 21:00:17:416[Log] msg:
+
+ init trans hostip(10.176.100.185),kkbh(610900100007),fxlx(2),cdh(2),info(<info><jkid>62C01</jkid><jkxlh>791F09090306170309158E9882DB8B8E8FEEF681FF8B9AEB92CFD0A1A1C5A5D3CCA8</jkxlh><time>2016-06-05 21:00:17</time></info>),return(-2)
+
+
+2016-06-05 21:00:17:416[Log] msg:
+卡口注册失败！
+
+2016-06-05 21:00:17:416[Log] msg:
+error[-1]:web service upload data fail!
+
+2016-06-05 21:00:17:572[Log] msg:
+车道重新注册
+
+2016-06-05 21:00:17:572[Log] msg:
+610900100008_1_2
+
+2016-06-05 21:00:17:572[Log] msg:
+
+ init trans hostip(10.176.100.185),kkbh(610900100007),fxlx(2),cdh(2),info(<info><jkid>62C01</jkid><jkxlh>791F09090306170309158E9882DB8B8E8FEEF681FF8B9AEB92CFD0A1A1C5A5D3CCA8</jkxlh><time>2016-06-05 21:00:17</time></info>),return(-2)
+
+
+2016-06-05 21:00:17:572[Log] msg:
+卡口注册失败！
+
+2016-06-05 21:00:17:572[Log] msg:
+error[-1]:web service upload data fail!
+
+2016-06-05 21:00:18:305[Log] msg:
+车道重新注册
+
+2016-06-05 21:00:18:305[Log] msg:
+610900100007_2_2
+
+2016-06-05 21:00:18:305[Log] msg:
+
+ init trans hostip(10.176.100.185),kkbh(610900100005),fxlx(1),cdh(1),info(<info><jkid>62C01</jkid><jkxlh>791F09090306170309158E9882DB8B8E8FEEF681FF8B9AEB92CFD0A1A1C5A5D3CCA8</jkxlh><time>2016-06-05 21:00:18</time></info>),return(-2)
+
+
+2016-06-05 21:00:18:305[Log] msg:
+卡口注册失败！
+
+2016-06-05 21:00:18:305[Log] msg:
+error[-1]:web service upload data fail!
+
+2016-06-05 21:00:18:336[Log] msg:
+车道重新注册
+
+2016-06-05 21:00:18:336[Log] msg:
+610900100006_2_1
+
+2016-06-05 21:00:18:352[Log] msg:
+
+ init trans hostip(10.176.100.185),kkbh(610900100005),fxlx(1),cdh(1),info(<info><jkid>62C01</jkid><jkxlh>791F09090306170309158E9882DB8B8E8FEEF681FF8B9AEB92CFD0A1A1C5A5D3CCA8</jkxlh><time>2016-06-05 21:00:18</time></info>),return(-2)
+
+
+2016-06-05 21:00:18:352[Log] msg:
+卡口注册失败！
+
+2016-06-05 21:00:18:352[Log] msg:
+error[-1]:web service upload data fail!
+
+2016-06-05 21:00:18:445[Log] msg:
+车道重新注册
+
+2016-06-05 21:00:18:445[Log] msg:
+610900100007_2_2
+
+2016-06-05 21:00:18:445[Log] msg:
+
+ init trans hostip(10.176.100.185),kkbh(610900100007),fxlx(2),cdh(2),info(<info><jkid>62C01</jkid><jkxlh>791F09090306170309158E9882DB8B8E8FEEF681FF8B9AEB92CFD0A1A1C5A5D3CCA8</jkxlh><time>2016-06-05 21:00:18</time></info>),return(-2)
+
+
+2016-06-05 21:00:18:445[Log] msg:
+卡口注册失败！
+
+2016-06-05 21:00:18:445[Log] msg:
+error[-1]:web service upload data fail!
+
+2016-06-05 21:00:18:601[Log] msg:
+车道重新注册
+
+2016-06-05 21:00:18:601[Log] msg:
+610900100008_1_2
+
+2016-06-05 21:00:18:601[Log] msg:
+
+ init trans hostip(10.176.100.185),kkbh(610900100007),fxlx(2),cdh(2),info(<info><jkid>62C01</jkid><jkxlh>791F09090306170309158E9882DB8B8E8FEEF681FF8B9AEB92CFD0A1A1C5A5D3CCA8</jkxlh><time>2016-06-05 21:00:18</time></info>),return(-2)
+
+
+2016-06-05 21:00:18:601[Log] msg:
+卡口注册失败！
+
+2016-06-05 21:00:18:601[Log] msg:
+error[-1]:web service upload data fail!
+
+2016-06-05 21:00:19:319[Log] msg:
+车道重新注册
+
+2016-06-05 21:00:19:319[Log] msg:
+610900100007_2_2
+
+2016-06-05 21:00:19:319[Log] msg:
+
+ init trans hostip(10.176.100.185),kkbh(610900100007),fxlx(2),cdh(2),info(<info><jkid>62C01</jkid><jkxlh>791F09090306170309158E9882DB8B8E8FEEF681FF8B9AEB92CFD0A1A1C5A5D3CCA8</jkxlh><time>2016-06-05 21:00:19</time></info>),return(-2)
+
+
+2016-06-05 21:00:19:319[Log] msg:
+卡口注册失败！
+
+2016-06-05 21:00:19:319[Log] msg:
+error[-1]:web service upload data fail!
+
+2016-06-05 21:00:19:522[Log] msg:
+车道重新注册
+
+2016-06-05 21:00:19:522[Log] msg:
+610900100007_2_2
+
+2016-06-05 21:00:19:522[Log] msg:
+
+ init trans hostip(10.176.100.185),kkbh(610900100007),fxlx(2),cdh(2),info(<info><jkid>62C01</jkid><jkxlh>791F09090306170309158E9882DB8B8E8FEEF681FF8B9AEB92CFD0A1A1C5A5D3CCA8</jkxlh><time>2016-06-05 21:00:19</time></info>),return(-2)
+
+
+2016-06-05 21:00:19:537[Log] msg:
+卡口注册失败！
+
+2016-06-05 21:00:19:537[Log] msg:
+error[-1]:web service upload data fail!
+
+2016-06-05 21:00:19:615[Log] msg:
+车道重新注册
+
+2016-06-05 21:00:19:615[Log] msg:
+610900100008_1_2
+
+2016-06-05 21:00:19:615[Log] msg:
+
+ init trans hostip(10.176.100.185),kkbh(610900100007),fxlx(2),cdh(2),info(<info><jkid>62C01</jkid><jkxlh>791F09090306170309158E9882DB8B8E8FEEF681FF8B9AEB92CFD0A1A1C5A5D3CCA8</jkxlh><time>2016-06-05 21:00:19</time></info>),return(-2)
+
+
+2016-06-05 21:00:19:615[Log] msg:
+卡口注册失败！
+
+2016-06-05 21:00:19:615[Log] msg:
+error[-1]:web service upload data fail!
+
+2016-06-05 21:00:20:348[Log] msg:
+车道重新注册
+
+2016-06-05 21:00:20:348[Log] msg:
+610900100007_2_2
+
+2016-06-05 21:00:20:348[Log] msg:
+
+ init trans hostip(10.176.100.185),kkbh(610900100006),fxlx(2),cdh(1),info(<info><jkid>62C01</jkid><jkxlh>791F09090306170309158E9882DB8B8E8FEEF681FF8B9AEB92CFD0A1A1C5A5D3CCA8</jkxlh><time>2016-06-05 21:00:20</time></info>),return(-2)
+
+
+2016-06-05 21:00:20:348[Log] msg:
+卡口注册失败！
+
+2016-06-05 21:00:20:348[Log] msg:
+error[-1]:web service upload data fail!
+
+2016-06-05 21:00:20:504[Log] msg:
+车道重新注册
+
+2016-06-05 21:00:20:504[Log] msg:
+610900100007_2_2
+
+2016-06-05 21:00:20:504[Log] msg:
+
+ init trans hostip(10.176.100.185),kkbh(610900100007),fxlx(2),cdh(2),info(<info><jkid>62C01</jkid><jkxlh>791F09090306170309158E9882DB8B8E8FEEF681FF8B9AEB92CFD0A1A1C5A5D3CCA8</jkxlh><time>2016-06-05 21:00:20</time></info>),return(-2)
+
+
+2016-06-05 21:00:20:504[Log] msg:
+卡口注册失败！
+
+2016-06-05 21:00:20:504[Log] msg:
+error[-1]:web service upload data fail!
+
+2016-06-05 21:00:20:738[Log] msg:
+车道重新注册
+
+2016-06-05 21:00:20:738[Log] msg:
+610900100005_1_1
+
+2016-06-05 21:00:20:738[Log] msg:
+
+ init trans hostip(10.176.100.185),kkbh(610900100007),fxlx(2),cdh(2),info(<info><jkid>62C01</jkid><jkxlh>791F09090306170309158E9882DB8B8E8FEEF681FF8B9AEB92CFD0A1A1C5A5D3CCA8</jkxlh><time>2016-06-05 21:00:20</time></info>),return(-2)
+
+
+2016-06-05 21:00:20:738[Log] msg:
+卡口注册失败！
+
+2016-06-05 21:00:20:738[Log] msg:
+error[-1]:web service upload data fail!
+
+2016-06-05 21:00:21:378[Log] msg:
+车道重新注册
+
+2016-06-05 21:00:21:378[Log] msg:
+610900100007_2_2
+
+2016-06-05 21:00:21:394[Log] msg:
+
+ init trans hostip(10.176.100.185),kkbh(610900100007),fxlx(2),cdh(2),info(<info><jkid>62C01</jkid><jkxlh>791F09090306170309158E9882DB8B8E8FEEF681FF8B9AEB92CFD0A1A1C5A5D3CCA8</jkxlh><time>2016-06-05 21:00:21</time></info>),return(-2)
+
+
+2016-06-05 21:00:21:394[Log] msg:
+卡口注册失败！
+
+2016-06-05 21:00:21:394[Log] msg:
+error[-1]:web service upload data fail!
+
+2016-06-05 21:00:21:550[Log] msg:
+车道重新注册
+
+2016-06-05 21:00:21:550[Log] msg:
+610900100007_2_2
+
+2016-06-05 21:00:21:550[Log] msg:
+
+ init trans hostip(10.176.100.185),kkbh(610900100007),fxlx(2),cdh(2),info(<info><jkid>62C01</jkid><jkxlh>791F09090306170309158E9882DB8B8E8FEEF681FF8B9AEB92CFD0A1A1C5A5D3CCA8</jkxlh><time>2016-06-05 21:00:21</time></info>),return(-2)
+
+
+2016-06-05 21:00:21:550[Log] msg:
+卡口注册失败！
+
+2016-06-05 21:00:21:550[Log] msg:
+error[-1]:web service upload data fail!
+
+2016-06-05 21:00:22:408[Log] msg:
+车道重新注册
+
+2016-06-05 21:00:22:408[Log] msg:
+610900100007_2_2
+
+2016-06-05 21:00:22:408[Log] msg:
+
+ init trans hostip(10.176.100.185),kkbh(610900100007),fxlx(2),cdh(2),info(<info><jkid>62C01</jkid><jkxlh>791F09090306170309158E9882DB8B8E8FEEF681FF8B9AEB92CFD0A1A1C5A5D3CCA8</jkxlh><time>2016-06-05 21:00:22</time></info>),return(-2)
+
+
+2016-06-05 21:00:22:408[Log] msg:
+卡口注册失败！
+
+2016-06-05 21:00:22:408[Log] msg:
+error[-1]:web service upload data fail!
+
+2016-06-05 21:00:22:564[Log] msg:
+车道重新注册
+
+2016-06-05 21:00:22:564[Log] msg:
+610900100007_2_2
+
+2016-06-05 21:00:22:579[Log] msg:
+
+ init trans hostip(10.176.100.185),kkbh(610900100007),fxlx(2),cdh(2),info(<info><jkid>62C01</jkid><jkxlh>791F09090306170309158E9882DB8B8E8FEEF681FF8B9AEB92CFD0A1A1C5A5D3CCA8</jkxlh><time>2016-06-05 21:00:22</time></info>),return(-2)
+
+
+2016-06-05 21:00:22:579[Log] msg:
+卡口注册失败！
+
+2016-06-05 21:00:22:579[Log] msg:
+error[-1]:web service upload data fail!
+
+2016-06-05 21:00:23:110[Log] msg:
+车道重新注册
+
+2016-06-05 21:00:23:110[Log] msg:
+610900100006_2_1
+
+2016-06-05 21:00:23:110[Log] msg:
+
+ init trans hostip(10.176.100.185),kkbh(610900100007),fxlx(2),cdh(2),info(<info><jkid>62C01</jkid><jkxlh>791F09090306170309158E9882DB8B8E8FEEF681FF8B9AEB92CFD0A1A1C5A5D3CCA8</jkxlh><time>2016-06-05 21:00:23</time></info>),return(-2)
+
+
+2016-06-05 21:00:23:110[Log] msg:
+卡口注册失败！
+
+2016-06-05 21:00:23:110[Log] msg:
+error[-1]:web service upload data fail!
+
+2016-06-05 21:00:23:453[Log] msg:
+车道重新注册
+
+2016-06-05 21:00:23:453[Log] msg:
+610900100007_2_2
+
+2016-06-05 21:00:23:453[Log] msg:
+
+ init trans hostip(10.176.100.185),kkbh(610900100007),fxlx(2),cdh(2),info(<info><jkid>62C01</jkid><jkxlh>791F09090306170309158E9882DB8B8E8FEEF681FF8B9AEB92CFD0A1A1C5A5D3CCA8</jkxlh><time>2016-06-05 21:00:23</time></info>),return(-2)
+
+
+2016-06-05 21:00:23:453[Log] msg:
+卡口注册失败！
+
+2016-06-05 21:00:23:453[Log] msg:
+error[-1]:web service upload data fail!
+
+2016-06-05 21:00:23:578[Log] msg:
+车道重新注册
+
+2016-06-05 21:00:23:578[Log] msg:
+610900100007_2_2
+
+2016-06-05 21:00:23:578[Log] msg:
+
+ init trans hostip(10.176.100.185),kkbh(610900100007),fxlx(2),cdh(2),info(<info><jkid>62C01</jkid><jkxlh>791F09090306170309158E9882DB8B8E8FEEF681FF8B9AEB92CFD0A1A1C5A5D3CCA8</jkxlh><time>2016-06-05 21:00:23</time></info>),return(-2)
+
+
+2016-06-05 21:00:23:578[Log] msg:
+卡口注册失败！
+
+2016-06-05 21:00:23:578[Log] msg:
+error[-1]:web service upload data fail!
+
+2016-06-05 21:00:24:451[Log] msg:
+车道重新注册
+
+2016-06-05 21:00:24:451[Log] msg:
+610900100006_2_2
+
+2016-06-05 21:00:24:451[Log] msg:
+
+ init trans hostip(10.176.100.185),kkbh(610900100005),fxlx(1),cdh(1),info(<info><jkid>62C01</jkid><jkxlh>791F09090306170309158E9882DB8B8E8FEEF681FF8B9AEB92CFD0A1A1C5A5D3CCA8</jkxlh><time>2016-06-05 21:00:24</time></info>),return(-2)
+
+
+2016-06-05 21:00:24:451[Log] msg:
+卡口注册失败！
+
+2016-06-05 21:00:24:451[Log] msg:
+error[-1]:web service upload data fail!
+
+2016-06-05 21:00:24:482[Log] msg:
+车道重新注册
+
+2016-06-05 21:00:24:482[Log] msg:
+610900100007_2_2
+
+2016-06-05 21:00:24:482[Log] msg:
+
+ init trans hostip(10.176.100.185),kkbh(610900100005),fxlx(1),cdh(1),info(<info><jkid>62C01</jkid><jkxlh>791F09090306170309158E9882DB8B8E8FEEF681FF8B9AEB92CFD0A1A1C5A5D3CCA8</jkxlh><time>2016-06-05 21:00:24</time></info>),return(-2)
+
+
+2016-06-05 21:00:24:482[Log] msg:
+卡口注册失败！
+
+2016-06-05 21:00:24:482[Log] msg:
+error[-1]:web service upload data fail!
+
+2016-06-05 21:00:24:592[Log] msg:
+车道重新注册
+
+2016-06-05 21:00:24:592[Log] msg:
+610900100007_2_2
+
+2016-06-05 21:00:24:592[Log] msg:
+
+ init trans hostip(10.176.100.185),kkbh(610900100005),fxlx(1),cdh(1),info(<info><jkid>62C01</jkid><jkxlh>791F09090306170309158E9882DB8B8E8FEEF681FF8B9AEB92CFD0A1A1C5A5D3CCA8</jkxlh><time>2016-06-05 21:00:24</time></info>),return(-2)
+
+
+2016-06-05 21:00:24:592[Log] msg:
+卡口注册失败！
+
+2016-06-05 21:00:24:592[Log] msg:
+error[-1]:web service upload data fail!
+
+2016-06-05 21:00:25:496[Log] msg:
+车道重新注册
+
+2016-06-05 21:00:25:496[Log] msg:
+610900100007_2_2
+
+2016-06-05 21:00:25:496[Log] msg:
+
+ init trans hostip(10.176.100.185),kkbh(610900100005),fxlx(1),cdh(1),info(<info><jkid>62C01</jkid><jkxlh>791F09090306170309158E9882DB8B8E8FEEF681FF8B9AEB92CFD0A1A1C5A5D3CCA8</jkxlh><time>2016-06-05 21:00:25</time></info>),return(-2)
+
+
+2016-06-05 21:00:25:496[Log] msg:
+卡口注册失败！
+
+2016-06-05 21:00:25:496[Log] msg:
+error[-1]:web service upload data fail!
+
+2016-06-05 21:00:25:621[Log] msg:
+车道重新注册
+
+2016-06-05 21:00:25:621[Log] msg:
+610900100007_2_2
+
+2016-06-05 21:00:25:621[Log] msg:
+
+ init trans hostip(10.176.100.185),kkbh(610900100005),fxlx(1),cdh(1),info(<info><jkid>62C01</jkid><jkxlh>791F09090306170309158E9882DB8B8E8FEEF681FF8B9AEB92CFD0A1A1C5A5D3CCA8</jkxlh><time>2016-06-05 21:00:25</time></info>),return(-2)
+
+
+2016-06-05 21:00:25:637[Log] msg:
+卡口注册失败！
+
+2016-06-05 21:00:25:637[Log] msg:
+error[-1]:web service upload data fail!
+
+2016-06-05 21:00:26:526[Log] msg:
+车道重新注册
+
+2016-06-05 21:00:26:526[Log] msg:
+610900100007_2_2
+
+2016-06-05 21:00:26:526[Log] msg:
+
+ init trans hostip(10.176.100.185),kkbh(610900100005),fxlx(1),cdh(1),info(<info><jkid>62C01</jkid><jkxlh>791F09090306170309158E9882DB8B8E8FEEF681FF8B9AEB92CFD0A1A1C5A5D3CCA8</jkxlh><time>2016-06-05 21:00:26</time></info>),return(-2)
+
+
+2016-06-05 21:00:26:526[Log] msg:
+卡口注册失败！
+
+2016-06-05 21:00:26:526[Log] msg:
+error[-1]:web service upload data fail!
+
+2016-06-05 21:00:26:651[Log] msg:
+车道重新注册
+
+2016-06-05 21:00:26:651[Log] msg:
+610900100007_2_2
+
+2016-06-05 21:00:26:651[Log] msg:
+
+ init trans hostip(10.176.100.185),kkbh(610900100005),fxlx(1),cdh(1),info(<info><jkid>62C01</jkid><jkxlh>791F09090306170309158E9882DB8B8E8FEEF681FF8B9AEB92CFD0A1A1C5A5D3CCA8</jkxlh><time>2016-06-05 21:00:26</time></info>),return(-2)
+
+
+2016-06-05 21:00:26:651[Log] msg:
+卡口注册失败！
+
+2016-06-05 21:00:26:651[Log] msg:
+error[-1]:web service upload data fail!
+
+2016-06-05 21:00:26:776[Log] msg:
+车道重新注册
+
+2016-06-05 21:00:26:776[Log] msg:
+610900100008_1_2
+
+2016-06-05 21:00:26:776[Log] msg:
+
+ init trans hostip(10.176.100.185),kkbh(610900100005),fxlx(1),cdh(1),info(<info><jkid>62C01</jkid><jkxlh>791F09090306170309158E9882DB8B8E8FEEF681FF8B9AEB92CFD0A1A1C5A5D3CCA8</jkxlh><time>2016-06-05 21:00:26</time></info>),return(-2)
+
+
+2016-06-05 21:00:26:776[Log] msg:
+卡口注册失败！
+
+2016-06-05 21:00:26:776[Log] msg:
+error[-1]:web service upload data fail!
+
+2016-06-05 21:00:26:994[Log] msg:
+车道重新注册
+
+2016-06-05 21:00:26:994[Log] msg:
+610900100005_1_1
+
+2016-06-05 21:00:26:994[Log] msg:
+
+ init trans hostip(10.176.100.185),kkbh(610900100007),fxlx(2),cdh(2),info(<info><jkid>62C01</jkid><jkxlh>791F09090306170309158E9882DB8B8E8FEEF681FF8B9AEB92CFD0A1A1C5A5D3CCA8</jkxlh><time>2016-06-05 21:00:26</time></info>),return(-2)
+
+
+2016-06-05 21:00:26:994[Log] msg:
+卡口注册失败！
+
+2016-06-05 21:00:26:994[Log] msg:
+error[-1]:web service upload data fail!
+
+2016-06-05 21:00:27:649[Log] msg:
+车道重新注册
+
+2016-06-05 21:00:27:649[Log] msg:
+610900100005_1_1
+
+2016-06-05 21:00:27:649[Log] msg:
+
+ init trans hostip(10.176.100.185),kkbh(610900100008),fxlx(1),cdh(2),info(<info><jkid>62C01</jkid><jkxlh>791F09090306170309158E9882DB8B8E8FEEF681FF8B9AEB92CFD0A1A1C5A5D3CCA8</jkxlh><time>2016-06-05 21:00:27</time></info>),return(-2)
+
+
+2016-06-05 21:00:27:649[Log] msg:
+卡口注册失败！
+
+2016-06-05 21:00:27:649[Log] msg:
+error[-1]:web service upload data fail!
+
+2016-06-05 21:00:27:665[Log] msg:
+车道重新注册
+
+2016-06-05 21:00:27:665[Log] msg:
+610900100006_2_1
+
+2016-06-05 21:00:27:665[Log] msg:
+
+ init trans hostip(10.176.100.185),kkbh(610900100008),fxlx(1),cdh(2),info(<info><jkid>62C01</jkid><jkxlh>791F09090306170309158E9882DB8B8E8FEEF681FF8B9AEB92CFD0A1A1C5A5D3CCA8</jkxlh><time>2016-06-05 21:00:27</time></info>),return(-2)
+
+
+2016-06-05 21:00:27:665[Log] msg:
+卡口注册失败！
+
+2016-06-05 21:00:27:680[Log] msg:
+error[-1]:web service upload data fail!
+
+2016-06-05 21:00:27:712[Log] msg:
+车道重新注册
+
+2016-06-05 21:00:27:712[Log] msg:
+610900100007_2_2
+
+2016-06-05 21:00:27:712[Log] msg:
+
+ init trans hostip(10.176.100.185),kkbh(610900100005),fxlx(1),cdh(1),info(<info><jkid>62C01</jkid><jkxlh>791F09090306170309158E9882DB8B8E8FEEF681FF8B9AEB92CFD0A1A1C5A5D3CCA8</jkxlh><time>2016-06-05 21:00:27</time></info>),return(-2)
+
+
+2016-06-05 21:00:27:712[Log] msg:
+卡口注册失败！
+
+2016-06-05 21:00:27:712[Log] msg:
+error[-1]:web service upload data fail!
+
+2016-06-05 21:00:27:868[Log] msg:
+车道重新注册
+
+2016-06-05 21:00:27:868[Log] msg:
+610900100008_1_2
+
+2016-06-05 21:00:27:868[Log] msg:
+
+ init trans hostip(10.176.100.185),kkbh(610900100005),fxlx(1),cdh(1),info(<info><jkid>62C01</jkid><jkxlh>791F09090306170309158E9882DB8B8E8FEEF681FF8B9AEB92CFD0A1A1C5A5D3CCA8</jkxlh><time>2016-06-05 21:00:27</time></info>),return(-2)
+
+
+2016-06-05 21:00:27:868[Log] msg:
+卡口注册失败！
+
+2016-06-05 21:00:27:868[Log] msg:
+error[-1]:web service upload data fail!
+
+2016-06-05 21:00:28:117[Log] msg:
+车道重新注册
+
+2016-06-05 21:00:28:117[Log] msg:
+610900100005_1_1
+
+2016-06-05 21:00:28:117[Log] msg:
+
+ init trans hostip(10.176.100.185),kkbh(610900100007),fxlx(2),cdh(2),info(<info><jkid>62C01</jkid><jkxlh>791F09090306170309158E9882DB8B8E8FEEF681FF8B9AEB92CFD0A1A1C5A5D3CCA8</jkxlh><time>2016-06-05 21:00:28</time></info>),return(-2)
+
+
+2016-06-05 21:00:28:117[Log] msg:
+卡口注册失败！
+
+2016-06-05 21:00:28:117[Log] msg:
+error[-1]:web service upload data fail!
+
+2016-06-05 21:00:28:648[Log] msg:
+车道重新注册
+
+2016-06-05 21:00:28:648[Log] msg:
+610900100005_1_1
+
+2016-06-05 21:00:28:648[Log] msg:
+
+ init trans hostip(10.176.100.185),kkbh(610900100008),fxlx(1),cdh(2),info(<info><jkid>62C01</jkid><jkxlh>791F09090306170309158E9882DB8B8E8FEEF681FF8B9AEB92CFD0A1A1C5A5D3CCA8</jkxlh><time>2016-06-05 21:00:28</time></info>),return(-2)
+
+
+2016-06-05 21:00:28:648[Log] msg:
+卡口注册失败！
+
+2016-06-05 21:00:28:648[Log] msg:
+error[-1]:web service upload data fail!
+
+2016-06-05 21:00:28:757[Log] msg:
+车道重新注册
+
+2016-06-05 21:00:28:757[Log] msg:
+610900100007_2_2
+
+2016-06-05 21:00:28:757[Log] msg:
+
+ init trans hostip(10.176.100.185),kkbh(610900100005),fxlx(1),cdh(1),info(<info><jkid>62C01</jkid><jkxlh>791F09090306170309158E9882DB8B8E8FEEF681FF8B9AEB92CFD0A1A1C5A5D3CCA8</jkxlh><time>2016-06-05 21:00:28</time></info>),return(-2)
+
+
+2016-06-05 21:00:28:757[Log] msg:
+卡口注册失败！
+
+2016-06-05 21:00:28:757[Log] msg:
+error[-1]:web service upload data fail!
+
+2016-06-05 21:00:28:928[Log] msg:
+车道重新注册
+
+2016-06-05 21:00:28:928[Log] msg:
+610900100008_1_2
+
+2016-06-05 21:00:28:928[Log] msg:
+
+ init trans hostip(10.176.100.185),kkbh(610900100007),fxlx(2),cdh(2),info(<info><jkid>62C01</jkid><jkxlh>791F09090306170309158E9882DB8B8E8FEEF681FF8B9AEB92CFD0A1A1C5A5D3CCA8</jkxlh><time>2016-06-05 21:00:28</time></info>),return(-2)
+
+
+2016-06-05 21:00:28:928[Log] msg:
+卡口注册失败！
+
+2016-06-05 21:00:28:928[Log] msg:
+error[-1]:web service upload data fail!
+
+2016-06-05 21:00:29:194[Log] msg:
+车道重新注册
+
+2016-06-05 21:00:29:194[Log] msg:
+610900100005_1_1
+
+2016-06-05 21:00:29:209[Log] msg:
+
+ init trans hostip(10.176.100.185),kkbh(610900100005),fxlx(1),cdh(1),info(<info><jkid>62C01</jkid><jkxlh>791F09090306170309158E9882DB8B8E8FEEF681FF8B9AEB92CFD0A1A1C5A5D3CCA8</jkxlh><time>2016-06-05 21:00:29</time></info>),return(-2)
+
+
+2016-06-05 21:00:29:209[Log] msg:
+卡口注册失败！
+
+2016-06-05 21:00:29:209[Log] msg:
+error[-1]:web service upload data fail!
+
+2016-06-05 21:00:29:646[Log] msg:
+车道重新注册
+
+2016-06-05 21:00:29:646[Log] msg:
+610900100005_1_1
+
+2016-06-05 21:00:29:646[Log] msg:
+
+ init trans hostip(10.176.100.185),kkbh(610900100006),fxlx(2),cdh(1),info(<info><jkid>62C01</jkid><jkxlh>791F09090306170309158E9882DB8B8E8FEEF681FF8B9AEB92CFD0A1A1C5A5D3CCA8</jkxlh><time>2016-06-05 21:00:29</time></info>),return(-2)
+
+
+2016-06-05 21:00:29:646[Log] msg:
+卡口注册失败！
+
+2016-06-05 21:00:29:646[Log] msg:
+error[-1]:web service upload data fail!
+
+2016-06-05 21:00:29:802[Log] msg:
+车道重新注册
+
+2016-06-05 21:00:29:802[Log] msg:
+610900100007_2_2
+
+2016-06-05 21:00:29:818[Log] msg:
+
+ init trans hostip(10.176.100.185),kkbh(610900100005),fxlx(1),cdh(1),info(<info><jkid>62C01</jkid><jkxlh>791F09090306170309158E9882DB8B8E8FEEF681FF8B9AEB92CFD0A1A1C5A5D3CCA8</jkxlh><time>2016-06-05 21:00:29</time></info>),return(-2)
+
+
+2016-06-05 21:00:29:818[Log] msg:
+卡口注册失败！
+
+2016-06-05 21:00:29:818[Log] msg:
+error[-1]:web service upload data fail!
+
+2016-06-05 21:00:30:020[Log] msg:
+车道重新注册
+
+2016-06-05 21:00:30:020[Log] msg:
+610900100008_1_2
+
+2016-06-05 21:00:30:036[Log] msg:
+
+ init trans hostip(10.176.100.185),kkbh(610900100007),fxlx(2),cdh(2),info(<info><jkid>62C01</jkid><jkxlh>791F09090306170309158E9882DB8B8E8FEEF681FF8B9AEB92CFD0A1A1C5A5D3CCA8</jkxlh><time>2016-06-05 21:00:30</time></info>),return(-2)
+
+
+2016-06-05 21:00:30:036[Log] msg:
+卡口注册失败！
+
+2016-06-05 21:00:30:036[Log] msg:
+error[-1]:web service upload data fail!
+
+2016-06-05 21:00:30:691[Log] msg:
+车道重新注册
+
+2016-06-05 21:00:30:691[Log] msg:
+610900100005_1_1
+
+2016-06-05 21:00:30:691[Log] msg:
+
+ init trans hostip(10.176.100.185),kkbh(610900100006),fxlx(2),cdh(2),info(<info><jkid>62C01</jkid><jkxlh>791F09090306170309158E9882DB8B8E8FEEF681FF8B9AEB92CFD0A1A1C5A5D3CCA8</jkxlh><time>2016-06-05 21:00:30</time></info>),return(-2)
+
+
+2016-06-05 21:00:30:691[Log] msg:
+卡口注册失败！
+
+2016-06-05 21:00:30:691[Log] msg:
+error[-1]:web service upload data fail!
+
+2016-06-05 21:00:30:878[Log] msg:
+车道重新注册
+
+2016-06-05 21:00:30:878[Log] msg:
+610900100005_1_1
+
+2016-06-05 21:00:30:878[Log] msg:
+
+ init trans hostip(10.176.100.185),kkbh(610900100005),fxlx(1),cdh(1),info(<info><jkid>62C01</jkid><jkxlh>791F09090306170309158E9882DB8B8E8FEEF681FF8B9AEB92CFD0A1A1C5A5D3CCA8</jkxlh><time>2016-06-05 21:00:30</time></info>),return(-2)
+
+
+2016-06-05 21:00:30:878[Log] msg:
+卡口注册失败！
+
+2016-06-05 21:00:30:878[Log] msg:
+error[-1]:web service upload data fail!
+
+2016-06-05 21:00:31:003[Log] msg:
+车道重新注册
+
+2016-06-05 21:00:31:003[Log] msg:
+610900100007_2_2
+
+2016-06-05 21:00:31:003[Log] msg:
+
+ init trans hostip(10.176.100.185),kkbh(610900100005),fxlx(1),cdh(1),info(<info><jkid>62C01</jkid><jkxlh>791F09090306170309158E9882DB8B8E8FEEF681FF8B9AEB92CFD0A1A1C5A5D3CCA8</jkxlh><time>2016-06-05 21:00:31</time></info>),return(-2)
+
+
+2016-06-05 21:00:31:003[Log] msg:
+卡口注册失败！
+
+2016-06-05 21:00:31:003[Log] msg:
+error[-1]:web service upload data fail!
+
+2016-06-05 21:00:31:222[Log] msg:
+车道重新注册
+
+2016-06-05 21:00:31:222[Log] msg:
+610900100008_1_2
+
+2016-06-05 21:00:31:222[Log] msg:
+
+ init trans hostip(10.176.100.185),kkbh(610900100007),fxlx(2),cdh(2),info(<info><jkid>62C01</jkid><jkxlh>791F09090306170309158E9882DB8B8E8FEEF681FF8B9AEB92CFD0A1A1C5A5D3CCA8</jkxlh><time>2016-06-05 21:00:31</time></info>),return(-2)
+
+
+2016-06-05 21:00:31:222[Log] msg:
+卡口注册失败！
+
+2016-06-05 21:00:31:222[Log] msg:
+error[-1]:web service upload data fail!
+
+2016-06-05 21:00:31:705[Log] msg:
+车道重新注册
+
+2016-06-05 21:00:31:705[Log] msg:
+610900100005_1_1
+
+2016-06-05 21:00:31:705[Log] msg:
+
+ init trans hostip(10.176.100.185),kkbh(610900100008),fxlx(1),cdh(2),info(<info><jkid>62C01</jkid><jkxlh>791F09090306170309158E9882DB8B8E8FEEF681FF8B9AEB92CFD0A1A1C5A5D3CCA8</jkxlh><time>2016-06-05 21:00:31</time></info>),return(-2)
+
+
+2016-06-05 21:00:31:705[Log] msg:
+卡口注册失败！
+
+2016-06-05 21:00:31:705[Log] msg:
+error[-1]:web service upload data fail!
+
+2016-06-05 21:00:31:846[Log] msg:
+车道重新注册
+
+2016-06-05 21:00:31:861[Log] msg:
+610900100007_2_2
+
+2016-06-05 21:00:31:861[Log] msg:
+
+ init trans hostip(10.176.100.185),kkbh(610900100005),fxlx(1),cdh(1),info(<info><jkid>62C01</jkid><jkxlh>791F09090306170309158E9882DB8B8E8FEEF681FF8B9AEB92CFD0A1A1C5A5D3CCA8</jkxlh><time>2016-06-05 21:00:31</time></info>),return(-2)
+
+
+2016-06-05 21:00:31:861[Log] msg:
+卡口注册失败！
+
+2016-06-05 21:00:31:861[Log] msg:
+error[-1]:web service upload data fail!
+
+2016-06-05 21:00:32:126[Log] msg:
+车道重新注册
+
+2016-06-05 21:00:32:126[Log] msg:
+610900100005_1_1
+
+2016-06-05 21:00:32:126[Log] msg:
+
+ init trans hostip(10.176.100.185),kkbh(610900100007),fxlx(2),cdh(2),info(<info><jkid>62C01</jkid><jkxlh>791F09090306170309158E9882DB8B8E8FEEF681FF8B9AEB92CFD0A1A1C5A5D3CCA8</jkxlh><time>2016-06-05 21:00:32</time></info>),return(-2)
+
+
+2016-06-05 21:00:32:126[Log] msg:
+卡口注册失败！
+
+2016-06-05 21:00:32:126[Log] msg:
+error[-1]:web service upload data fail!
+
+2016-06-05 21:00:32:251[Log] msg:
+车道重新注册
+
+2016-06-05 21:00:32:251[Log] msg:
+610900100008_1_2
+
+2016-06-05 21:00:32:251[Log] msg:
+
+ init trans hostip(10.176.100.185),kkbh(610900100007),fxlx(2),cdh(2),info(<info><jkid>62C01</jkid><jkxlh>791F09090306170309158E9882DB8B8E8FEEF681FF8B9AEB92CFD0A1A1C5A5D3CCA8</jkxlh><time>2016-06-05 21:00:32</time></info>),return(-2)
+
+
+2016-06-05 21:00:32:251[Log] msg:
+卡口注册失败！
+
+2016-06-05 21:00:32:251[Log] msg:
+error[-1]:web service upload data fail!
+
+2016-06-05 21:00:32:314[Log] msg:
+车道重新注册
+
+2016-06-05 21:00:32:314[Log] msg:
+610900100006_2_1
+
+2016-06-05 21:00:32:314[Log] msg:
+
+ init trans hostip(10.176.100.185),kkbh(610900100007),fxlx(2),cdh(2),info(<info><jkid>62C01</jkid><jkxlh>791F09090306170309158E9882DB8B8E8FEEF681FF8B9AEB92CFD0A1A1C5A5D3CCA8</jkxlh><time>2016-06-05 21:00:32</time></info>),return(-2)
+
+
+2016-06-05 21:00:32:314[Log] msg:
+卡口注册失败！
+
+2016-06-05 21:00:32:329[Log] msg:
+error[-1]:web service upload data fail!
+
+2016-06-05 21:00:32:719[Log] msg:
+车道重新注册
+
+2016-06-05 21:00:32:719[Log] msg:
+610900100005_1_1
+
+2016-06-05 21:00:32:719[Log] msg:
+
+ init trans hostip(10.176.100.185),kkbh(610900100008),fxlx(1),cdh(2),info(<info><jkid>62C01</jkid><jkxlh>791F09090306170309158E9882DB8B8E8FEEF681FF8B9AEB92CFD0A1A1C5A5D3CCA8</jkxlh><time>2016-06-05 21:00:32</time></info>),return(-2)
+
+
+2016-06-05 21:00:32:719[Log] msg:
+卡口注册失败！
+
+2016-06-05 21:00:32:719[Log] msg:
+error[-1]:web service upload data fail!
+
+2016-06-05 21:00:32:860[Log] msg:
+车道重新注册
+
+2016-06-05 21:00:32:875[Log] msg:
+610900100007_2_2
+
+2016-06-05 21:00:32:875[Log] msg:
+
+ init trans hostip(10.176.100.185),kkbh(610900100005),fxlx(1),cdh(1),info(<info><jkid>62C01</jkid><jkxlh>791F09090306170309158E9882DB8B8E8FEEF681FF8B9AEB92CFD0A1A1C5A5D3CCA8</jkxlh><time>2016-06-05 21:00:32</time></info>),return(-2)
+
+
+2016-06-05 21:00:32:875[Log] msg:
+卡口注册失败！
+
+2016-06-05 21:00:32:875[Log] msg:
+error[-1]:web service upload data fail!
+
+2016-06-05 21:00:33:078[Log] msg:
+车道重新注册
+
+2016-06-05 21:00:33:078[Log] msg:
+610900100008_1_2
+
+2016-06-05 21:00:33:094[Log] msg:
+
+ init trans hostip(10.176.100.185),kkbh(610900100005),fxlx(1),cdh(1),info(<info><jkid>62C01</jkid><jkxlh>791F09090306170309158E9882DB8B8E8FEEF681FF8B9AEB92CFD0A1A1C5A5D3CCA8</jkxlh><time>2016-06-05 21:00:33</time></info>),return(-2)
+
+
+2016-06-05 21:00:33:094[Log] msg:
+卡口注册失败！
+
+2016-06-05 21:00:33:094[Log] msg:
+error[-1]:web service upload data fail!
+
+2016-06-05 21:00:33:125[Log] msg:
+车道重新注册
+
+2016-06-05 21:00:33:125[Log] msg:
+610900100006_2_2
+
+2016-06-05 21:00:33:125[Log] msg:
+
+ init trans hostip(10.176.100.185),kkbh(610900100005),fxlx(1),cdh(1),info(<info><jkid>62C01</jkid><jkxlh>791F09090306170309158E9882DB8B8E8FEEF681FF8B9AEB92CFD0A1A1C5A5D3CCA8</jkxlh><time>2016-06-05 21:00:33</time></info>),return(-2)
+
+
+2016-06-05 21:00:33:125[Log] msg:
+卡口注册失败！
+
+2016-06-05 21:00:33:125[Log] msg:
+error[-1]:web service upload data fail!
+
+2016-06-05 21:00:33:733[Log] msg:
+车道重新注册
+
+2016-06-05 21:00:33:733[Log] msg:
+610900100005_1_1
+
+2016-06-05 21:00:33:733[Log] msg:
+
+ init trans hostip(10.176.100.185),kkbh(610900100006),fxlx(2),cdh(1),info(<info><jkid>62C01</jkid><jkxlh>791F09090306170309158E9882DB8B8E8FEEF681FF8B9AEB92CFD0A1A1C5A5D3CCA8</jkxlh><time>2016-06-05 21:00:33</time></info>),return(-2)
+
+
+2016-06-05 21:00:33:733[Log] msg:
+卡口注册失败！
+
+2016-06-05 21:00:33:733[Log] msg:
+error[-1]:web service upload data fail!
+
+2016-06-05 21:00:33:952[Log] msg:
+车道重新注册
+
+2016-06-05 21:00:33:952[Log] msg:
+610900100005_1_1
+
+2016-06-05 21:00:33:952[Log] msg:
+
+ init trans hostip(10.176.100.185),kkbh(610900100005),fxlx(1),cdh(1),info(<info><jkid>62C01</jkid><jkxlh>791F09090306170309158E9882DB8B8E8FEEF681FF8B9AEB92CFD0A1A1C5A5D3CCA8</jkxlh><time>2016-06-05 21:00:33</time></info>),return(-2)
+
+
+2016-06-05 21:00:33:952[Log] msg:
+卡口注册失败！
+
+2016-06-05 21:00:33:952[Log] msg:
+error[-1]:web service upload data fail!
+
+2016-06-05 21:00:34:092[Log] msg:
+车道重新注册
+
+2016-06-05 21:00:34:092[Log] msg:
+610900100007_2_2
+
+2016-06-05 21:00:34:092[Log] msg:
+
+ init trans hostip(10.176.100.185),kkbh(610900100005),fxlx(1),cdh(1),info(<info><jkid>62C01</jkid><jkxlh>791F09090306170309158E9882DB8B8E8FEEF681FF8B9AEB92CFD0A1A1C5A5D3CCA8</jkxlh><time>2016-06-05 21:00:34</time></info>),return(-2)
+
+
+2016-06-05 21:00:34:092[Log] msg:
+卡口注册失败！
+
+2016-06-05 21:00:34:092[Log] msg:
+error[-1]:web service upload data fail!
+
+2016-06-05 21:00:34:279[Log] msg:
+车道重新注册
+
+2016-06-05 21:00:34:279[Log] msg:
+610900100008_1_2
+
+2016-06-05 21:00:34:279[Log] msg:
+
+ init trans hostip(10.176.100.185),kkbh(610900100007),fxlx(2),cdh(2),info(<info><jkid>62C01</jkid><jkxlh>791F09090306170309158E9882DB8B8E8FEEF681FF8B9AEB92CFD0A1A1C5A5D3CCA8</jkxlh><time>2016-06-05 21:00:34</time></info>),return(-2)
+
+
+2016-06-05 21:00:34:279[Log] msg:
+卡口注册失败！
+
+2016-06-05 21:00:34:279[Log] msg:
+error[-1]:web service upload data fail!
+
+2016-06-05 21:00:34:747[Log] msg:
+车道重新注册
+
+2016-06-05 21:00:34:747[Log] msg:
+610900100005_1_1
+
+2016-06-05 21:00:34:747[Log] msg:
+
+ init trans hostip(10.176.100.185),kkbh(610900100008),fxlx(1),cdh(2),info(<info><jkid>62C01</jkid><jkxlh>791F09090306170309158E9882DB8B8E8FEEF681FF8B9AEB92CFD0A1A1C5A5D3CCA8</jkxlh><time>2016-06-05 21:00:34</time></info>),return(-2)
+
+
+2016-06-05 21:00:34:747[Log] msg:
+卡口注册失败！
+
+2016-06-05 21:00:34:747[Log] msg:
+error[-1]:web service upload data fail!
+
+2016-06-05 21:00:34:981[Log] msg:
+车道重新注册
+
+2016-06-05 21:00:34:981[Log] msg:
+610900100005_1_1
+
+2016-06-05 21:00:34:981[Log] msg:
+
+ init trans hostip(10.176.100.185),kkbh(610900100005),fxlx(1),cdh(1),info(<info><jkid>62C01</jkid><jkxlh>791F09090306170309158E9882DB8B8E8FEEF681FF8B9AEB92CFD0A1A1C5A5D3CCA8</jkxlh><time>2016-06-05 21:00:34</time></info>),return(-2)
+
+
+2016-06-05 21:00:34:981[Log] msg:
+卡口注册失败！
+
+2016-06-05 21:00:34:981[Log] msg:
+error[-1]:web service upload data fail!
+
+2016-06-05 21:00:35:122[Log] msg:
+车道重新注册
+
+2016-06-05 21:00:35:122[Log] msg:
+610900100007_2_2
+
+2016-06-05 21:00:35:122[Log] msg:
+
+ init trans hostip(10.176.100.185),kkbh(610900100005),fxlx(1),cdh(1),info(<info><jkid>62C01</jkid><jkxlh>791F09090306170309158E9882DB8B8E8FEEF681FF8B9AEB92CFD0A1A1C5A5D3CCA8</jkxlh><time>2016-06-05 21:00:35</time></info>),return(-2)
+
+
+2016-06-05 21:00:35:122[Log] msg:
+卡口注册失败！
+
+2016-06-05 21:00:35:122[Log] msg:
+error[-1]:web service upload data fail!
+
+2016-06-05 21:00:35:340[Log] msg:
+车道重新注册
+
+2016-06-05 21:00:35:340[Log] msg:
+610900100008_1_2
+
+2016-06-05 21:00:35:340[Log] msg:
+
+ init trans hostip(10.176.100.185),kkbh(610900100008),fxlx(1),cdh(2),info(<info><jkid>62C01</jkid><jkxlh>791F09090306170309158E9882DB8B8E8FEEF681FF8B9AEB92CFD0A1A1C5A5D3CCA8</jkxlh><time>2016-06-05 21:00:35</time></info>),return(-2)
+
+
+2016-06-05 21:00:35:340[Log] msg:
+卡口注册失败！
+
+2016-06-05 21:00:35:340[Log] msg:
+error[-1]:web service upload data fail!
+
+2016-06-05 21:00:35:777[Log] msg:
+车道重新注册
+
+2016-06-05 21:00:35:777[Log] msg:
+610900100005_1_1
+
+2016-06-05 21:00:35:777[Log] msg:
+
+ init trans hostip(10.176.100.185),kkbh(610900100007),fxlx(2),cdh(2),info(<info><jkid>62C01</jkid><jkxlh>791F09090306170309158E9882DB8B8E8FEEF681FF8B9AEB92CFD0A1A1C5A5D3CCA8</jkxlh><time>2016-06-05 21:00:35</time></info>),return(-2)
+
+
+2016-06-05 21:00:35:777[Log] msg:
+卡口注册失败！
+
+2016-06-05 21:00:35:777[Log] msg:
+error[-1]:web service upload data fail!
+
+2016-06-05 21:00:35:995[Log] msg:
+车道重新注册
+
+2016-06-05 21:00:35:995[Log] msg:
+610900100005_1_1
+
+2016-06-05 21:00:35:995[Log] msg:
+
+ init trans hostip(10.176.100.185),kkbh(610900100008),fxlx(1),cdh(2),info(<info><jkid>62C01</jkid><jkxlh>791F09090306170309158E9882DB8B8E8FEEF681FF8B9AEB92CFD0A1A1C5A5D3CCA8</jkxlh><time>2016-06-05 21:00:35</time></info>),return(-2)
+
+
+2016-06-05 21:00:35:995[Log] msg:
+卡口注册失败！
+
+2016-06-05 21:00:35:995[Log] msg:
+error[-1]:web service upload data fail!
+
+2016-06-05 21:00:36:136[Log] msg:
+车道重新注册
+
+2016-06-05 21:00:36:136[Log] msg:
+610900100007_2_2
+
+2016-06-05 21:00:36:136[Log] msg:
+
+ init trans hostip(10.176.100.185),kkbh(610900100008),fxlx(1),cdh(2),info(<info><jkid>62C01</jkid><jkxlh>791F09090306170309158E9882DB8B8E8FEEF681FF8B9AEB92CFD0A1A1C5A5D3CCA8</jkxlh><time>2016-06-05 21:00:36</time></info>),return(-2)
+
+
+2016-06-05 21:00:36:136[Log] msg:
+卡口注册失败！
+
+2016-06-05 21:00:36:136[Log] msg:
+error[-1]:web service upload data fail!
+
+2016-06-05 21:00:36:323[Log] msg:
+车道重新注册
+
+2016-06-05 21:00:36:323[Log] msg:
+610900100008_1_2
+
+2016-06-05 21:00:36:323[Log] msg:
+
+ init trans hostip(10.176.100.185),kkbh(610900100005),fxlx(1),cdh(1),info(<info><jkid>62C01</jkid><jkxlh>791F09090306170309158E9882DB8B8E8FEEF681FF8B9AEB92CFD0A1A1C5A5D3CCA8</jkxlh><time>2016-06-05 21:00:36</time></info>),return(-2)
+
+
+2016-06-05 21:00:36:323[Log] msg:
+卡口注册失败！
+
+2016-06-05 21:00:36:323[Log] msg:
+error[-1]:web service upload data fail!
+
+2016-06-05 21:00:36:713[Log] msg:
+车道重新注册
+
+2016-06-05 21:00:36:713[Log] msg:
+610900100006_2_1
+
+2016-06-05 21:00:36:728[Log] msg:
+
+ init trans hostip(10.176.100.185),kkbh(610900100007),fxlx(2),cdh(2),info(<info><jkid>62C01</jkid><jkxlh>791F09090306170309158E9882DB8B8E8FEEF681FF8B9AEB92CFD0A1A1C5A5D3CCA8</jkxlh><time>2016-06-05 21:00:36</time></info>),return(-2)
+
+
+2016

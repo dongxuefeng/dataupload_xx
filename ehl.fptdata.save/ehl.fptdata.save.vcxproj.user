@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <LocalDebuggerCommandArguments>20150427111212999_0_70_陕A12345_黄_01_01_4_3_hik.jpg</LocalDebuggerCommandArguments>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LocalDebuggerCommandArguments>
+    </LocalDebuggerCommandArguments>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+    <LocalDebuggerCommand>D:\ehl\src\datatoehl\bin\ehl.ftpdata.proc.exe</LocalDebuggerCommand>
+    <LocalDebuggerWorkingDirectory>D:\ehl\src\datatoehl\bin\</LocalDebuggerWorkingDirectory>
+  </PropertyGroup>
+</Project>

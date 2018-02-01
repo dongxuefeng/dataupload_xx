@@ -1,0 +1,285 @@
+﻿生成启动时间为 2016/6/4 15:43:16。
+     1>项目“D:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\ehl.fptdata.save.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(357,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ID:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save_wx_v0.4\ehl.fptdata.save_wx_v0.2\webref\wxtracert /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D EHLFPTDATASAVE_EXPORTS /D _WINDLL /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ehl.ftpdata.save.cpp webref\ehl_webref.cpp webref\soapC.cpp webref\soapClient.cpp webref\stdsoap2.cpp
+         stdsoap2.cpp
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\webref\stdsoap2.cpp(893): warning C4244: “return”: 从“std::streamsize”转换到“size_t”，可能丢失数据
+         soapClient.cpp
+         soapC.cpp
+         ehl_webref.cpp
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\lib\c_time.h(298): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\lib\c_time.h(306): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\lib\c_time.h(318): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\lib\c_time.h(326): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\lib\c_time.h(337): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\lib\c_time.h(346): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\lib\replace_info.h(30): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\lib\check_file_path.h(55): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\lib\check_file_path.h(71): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\lib\check_file_path.h(82): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\lib\check_file_path.h(95): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\lib\check_file_path.h(102): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\lib\check_file_path.h(110): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\lib\check_file_path.h(117): warning C4996: 'rmdir': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _rmdir. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\direct.h(141) : 参见“rmdir”的声明
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\lib\check_file_path.h(131): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\lib\check_file_path.h(137): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\lib\check_file_path.h(151): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\lib\check_file_path.h(161): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\lib\write_log.h(22): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\lib\write_log.h(23): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\lib\write_log.h(25): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\lib\write_log.h(27): warning C4996: '_open': This function or variable may be unsafe. Consider using _sopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\io.h(242) : 参见“_open”的声明
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\webref\ehl_webref.cpp(30): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\webref\ehl_webref.cpp(34): warning C4099: “_ns1__InPassCarInfo”: 类型名称以前使用“class”现在使用的是“struct”
+                 d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\webref\soapstub.h(216) : 参见“_ns1__InPassCarInfo”的声明
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\webref\ehl_webref.cpp(35): warning C4099: “_ns1__InPassCarInfoResponse”: 类型名称以前使用“class”现在使用的是“struct”
+                 d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\webref\soapstub.h(237) : 参见“_ns1__InPassCarInfoResponse”的声明
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\webref\ehl_webref.cpp(67): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\webref\ehl_webref.cpp(71): warning C4099: “_ns1__InPeccancyInfo”: 类型名称以前使用“class”现在使用的是“struct”
+                 d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\webref\soapstub.h(258) : 参见“_ns1__InPeccancyInfo”的声明
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\webref\ehl_webref.cpp(72): warning C4099: “_ns1__InPeccancyInfoResponse”: 类型名称以前使用“class”现在使用的是“struct”
+                 d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\webref\soapstub.h(279) : 参见“_ns1__InPeccancyInfoResponse”的声明
+         ehl.ftpdata.save.cpp
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\ehl.ftpdata.save.cpp(56): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\ehl.ftpdata.save.cpp(72): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\ehl.ftpdata.save.cpp(73): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(204) : 参见“strtok”的声明
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\ehl.ftpdata.save.cpp(74): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(204) : 参见“strtok”的声明
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\ehl.ftpdata.save.cpp(79): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\ehl.ftpdata.save.cpp(155): warning C4996: '_splitpath': This function or variable may be unsafe. Consider using _splitpath_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdlib.h(854) : 参见“_splitpath”的声明
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\ehl.ftpdata.save.cpp(158): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(204) : 参见“strtok”的声明
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\ehl.ftpdata.save.cpp(159): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(204) : 参见“strtok”的声明
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\ehl.ftpdata.save.cpp(160): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(204) : 参见“strtok”的声明
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\ehl.ftpdata.save.cpp(161): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(204) : 参见“strtok”的声明
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\ehl.ftpdata.save.cpp(162): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(204) : 参见“strtok”的声明
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\ehl.ftpdata.save.cpp(163): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(204) : 参见“strtok”的声明
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\ehl.ftpdata.save.cpp(164): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(204) : 参见“strtok”的声明
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\ehl.ftpdata.save.cpp(165): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(204) : 参见“strtok”的声明
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\ehl.ftpdata.save.cpp(166): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(204) : 参见“strtok”的声明
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\ehl.ftpdata.save.cpp(167): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(204) : 参见“strtok”的声明
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\ehl.ftpdata.save.cpp(168): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(204) : 参见“strtok”的声明
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\ehl.ftpdata.save.cpp(241): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\ehl.ftpdata.save.cpp(327): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\ehl.ftpdata.save.cpp(463): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\ehl.ftpdata.save.cpp(465): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\ehl.ftpdata.save.cpp(468): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\ehl.ftpdata.save.cpp(470): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\ehl.ftpdata.save.cpp(472): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\ehl.ftpdata.save.cpp(474): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\ehl.ftpdata.save.cpp(476): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\ehl.ftpdata.save.cpp(478): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\ehl.ftpdata.save.cpp(480): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\ehl.ftpdata.save.cpp(486): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\ehl.ftpdata.save.cpp(491): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\ehl.ftpdata.save.cpp(497): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\ehl.ftpdata.save.cpp(502): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\ehl.ftpdata.save.cpp(508): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\ehl.ftpdata.save.cpp(513): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\ehl.ftpdata.save.cpp(519): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\ehl.ftpdata.save.cpp(523): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\ehl.ftpdata.save.cpp(527): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\ehl.ftpdata.save.cpp(531): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\ehl.ftpdata.save.cpp(535): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\ehl.ftpdata.save.cpp(539): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\ehl.ftpdata.save.cpp(543): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\ehl.ftpdata.save.cpp(547): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\ehl.ftpdata.save.cpp(551): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\ehl.ftpdata.save.cpp(555): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\ehl.ftpdata.save.cpp(559): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\ehl.ftpdata.save.cpp(563): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\ehl.ftpdata.save.cpp(568): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\ehl.ftpdata.save.cpp(572): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\ehl.ftpdata.save.cpp(576): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\ehl.ftpdata.save.cpp(580): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\ehl.ftpdata.save.cpp(583): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\ehl.ftpdata.save.cpp(586): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\ehl.ftpdata.save.cpp(595): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\ehl.ftpdata.save.cpp(597): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\ehl.ftpdata.save.cpp(599): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\ehl.ftpdata.save.cpp(601): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\ehl.ftpdata.save.cpp(603): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\ehl.ftpdata.save.cpp(605): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\ehl.ftpdata.save.cpp(607): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\ehl.ftpdata.save.cpp(609): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\ehl.ftpdata.save.cpp(611): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\ehl.ftpdata.save.cpp(616): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\ehl.ftpdata.save.cpp(621): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\ehl.ftpdata.save.cpp(625): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\ehl.ftpdata.save.cpp(630): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\ehl.ftpdata.save.cpp(635): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\ehl.ftpdata.save.cpp(640): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\ehl.ftpdata.save.cpp(645): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\ehl.ftpdata.save.cpp(649): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\ehl.ftpdata.save.cpp(653): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\ehl.ftpdata.save.cpp(657): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\ehl.ftpdata.save.cpp(661): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\ehl.ftpdata.save.cpp(665): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\ehl.ftpdata.save.cpp(669): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\ehl.ftpdata.save.cpp(673): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\ehl.ftpdata.save.cpp(676): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\ehl.ftpdata.save.cpp(679): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\lib\c_time.h(298): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\lib\c_time.h(306): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\lib\c_time.h(318): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\lib\c_time.h(326): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\lib\c_time.h(337): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\lib\c_time.h(346): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\lib\replace_info.h(30): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 参见“strdup”的声明
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\lib\check_file_path.h(55): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\lib\check_file_path.h(71): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\lib\check_file_path.h(82): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\lib\check_file_path.h(95): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\lib\check_file_path.h(102): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\lib\check_file_path.h(110): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\lib\check_file_path.h(117): warning C4996: 'rmdir': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _rmdir. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\direct.h(141) : 参见“rmdir”的声明
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\lib\check_file_path.h(131): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\lib\check_file_path.h(137): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\lib\check_file_path.h(151): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\lib\check_file_path.h(161): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\lib\write_log.h(22): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\lib\write_log.h(23): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\lib\write_log.h(25): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\lib\write_log.h(27): warning C4996: '_open': This function or variable may be unsafe. Consider using _sopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\io.h(242) : 参见“_open”的声明
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\ehl.ftpdata.save.cpp(827): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\ehl.ftpdata.save.cpp(891): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>d:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\ehl.ftpdata.save.cpp(896): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+         正在生成代码...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\Debug\..\..\bin\ehl.ftpdata.save.dll" /INCREMENTAL /NOLOGO Shlwapi.lib lib\iconv.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /DEF:"ehl_ftpdata_save.def" /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\Debug\..\..\bin\ehl.ftpdata.save.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\Debug\..\..\bin\ehl.ftpdata.save.lib" /MACHINE:X86 /DLL Debug\ehl.ftpdata.save.obj
+         Debug\ehl_webref.obj
+         Debug\soapC.obj
+         Debug\soapClient.obj
+         Debug\stdsoap2.obj
+         ..\ehl.fptdata.save_wx_v0.4\ehl.fptdata.save_wx_v0.2\webref\wxtracert\HTAgent.lib
+         lib\iconv.lib
+            正在创建库 D:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\Debug\..\..\bin\ehl.ftpdata.save.lib 和对象 D:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\Debug\..\..\bin\ehl.ftpdata.save.exp
+         ehl.fptdata.save.vcxproj -> D:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\Debug\..\..\bin\ehl.ftpdata.save.dll
+     1>已完成生成项目“D:\workspace\ehl\ehl\src\datatoehl\dataupload\ehl.fptdata.save\ehl.fptdata.save.vcxproj”(Rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:13.62

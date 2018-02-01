@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="webref">
+      <UniqueIdentifier>{6fe45ce1-ce0a-4891-bf1c-39f58ac15417}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="lib">
+      <UniqueIdentifier>{da8bf8fb-a660-41c8-9cd2-f8c89aea4e82}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ehl.ftpdata.save.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="webref\ehl_webref.h">
+      <Filter>webref</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\workspace\svn\xxIPD\02-Software Imp\DJ-XQ-W11081001\SRC\xxlib\xxdatatype\c_time.h">
+      <Filter>lib</Filter>
+    </ClInclude>
+    <ClInclude Include="lib\check_file_path.h">
+      <Filter>lib</Filter>
+    </ClInclude>
+    <ClInclude Include="lib\write_log.h">
+      <Filter>lib</Filter>
+    </ClInclude>
+    <ClInclude Include="lib\replace_info.h">
+      <Filter>lib</Filter>
+    </ClInclude>
+    <ClInclude Include="lib\iconv.h">
+      <Filter>lib</Filter>
+    </ClInclude>
+    <ClInclude Include="webref\soapH.h">
+      <Filter>webref</Filter>
+    </ClInclude>
+    <ClInclude Include="webref\soapStub.h">
+      <Filter>webref</Filter>
+    </ClInclude>
+    <ClInclude Include="webref\stdsoap2.h">
+      <Filter>webref</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="ehl.ftpdata.save.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="webref\ehl_webref.cpp">
+      <Filter>webref</Filter>
+    </ClCompile>
+    <ClCompile Include="webref\soapC.cpp">
+      <Filter>webref</Filter>
+    </ClCompile>
+    <ClCompile Include="webref\soapClient.cpp">
+      <Filter>webref</Filter>
+    </ClCompile>
+    <ClCompile Include="webref\stdsoap2.cpp">
+      <Filter>webref</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ehl_ftpdata_save.def">
+      <Filter>源文件</Filter>
+    </None>
+    <None Include="..\ehl.fptdata.save_wx_v0.4\ehl.fptdata.save_wx_v0.2\webref\wxtracert\TransSoapBinding.nsmap" />
+    <None Include="webref\OpenInterfaceSoap.nsmap">
+      <Filter>webref</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Library Include="lib\iconv.lib">
+      <Filter>lib</Filter>
+    </Library>
+    <Library Include="..\ehl.fptdata.save_wx_v0.4\ehl.fptdata.save_wx_v0.2\webref\wxtracert\HTAgent.lib" />
+  </ItemGroup>
+  <ItemGroup>
+    <Xml Include="..\ehl.fptdata.save_wx_v0.4\ehl.fptdata.save_wx_v0.2\webref\wxtracert\soap\Trans.xml" />
+  </ItemGroup>
+</Project>
